@@ -1,0 +1,9 @@
+Derivation file for run '../irish-toy-cfr'; etymon number :17:
+#klut̪ɑn# >>> #klːoθ# ( GOLD : #kloθ#) :
+k l u t̪ ɑ n 
+#klːut̪ɑnː# | 0 : [+son,+cons] > [+long] 
+#klːuθɑnː# | 3 : [-cont] > [+cont,0delrel] / [-cons] __ [+syl]
+#klːuθɑ# | 9 : [+cons] > ∅ / [-cons] __ #
+#klːoθɑ# | 12 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
+#klːoθ# | 17 : [+syl] > ∅ / __ #
+Final form : #klːoθ#

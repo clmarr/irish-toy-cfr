@@ -3,23 +3,52 @@ $Proto-Irish to Old Irish cascade!
 $although this language treats nasal stops as proper stops and [-cont] that's a change to symbolDefs I'm too lazy to implement at the moment, so we are instead handling that distinction with length. Implementing long variant default. Implement the same for l and r since it seems to work the same. 
 [+son,+cons] > [+long]
 
+$innovation of word initial stress. Taking into account that word boundaries that are going to be removed before long are currently represented by ʔ
+[+syl] > [+prim] / {#;ʔ} __
+
 $First Lenition: stops spirantize and sonorants "shorten" intervocalically. s to h in these contexts too. 
-{[-cont];[+son];s} > {[+cont];[+long];h} / [-cons] __ [+syl] 
+[-cont] > [+cont] / [-cons] __ [+syl] 
+[+son] > [-long] / [-cons] __ [+syl]
+s > h / [-cons] __ [+syl] 
 
 $lenition of s to h in also # __ V where the V is not stressed. 
 s > h / # __ [-stres]
 
-$loss of post-non-consonantal final consonants
-[+cons] > ∅ / [-cons] __ #
-
 $*w merges into β
 w > β
+
+$deletion of the word-boundary in nominal and verbal complexes it seems. This appears to happen after the first lenition, but before the first final consonant lost. Recall that this evanescent word boundary is being represented by <ʔ> 
+ʔ > ∅
+
+$loss of post-non-consonantal final consonants. This must come after the word boundary deletion with esan, given the nasalized onset form agenel. 
+[+cons] > ∅ / [-cons] __ #
+
+$consonants before i, e patalalize. This must happen before apocope (ri:mi:ti > r:ʲiṽʲiθʲ)
+[+cons,-front] > [+hi,+front] / __ [+front]
+
+$o raises to u if next syllable has high vowel (as noted in write up). This must be before apocope (goni, mrogi). Must also be before syncope (moniklas)
+	$ this would be alone, [+round,+syl] > [+hi] / __ ([-syl])* [+syl,+hi]
+$it seems e and also rises before i. Must be before syncope (wenikaros, esosu:lis), relationship to apocope unclear. 
+	$ these two together would make the following rule
+[-lo,+syl] > [+hi] / __ ([-syl])* [+syl,+hi]
+
+$ furthermore, and i lowers to e if next syllable has 'low vowel', like a, per the writeup. Upon further investigation this *also* happens if next syllable has o (tori:mo, bito:s). However this does not bleed the previous rule by changing i to e before it can act (wenikaros > finchar, moniklas > mune:l) ... the other explanation would be that it only effects stressed elements, but this hypothesis fails for moniklas.
+$ moniklas also shows that this lowering rule only operates once, and does not cascade (ohterwise it would be mone:l not mune:l). 
+$ this can be roped in with apparent similar effects on u: klutan > kloθ, katubutas > kathvuth. 
+$ [-hi,+back] captures a and o to the exclusion of e. 
+[+hi,+syl] > [-hi] / __ ([-syl])* [-hi,+back,+syl] 
+
+$ apparent o to a after labial (reassignment of rounding/height gesture?) 
+[-hi,+round,+syl] > [+lo,-round] / [+lab] __ 
 
 $post-sonorant stop voicing in clusters. Bled by spirantization in first lenition (finchar). 
 [-cont] > [+voi] / [+son] __
 
-$compensatory lenthening before nasal deletion for stressed vowels
+$compensatory lengthening before nasal deletion for stressed vowels
 [+stres] > [+long] / __ [+nas,+cons] [-son] 
 
 $loss of N in V __ C
 [+nas,+cons] > ∅ / [-cons] __ [+cons,-nas]
+
+$apocope: loss of vowels just before word boundary (no cons. in between) 
+[+syl] > ∅ / __ #

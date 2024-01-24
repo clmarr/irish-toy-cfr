@@ -1,0 +1,12 @@
+Derivation file for run '../irish-toy-cfr'; etymon number :20:
+#moniklɑs# >>> #mːunʲeɡlː# ( GOLD : #munʲeːl#) :
+m o n i k l ɑ s 
+#mːonːiklːɑs# | 0 : [+son,+cons] > [+long] 
+#mːoniklːɑs# | 4 : [+son] > [-long,-splng] / [-cons] __ [+syl]
+#mːoniklːɑ# | 9 : [+cons] > ∅ / [-cons] __ #
+#mːonʲiklːɑ# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
+#mːunʲiklːɑ# | 11 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
+#mːunʲeklːɑ# | 12 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
+#mːunʲeɡlːɑ# | 14 : [-cont] > [+voi] / [+son] __ 
+#mːunʲeɡlː# | 17 : [+syl] > ∅ / __ #
+Final form : #mːunʲeɡlː#

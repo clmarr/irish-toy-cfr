@@ -1,0 +1,10 @@
+Derivation file for run '../irish-toy-cfr'; etymon number :8:
+#weroɡɑlɑ# >>> #βʲeroɣɑl# ( GOLD : #fʲerɡɑl#) :
+w e r o ɡ ɑ l ɑ 
+#werːoɡɑlːɑ# | 0 : [+son,+cons] > [+long] 
+#werːoɣɑlːɑ# | 3 : [-cont] > [+cont,0delrel] / [-cons] __ [+syl]
+#weroɣɑlɑ# | 4 : [+son] > [-long,-splng] / [-cons] __ [+syl]
+#βeroɣɑlɑ# | 7 : w > β 
+#βʲeroɣɑlɑ# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
+#βʲeroɣɑl# | 17 : [+syl] > ∅ / __ #
+Final form : #βʲeroɣɑl#

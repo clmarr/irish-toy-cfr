@@ -1,0 +1,9 @@
+Derivation file for run '../irish-toy-cfr'; etymon number :2:
+#riːmiːt̪# >>> #rːʲiːmʲ# ( GOLD : #rːʲiːṽʲi#) :
+r iː m iː t̪ 
+#rːiːmːiːt̪# | 0 : [+son,+cons] > [+long] 
+#rːiːmiːt̪# | 4 : [+son] > [-long,-splng] / [-cons] __ [+syl]
+#rːiːmiː# | 9 : [+cons] > ∅ / [-cons] __ #
+#rːʲiːmʲiː# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
+#rːʲiːmʲ# | 17 : [+syl] > ∅ / __ #
+Final form : #rːʲiːmʲ#

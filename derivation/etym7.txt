@@ -1,0 +1,13 @@
+Derivation file for run '../irish-toy-cfr'; etymon number :7:
+#wenikɑros# >>> #βʲinʲexɑr# ( GOLD : #fʲinxɑr#) :
+w e n i k ɑ r o s 
+#wenːikɑrːos# | 0 : [+son,+cons] > [+long] 
+#wenːixɑrːos# | 3 : [-cont] > [+cont,0delrel] / [-cons] __ [+syl]
+#wenixɑros# | 4 : [+son] > [-long,-splng] / [-cons] __ [+syl]
+#βenixɑros# | 7 : w > β 
+#βenixɑro# | 9 : [+cons] > ∅ / [-cons] __ #
+#βʲenʲixɑro# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
+#βʲinʲixɑro# | 11 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
+#βʲinʲexɑro# | 12 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
+#βʲinʲexɑr# | 17 : [+syl] > ∅ / __ #
+Final form : #βʲinʲexɑr#

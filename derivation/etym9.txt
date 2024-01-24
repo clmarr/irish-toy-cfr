@@ -1,0 +1,14 @@
+Derivation file for run '../irish-toy-cfr'; etymon number :9:
+#esoʔkenet̪lɑn# >>> #ˈehoxʲenʲed̪lː# ( GOLD : #ɑxʲenʲeːl#) :
+e s o ʔ k e n e t̪ l ɑ n 
+#esoʔkenːet̪lːɑnː# | 0 : [+son,+cons] > [+long] 
+#ˈesoʔkenːet̪lːɑnː# | 1 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # __ 
+#ˈesoʔxenːet̪lːɑnː# | 3 : [-cont] > [+cont,0delrel] / [-cons] __ [+syl]
+#ˈesoʔxenet̪lːɑnː# | 4 : [+son] > [-long,-splng] / [-cons] __ [+syl]
+#ˈehoʔxenet̪lːɑnː# | 5 : s > h / [-cons] __ [+syl]
+#ˈehoxenet̪lːɑnː# | 8 : ʔ > ∅ 
+#ˈehoxenet̪lːɑ# | 9 : [+cons] > ∅ / [-cons] __ #
+#ˈehoxʲenʲet̪lːɑ# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
+#ˈehoxʲenʲed̪lːɑ# | 14 : [-cont] > [+voi] / [+son] __ 
+#ˈehoxʲenʲed̪lː# | 17 : [+syl] > ∅ / __ #
+Final form : #ˈehoxʲenʲed̪lː#

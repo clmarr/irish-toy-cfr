@@ -1,0 +1,12 @@
+Derivation file for run '../irish-toy-cfr'; etymon number :13:
+#esɑsʔsuːlis# >>> #ˈehɑshuːlʲ# ( GOLD : #ɑsuːlʲi#) :
+e s ɑ s ʔ s uː l i s 
+#esɑsʔsuːlːis# | 0 : [+son,+cons] > [+long] 
+#ˈesɑsʔsuːlːis# | 1 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # __ 
+#ˈesɑsʔsuːlis# | 4 : [+son] > [-long,-splng] / [-cons] __ [+syl]
+#ˈehɑsʔhuːlis# | 5 : s > h / [-cons] __ [+syl]
+#ˈehɑshuːlis# | 8 : ʔ > ∅ 
+#ˈehɑshuːli# | 9 : [+cons] > ∅ / [-cons] __ #
+#ˈehɑshuːlʲi# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
+#ˈehɑshuːlʲ# | 17 : [+syl] > ∅ / __ #
+Final form : #ˈehɑshuːlʲ#

@@ -1,0 +1,18 @@
+[+son,+cons] > [+long] 
+[+syl] > [+prim,+stres,+syl,+son,0delrel] / # __ 
+[+syl] > [+prim,+stres,+syl,+son,0delrel] / ʔ __ 
+[-cont] > [+cont,0delrel] / [-cons] __ [+syl]
+[+son] > [-long,-splng] / [-cons] __ [+syl]
+s > h / [-cons] __ [+syl]
+s > h / # __ [-stres]
+w > β 
+ʔ > ∅ 
+[+cons] > ∅ / [-cons] __ #
+[+cons,-front] > [+hi,+front] / __ [+front]
+[-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
+[+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
+[-hi,+round,+syl] > [+lo,-round] / [+lab] __ 
+[-cont] > [+voi] / [+son] __ 
+[+stres] > [+long] / __ [+nas,+cons] [-son]
+[+nas,+cons] > ∅ / [-cons] __ [+cons,-nas]
+[+syl] > ∅ / __ #

@@ -1,25 +1,30 @@
 $Proto-Irish,Old Irish
-k a t̪ u b u t̪ a s , k a θ v a θ 
+$assuming t d are dental like in the modern language
+$assuming <a> is actually back [ɑ] 
+$lenis sonorants treated as short. fortis sonorants as long. 
+$former prosodic word boundaries (removed in an intermediate stage) represented as glottal stops (not for clitic chains e.g. to-me-tent)
+k ɑ t̪ u b u t̪ ɑ s , k ɑ θ v ɑ θ 
 r iː m iː t̪ i , rːʲ i ṽʲ i θʲ
 r iː m iː t̪ , rːʲ iː ṽʲ i
-l e t̪ a s , lʲ e θ
+l e t̪ ɑ s , lːʲ e θ
 t̪ e n t̪ , t̪ʲ eː d̪ 
 t̪ o m e t̪ e n t̪ , t̪ o mʲ θʲ eː d̪
 t̪ o e n t̪ e n t̪ , t̪ʲ e d̪ʲ eː d̪ 
-w e n i k a r o s , fʲ i n x a ɾ
-w e r o ɡ a l a , fʲ e ɾ ɡ a l 
-e s o k e n e t̪ l a n , a x e n eː l
-e s a s k e n e t̪ l a n , a k e n eː l 
-e s o s uː l i s , a h uː lʲ
-e s a s s uː l i s , a s uː lʲ i
-t̪ o r iː m o , t̪ u ɾ e ṽ
-n iː t̪ o r iː m iː t̪ , n iː t̪ u ɾʲ ṽʲ i 
+w e n i k ɑ r o s , fʲ i n x ɑ r
+w e r o ɡ ɑ l ɑ , fʲ e r ɡ ɑ l 
+e s o ʔ k e n e t̪ l ɑ n , ɑ xʲ e nʲ eː l
+e s ɑ s ʔ k e n e t̪ l ɑ n , ɑ kʲ e nʲ eː l 
+e s ɑ n ʔ k e n e t̪ l ɑ n , ɑ ɡʲ e nʲ eː l
+e s o ʔ s uː l i s , ɑ h uː lʲ
+e s ɑ s ʔ s uː l i s , ɑ s uː lʲ i
+t̪ o r iː m o , t̪ u rʲ e ṽ
+n iː ʔ t̪ o r iː m iː t̪ , nʲ iː t̪ u rʲ ṽʲ i 
 ɡ o n i , ɡ u nʲ
-k l u t̪ a n , k l o θ
+k l u t̪ ɑ n , k l o θ
 b i t̪ oː s , bʲ e θ o
-m r o ɡ i s , m ɾ u ɣʲ 
-m o n i k l a s , m u nʲ eː l
-e s o ɡ o n i , a ɣ u nʲ
-e s a n ɡ o n i , a ŋ ɡ u nʲ 
-s e s a n s uː l iː s , a s uː lʲ i 
-e s o l e t̪ a s , a lʲ e θ
+m r o ɡ i s , m r u ɣʲ 
+m o n i k l ɑ s , m u nʲ eː l
+e s o ʔ ɡ o n i , ɑ ɣ u nʲ
+e s ɑ n ʔ ɡ o n i , ɑ ŋ ɡ u nʲ 
+s e s ɑ n ʔ s uː l iː s , ɑ s uː lʲ i 
+e s o ʔ l e t̪ ɑ s , ɑ lʲ e θ
