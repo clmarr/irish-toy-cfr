@@ -5,5 +5,5 @@ Derivation file for run '../irish-toy-cfr'; etymon number :16:
 #ɡoni# | 4 : [+son] > [-long,-splng] / [-cons] __ [+syl]
 #ɡonʲi# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
 #ɡunʲi# | 11 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
-#ɡunʲ# | 17 : [+syl] > ∅ / __ #
+#ɡunʲ# | 17 : [+syl,-long] > ∅ / __ #
 Final form : #ɡunʲ#

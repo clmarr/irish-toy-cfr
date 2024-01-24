@@ -7,5 +7,5 @@ t̪ o r iː m o
 #t̪urʲiːmo# | 11 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
 #t̪urʲeːmo# | 12 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
 #t̪urʲeːm?# | 13 : [-hi,+round,+syl] > [+lo,-round] / [+lab] __ 
-#t̪urʲeːm# | 17 : [+syl] > ∅ / __ #
+#t̪urʲeːm# | 17 : [+syl,-long] > ∅ / __ #
 Final form : #t̪urʲeːm#

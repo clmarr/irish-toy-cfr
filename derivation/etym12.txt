@@ -9,5 +9,5 @@ e s o ʔ s uː l i s
 #ˈehohuːli# | 9 : [+cons] > ∅ / [-cons] __ #
 #ˈehohuːlʲi# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
 #ˈehuhuːlʲi# | 11 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
-#ˈehuhuːlʲ# | 17 : [+syl] > ∅ / __ #
+#ˈehuhuːlʲ# | 17 : [+syl,-long] > ∅ / __ #
 Final form : #ˈehuhuːlʲ#

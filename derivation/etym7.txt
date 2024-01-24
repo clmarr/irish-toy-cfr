@@ -9,5 +9,5 @@ w e n i k ɑ r o s
 #βʲenʲixɑro# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
 #βʲinʲixɑro# | 11 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
 #βʲinʲexɑro# | 12 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
-#βʲinʲexɑr# | 17 : [+syl] > ∅ / __ #
+#βʲinʲexɑr# | 17 : [+syl,-long] > ∅ / __ #
 Final form : #βʲinʲexɑr#

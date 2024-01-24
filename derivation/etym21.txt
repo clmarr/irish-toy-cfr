@@ -9,5 +9,5 @@ e s o ʔ ɡ o n i
 #ˈehoɣoni# | 8 : ʔ > ∅ 
 #ˈehoɣonʲi# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
 #ˈehoɣunʲi# | 11 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
-#ˈehoɣunʲ# | 17 : [+syl] > ∅ / __ #
+#ˈehoɣunʲ# | 17 : [+syl,-long] > ∅ / __ #
 Final form : #ˈehoɣunʲ#

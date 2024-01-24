@@ -9,5 +9,5 @@ e s o ʔ l e t̪ ɑ s
 #ˈeholeθɑs# | 8 : ʔ > ∅ 
 #ˈeholeθɑ# | 9 : [+cons] > ∅ / [-cons] __ #
 #ˈeholʲeθɑ# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
-#ˈeholʲeθ# | 17 : [+syl] > ∅ / __ #
+#ˈeholʲeθ# | 17 : [+syl,-long] > ∅ / __ #
 Final form : #ˈeholʲeθ#

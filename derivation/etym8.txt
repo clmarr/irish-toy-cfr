@@ -6,5 +6,5 @@ w e r o ɡ ɑ l ɑ
 #weroɣɑlɑ# | 4 : [+son] > [-long,-splng] / [-cons] __ [+syl]
 #βeroɣɑlɑ# | 7 : w > β 
 #βʲeroɣɑlɑ# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
-#βʲeroɣɑl# | 17 : [+syl] > ∅ / __ #
+#βʲeroɣɑl# | 17 : [+syl,-long] > ∅ / __ #
 Final form : #βʲeroɣɑl#

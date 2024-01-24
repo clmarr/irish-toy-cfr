@@ -5,5 +5,5 @@ r iː m iː t̪ i
 #rːiːmːiːθi# | 3 : [-cont] > [+cont,0delrel] / [-cons] __ [+syl]
 #rːiːmiːθi# | 4 : [+son] > [-long,-splng] / [-cons] __ [+syl]
 #?iːmʲiːθʲi# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
-#?iːmʲiːθʲ# | 17 : [+syl] > ∅ / __ #
+#?iːmʲiːθʲ# | 17 : [+syl,-long] > ∅ / __ #
 Final form : #?iːmʲiːθʲ#

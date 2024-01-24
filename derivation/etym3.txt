@@ -5,5 +5,5 @@ l e t̪ ɑ s
 #lːeθɑs# | 3 : [-cont] > [+cont,0delrel] / [-cons] __ [+syl]
 #lːeθɑ# | 9 : [+cons] > ∅ / [-cons] __ #
 #?eθɑ# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
-#?eθ# | 17 : [+syl] > ∅ / __ #
+#?eθ# | 17 : [+syl,-long] > ∅ / __ #
 Final form : #?eθ#

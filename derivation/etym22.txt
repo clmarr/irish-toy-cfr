@@ -10,5 +10,5 @@ e s ɑ n ʔ ɡ o n i
 #ˈehɑnːɣonʲi# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
 #ˈehɑnːɣunʲi# | 11 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
 #ˈehɑɣunʲi# | 16 : [+nas,+cons] > ∅ / [-cons] __ [+cons,-nas]
-#ˈehɑɣunʲ# | 17 : [+syl] > ∅ / __ #
+#ˈehɑɣunʲ# | 17 : [+syl,-long] > ∅ / __ #
 Final form : #ˈehɑɣunʲ#

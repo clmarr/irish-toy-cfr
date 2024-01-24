@@ -8,5 +8,5 @@ e s ɑ s ʔ s uː l i s
 #ˈehɑshuːlis# | 8 : ʔ > ∅ 
 #ˈehɑshuːli# | 9 : [+cons] > ∅ / [-cons] __ #
 #ˈehɑshuːlʲi# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
-#ˈehɑshuːlʲ# | 17 : [+syl] > ∅ / __ #
+#ˈehɑshuːlʲ# | 17 : [+syl,-long] > ∅ / __ #
 Final form : #ˈehɑshuːlʲ#

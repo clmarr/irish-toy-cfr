@@ -15,4 +15,5 @@ w > β
 [-cont] > [+voi] / [+son] __ 
 [+stres] > [+long] / __ [+nas,+cons] [-son]
 [+nas,+cons] > ∅ / [-cons] __ [+cons,-nas]
-[+syl] > ∅ / __ #
+[+syl,-long] > ∅ / __ #
+[+syl] > [-long,-splng] / __ #

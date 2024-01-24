@@ -50,5 +50,6 @@ $compensatory lengthening before nasal deletion for stressed vowels
 $loss of N in V __ C
 [+nas,+cons] > ∅ / [-cons] __ [+cons,-nas]
 
-$apocope: loss of vowels just before word boundary (no cons. in between) 
-[+syl] > ∅ / __ #
+$pseudo-apocope: just before word boundary (no cons. in between), short vowels are lost, while long vowels lose a mora. (in effect short vowels lose their only mora. 
+[+syl,-long] > ∅ / __ #
+[+syl] > [-long] / __ #

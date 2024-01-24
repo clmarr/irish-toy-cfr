@@ -6,5 +6,5 @@ m r o ɡ i s
 #mːrːoɣi# | 9 : [+cons] > ∅ / [-cons] __ #
 #mːrːoɣʲi# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
 #mːrːuɣʲi# | 11 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
-#mːrːuɣʲ# | 17 : [+syl] > ∅ / __ #
+#mːrːuɣʲ# | 17 : [+syl,-long] > ∅ / __ #
 Final form : #mːrːuɣʲ#

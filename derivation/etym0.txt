@@ -5,5 +5,5 @@ k ɑ t̪ u b u t̪ ɑ s
 #kɑθuβuθɑ# | 9 : [+cons] > ∅ / [-cons] __ #
 #kɑθuβoθɑ# | 12 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
 #kɑθuβ?θɑ# | 13 : [-hi,+round,+syl] > [+lo,-round] / [+lab] __ 
-#kɑθuβ?θ# | 17 : [+syl] > ∅ / __ #
+#kɑθuβ?θ# | 17 : [+syl,-long] > ∅ / __ #
 Final form : #kɑθuβ?θ#

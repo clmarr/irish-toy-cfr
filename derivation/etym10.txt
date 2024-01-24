@@ -10,5 +10,5 @@ e s ɑ s ʔ k e n e t̪ l ɑ n
 #ˈehɑsxenet̪lːɑ# | 9 : [+cons] > ∅ / [-cons] __ #
 #ˈehɑsxʲenʲet̪lːɑ# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
 #ˈehɑsxʲenʲed̪lːɑ# | 14 : [-cont] > [+voi] / [+son] __ 
-#ˈehɑsxʲenʲed̪lː# | 17 : [+syl] > ∅ / __ #
+#ˈehɑsxʲenʲed̪lː# | 17 : [+syl,-long] > ∅ / __ #
 Final form : #ˈehɑsxʲenʲed̪lː#

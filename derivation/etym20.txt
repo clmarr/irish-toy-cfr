@@ -8,5 +8,5 @@ m o n i k l ɑ s
 #mːunʲiklːɑ# | 11 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
 #mːunʲeklːɑ# | 12 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
 #mːunʲeɡlːɑ# | 14 : [-cont] > [+voi] / [+son] __ 
-#mːunʲeɡlː# | 17 : [+syl] > ∅ / __ #
+#mːunʲeɡlː# | 17 : [+syl,-long] > ∅ / __ #
 Final form : #mːunʲeɡlː#
