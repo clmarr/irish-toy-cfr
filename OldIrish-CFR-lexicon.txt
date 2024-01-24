@@ -1,25 +1,25 @@
 $Proto-Irish,Old Irish
-k a t u b u t a s , k a θ v a θ 
-r iː m iː t i , rːʲ i ṽʲ i θʲ
-r iː m iː t , rːʲ iː ṽʲ i
-l e t a s , lʲ e θ
-t e n t , tʲ eː d 
-t o m e t e n t , t o mʲ θʲ eː d
-t o e n t e n t , tʲ e dʲ eː d 
+k a t̪ u b u t̪ a s , k a θ v a θ 
+r iː m iː t̪ i , rːʲ i ṽʲ i θʲ
+r iː m iː t̪ , rːʲ iː ṽʲ i
+l e t̪ a s , lʲ e θ
+t̪ e n t̪ , t̪ʲ eː d̪ 
+t̪ o m e t̪ e n t̪ , t̪ o mʲ θʲ eː d̪
+t̪ o e n t̪ e n t̪ , t̪ʲ e d̪ʲ eː d̪ 
 w e n i k a r o s , fʲ i n x a ɾ
 w e r o ɡ a l a , fʲ e ɾ ɡ a l 
-e s o k e n e t l a n , a x e n eː l
-e s a s k e n e t l a n , a k e n eː l 
+e s o k e n e t̪ l a n , a x e n eː l
+e s a s k e n e t̪ l a n , a k e n eː l 
 e s o s uː l i s , a h uː lʲ
 e s a s s uː l i s , a s uː lʲ i
-t o r iː m o , t u ɾ e ṽ
-n iː t o r iː m iː t , n iː t u ɾʲ ṽʲ i 
+t̪ o r iː m o , t̪ u ɾ e ṽ
+n iː t̪ o r iː m iː t̪ , n iː t̪ u ɾʲ ṽʲ i 
 ɡ o n i , ɡ u nʲ
-k l u t a n , k l o θ
-b i t oː s , bʲ e θ o
+k l u t̪ a n , k l o θ
+b i t̪ oː s , bʲ e θ o
 m r o ɡ i s , m ɾ u ɣʲ 
 m o n i k l a s , m u nʲ eː l
 e s o ɡ o n i , a ɣ u nʲ
 e s a n ɡ o n i , a ŋ ɡ u nʲ 
 s e s a n s uː l iː s , a s uː lʲ i 
-e s o l e t a s , a lʲ e θ
+e s o l e t̪ a s , a lʲ e θ
