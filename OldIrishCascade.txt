@@ -1,0 +1,25 @@
+$Proto-Irish to Old Irish cascade!
+
+$although this language treats nasal stops as proper stops and [-cont] that's a change to symbolDefs I'm too lazy to implement at the moment, so we are instead handling that distinction with length. Implementing long variant default. Implement the same for l and r since it seems to work the same. 
+[+son,+cons] > [+long]
+
+$First Lenition: stops spirantize and sonorants "shorten" intervocalically. s to h in these contexts too. 
+{[-cont];[+son];s} > {[+cont];[+long];h} / [-cons] __ [+syl] 
+
+$lenition of s to h in also # __ V where the V is not stressed. 
+s > h / # __ [-stres]
+
+$loss of post-non-consonantal final consonants
+[+cons] > ∅ / [-cons] __ #
+
+$*w merges into β
+w > β
+
+$post-sonorant stop voicing in clusters. Bled by spirantization in first lenition (finchar). 
+[-cont] > [+voi] / [+son] __
+
+$compensatory lenthening before nasal deletion for stressed vowels
+[+stres] > [+long] / __ [+nas,+cons] [-son] 
+
+$loss of N in V __ C
+[+nas,+cons] > ∅ / [-cons] __ [+cons,-nas]
