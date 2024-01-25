@@ -1,12 +1,14 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :20:
-#moniklɑs# >>> #mːunʲeɡlː# ( GOLD : #munʲeːl#) :
+#moniklɑs# >>> #mːˈunʲˌeɡlː# ( GOLD : #munʲeːl#) :
 m o n i k l ɑ s 
 #mːonːiklːɑs# | 0 : [+son,+cons] > [+long] 
-#mːoniklːɑs# | 4 : [+son] > [-long,-splng] / [-cons] __ [+syl]
-#mːoniklːɑ# | 9 : [+cons] > ∅ / [-cons] __ #
-#mːonʲiklːɑ# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
-#mːunʲiklːɑ# | 11 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
-#mːunʲeklːɑ# | 12 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
-#mːunʲeɡlːɑ# | 14 : [-cont] > [+voi] / [+son] __ 
-#mːunʲeɡlː# | 17 : [+syl,-long] > ∅ / __ #
-Final form : #mːunʲeɡlː#
+#mːˈonːiklːɑs# | 1 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+#mːˈoniklːɑs# | 4 : [+son] > [-long,-splng] / [-cons,+son] __ [+syl]
+#mːˈoniklːɑ# | 8 : [+cons] > ∅ / [-cons] __ #
+#mːˈonʲiklːɑ# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
+#mːˈunʲiklːɑ# | 10 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
+#mːˈunʲeklːɑ# | 11 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
+#mːˈunʲˌeklːɑ# | 14 : [+syl] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [-stres] ( [-syl] )* #
+#mːˈunʲˌeɡlːɑ# | 17 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
+#mːˈunʲˌeɡlː# | 20 : [+syl,-long] > ∅ / __ #
+Final form : #mːˈunʲˌeɡlː#

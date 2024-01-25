@@ -1,11 +1,12 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :14:
-#t̪oriːmo# >>> #t̪urʲeːm# ( GOLD : #t̪urʲeṽ#) :
+#t̪oriːmo# >>> #t̪ˈurʲeːm# ( GOLD : #t̪urʲeṽ#) :
 t̪ o r iː m o 
 #t̪orːiːmːo# | 0 : [+son,+cons] > [+long] 
-#t̪oriːmo# | 4 : [+son] > [-long,-splng] / [-cons] __ [+syl]
-#t̪orʲiːmo# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
-#t̪urʲiːmo# | 11 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
-#t̪urʲeːmo# | 12 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
-#t̪urʲeːm?# | 13 : [-hi,+round,+syl] > [+lo,-round] / [+lab] __ 
-#t̪urʲeːm# | 17 : [+syl,-long] > ∅ / __ #
-Final form : #t̪urʲeːm#
+#t̪ˈorːiːmːo# | 1 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+#t̪ˈoriːmo# | 4 : [+son] > [-long,-splng] / [-cons,+son] __ [+syl]
+#t̪ˈorʲiːmo# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
+#t̪ˈurʲiːmo# | 10 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
+#t̪ˈurʲeːmo# | 11 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
+#t̪ˈurʲeːmɑ# | 15 : [-hi,+round,+syl] > [+lo,-round,-lab] / [+lab] __ 
+#t̪ˈurʲeːm# | 20 : [+syl,-long] > ∅ / __ #
+Final form : #t̪ˈurʲeːm#

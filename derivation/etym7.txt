@@ -1,13 +1,15 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :7:
-#wenikɑros# >>> #βʲinʲexɑr# ( GOLD : #fʲinxɑr#) :
+#wenikɑros# >>> #βʲˈinʲexˌɑr# ( GOLD : #fʲinxɑr#) :
 w e n i k ɑ r o s 
 #wenːikɑrːos# | 0 : [+son,+cons] > [+long] 
-#wenːixɑrːos# | 3 : [-cont] > [+cont,0delrel] / [-cons] __ [+syl]
-#wenixɑros# | 4 : [+son] > [-long,-splng] / [-cons] __ [+syl]
-#βenixɑros# | 7 : w > β 
-#βenixɑro# | 9 : [+cons] > ∅ / [-cons] __ #
-#βʲenʲixɑro# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
-#βʲinʲixɑro# | 11 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
-#βʲinʲexɑro# | 12 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
-#βʲinʲexɑr# | 17 : [+syl,-long] > ∅ / __ #
-Final form : #βʲinʲexɑr#
+#wˈenːikɑrːos# | 1 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+#wˈenːixɑrːos# | 3 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
+#wˈenixɑros# | 4 : [+son] > [-long,-splng] / [-cons,+son] __ [+syl]
+#βˈenixɑros# | 6 : w > β 
+#βˈenixɑro# | 8 : [+cons] > ∅ / [-cons] __ #
+#βʲˈenʲixɑro# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
+#βʲˈinʲixɑro# | 10 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
+#βʲˈinʲexɑro# | 11 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
+#βʲˈinʲexˌɑro# | 12 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
+#βʲˈinʲexˌɑr# | 20 : [+syl,-long] > ∅ / __ #
+Final form : #βʲˈinʲexˌɑr#

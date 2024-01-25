@@ -1,10 +1,13 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :5:
-#t̪omet̪ent̪# >>> #t̪omʲeθʲed̪# ( GOLD : #t̪omʲθʲeːd̪#) :
+#t̪omet̪ent̪# >>> #t̪ˈomʲeθʲˌeːd̪# ( GOLD : #t̪omʲθʲeːd̪#) :
 t̪ o m e t̪ e n t̪ 
 #t̪omːet̪enːt̪# | 0 : [+son,+cons] > [+long] 
-#t̪omːeθenːt̪# | 3 : [-cont] > [+cont,0delrel] / [-cons] __ [+syl]
-#t̪omeθenːt̪# | 4 : [+son] > [-long,-splng] / [-cons] __ [+syl]
-#t̪omʲeθʲenːt̪# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
-#t̪omʲeθʲenːd̪# | 14 : [-cont] > [+voi] / [+son] __ 
-#t̪omʲeθʲed̪# | 16 : [+nas,+cons] > ∅ / [-cons] __ [+cons,-nas]
-Final form : #t̪omʲeθʲed̪#
+#t̪ˈomːet̪enːt̪# | 1 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+#t̪ˈomːeθenːt̪# | 3 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
+#t̪ˈomeθenːt̪# | 4 : [+son] > [-long,-splng] / [-cons,+son] __ [+syl]
+#t̪ˈomʲeθʲenːt̪# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
+#t̪ˈomʲeθʲˌenːt̪# | 12 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
+#t̪ˈomʲeθʲˌenːd̪# | 16 : [-son,-cont] > [+voi] / [+voi] __ #
+#t̪ˈomʲeθʲˌeːnːd̪# | 18 : [+stres] > [+long] / __ [+nas,+cons] [-son]
+#t̪ˈomʲeθʲˌeːd̪# | 19 : [+nas,+cons] > ∅ / [-cons] __ [+cons,-nas]
+Final form : #t̪ˈomʲeθʲˌeːd̪#

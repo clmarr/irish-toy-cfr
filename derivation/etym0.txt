@@ -1,9 +1,11 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :0:
-#kɑt̪ubut̪ɑs# >>> #kɑθuβ?θ# ( GOLD : #kɑθvɑθ#) :
+#kɑt̪ubut̪ɑs# >>> #kˈɑθuβˌɑθ# ( GOLD : #kɑθvɑθ#) :
 k ɑ t̪ u b u t̪ ɑ s 
-#kɑθuβuθɑs# | 3 : [-cont] > [+cont,0delrel] / [-cons] __ [+syl]
-#kɑθuβuθɑ# | 9 : [+cons] > ∅ / [-cons] __ #
-#kɑθuβoθɑ# | 12 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
-#kɑθuβ?θɑ# | 13 : [-hi,+round,+syl] > [+lo,-round] / [+lab] __ 
-#kɑθuβ?θ# | 17 : [+syl,-long] > ∅ / __ #
-Final form : #kɑθuβ?θ#
+#kˈɑt̪ubut̪ɑs# | 1 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+#kˈɑθuβuθɑs# | 3 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
+#kˈɑθuβuθɑ# | 8 : [+cons] > ∅ / [-cons] __ #
+#kˈɑθuβoθɑ# | 11 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
+#kˈɑθuβˌoθɑ# | 12 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
+#kˈɑθuβˌɑθɑ# | 15 : [-hi,+round,+syl] > [+lo,-round,-lab] / [+lab] __ 
+#kˈɑθuβˌɑθ# | 20 : [+syl,-long] > ∅ / __ #
+Final form : #kˈɑθuβˌɑθ#

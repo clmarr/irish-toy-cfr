@@ -4,15 +4,12 @@ $although this language treats nasal stops as proper stops and [-cont] that's a 
 [+son,+cons] > [+long]
 
 $innovation of word initial stress. Taking into account that word boundaries that are going to be removed before long are currently represented by ʔ
-[+syl] > [+prim] / {#;ʔ} __
+[+syl] > [+prim] / {#;ʔ} ([-syl])* __
 
-$First Lenition: stops spirantize and sonorants "shorten" intervocalically. s to h in these contexts too. 
-[-cont] > [+cont] / [-cons] __ [+syl] 
-[+son] > [-long] / [-cons] __ [+syl]
+$First Lenition: stops spirantize and sonorants "shorten" intervocalically. s to h in these contexts too. lenition of s to h in also # __ V where the V is not stressed (done by omitting [+son] because [ʔ] is -cons -son). 
+[-cont] > [+cont] / [-cons,+son] __ [+syl] 
+[+son] > [-long] / [-cons,+son] __ [+syl]
 s > h / [-cons] __ [+syl] 
-
-$lenition of s to h in also # __ V where the V is not stressed. 
-s > h / # __ [-stres]
 
 $*w merges into β
 w > β
@@ -34,21 +31,36 @@ $it seems e and also rises before i. Must be before syncope (wenikaros, esosu:li
 
 $ furthermore, and i lowers to e if next syllable has 'low vowel', like a, per the writeup. Upon further investigation this *also* happens if next syllable has o (tori:mo, bito:s). However this does not bleed the previous rule by changing i to e before it can act (wenikaros > finchar, moniklas > mune:l) ... the other explanation would be that it only effects stressed elements, but this hypothesis fails for moniklas.
 $ moniklas also shows that this lowering rule only operates once, and does not cascade (ohterwise it would be mone:l not mune:l). 
-$ this can be roped in with apparent similar effects on u: klutan > kloθ, katubutas > kathvuth. 
+$ this can be roped in with apparent similar effects on u: klutan > kloθ, katubutas > kathvath. 
 $ [-hi,+back] captures a and o to the exclusion of e. 
 [+hi,+syl] > [-hi] / __ ([-syl])* [-hi,+back,+syl] 
 
+$countertonic (secondary) stress imposed on odd numbered syllables unless they are word final. This is done by detecting the intermediate unstressed syllable and then jumping over it. Must come before syncope and before compensatory lengthening for nasal and stop deletions in clusters. Does not apply to word-final vowels (post-context: @, to be blocked before #). Applies recursively. Two times application is probably enough for words in this set, they don't get that long. 
+[+syl] > [+stres] / [+stres] ([-syl])* [-stres] ([-syl])* __ @
+[+syl] > [+stres] / [+stres] ([-syl])* [-stres] ([-syl])* __ @
+
+$unstressed penultimates that are not before stressed final syllables acquire secondary stress if before (at least?) two vowels. 
+[+syl] > [+stres] / __ [-syl] ([-syl])+ [-stres] ([-syl])* #
+
 $ apparent o to a after labial (reassignment of rounding/height gesture?) 
-[-hi,+round,+syl] > [+lo,-round] / [+lab] __ 
+[-hi,+round,+syl] > [+lo,-round,-lab] / [+lab] __ 
 
-$post-sonorant stop voicing in clusters. Bled by spirantization in first lenition (finchar). 
-[-cont] > [+voi] / [+son] __
+$Second lenition: voicing spreads progressively for stops in consonant clusters; stops are also voiced after vowels. Either bled by spirantization in first lenition and/or counterfed by syncope (finchar). Perhaps not before voiceless obstruents
+[-son,-cont] > [+voi] / [+voi] __ {#;[+voi]}
 
-$compensatory lengthening before nasal deletion for stressed vowels
+
+$TODO merge stop deletion and compensatory lengthening in here? 
+
+$nasal consonant deletion in V __ C : must come AFTER POST-SONORANT STOP VOICING (tent > te:d), but BEFORE SYNCOPE (tomthed). 
+$compensatory lengthening before nasal deletion
+$seems limited to primary or secondary stressed elements.
+$ the same thing 
 [+stres] > [+long] / __ [+nas,+cons] [-son] 
 
 $loss of N in V __ C
 [+nas,+cons] > ∅ / [-cons] __ [+cons,-nas]
+
+$APOCOPE and SYNCOPE handled together here, in terms of stress
 
 $pseudo-apocope: just before word boundary (no cons. in between), short vowels are lost, while long vowels lose a mora. (in effect short vowels lose their only mora. 
 [+syl,-long] > ∅ / __ #

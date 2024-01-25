@@ -1,13 +1,14 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :12:
-#esoʔsuːlis# >>> #ˈehuhuːlʲ# ( GOLD : #ɑhuːlʲ#) :
+#esoʔsuːlis# >>> #ˈehuhˈuːlʲ# ( GOLD : #ɑhuːlʲ#) :
 e s o ʔ s uː l i s 
 #esoʔsuːlːis# | 0 : [+son,+cons] > [+long] 
-#ˈesoʔsuːlːis# | 1 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # __ 
-#ˈesoʔsuːlis# | 4 : [+son] > [-long,-splng] / [-cons] __ [+syl]
-#ˈehoʔhuːlis# | 5 : s > h / [-cons] __ [+syl]
-#ˈehohuːlis# | 8 : ʔ > ∅ 
-#ˈehohuːli# | 9 : [+cons] > ∅ / [-cons] __ #
-#ˈehohuːlʲi# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
-#ˈehuhuːlʲi# | 11 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
-#ˈehuhuːlʲ# | 17 : [+syl,-long] > ∅ / __ #
-Final form : #ˈehuhuːlʲ#
+#ˈesoʔsuːlːis# | 1 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+#ˈesoʔsˈuːlːis# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / ʔ ( [-syl] )* __ 
+#ˈesoʔsˈuːlis# | 4 : [+son] > [-long,-splng] / [-cons,+son] __ [+syl]
+#ˈehoʔhˈuːlis# | 5 : s > h / [-cons] __ [+syl]
+#ˈehohˈuːlis# | 7 : ʔ > ∅ 
+#ˈehohˈuːli# | 8 : [+cons] > ∅ / [-cons] __ #
+#ˈehohˈuːlʲi# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
+#ˈehuhˈuːlʲi# | 10 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
+#ˈehuhˈuːlʲ# | 20 : [+syl,-long] > ∅ / __ #
+Final form : #ˈehuhˈuːlʲ#

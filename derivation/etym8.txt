@@ -1,10 +1,12 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :8:
-#weroɡɑlɑ# >>> #βʲeroɣɑl# ( GOLD : #fʲerɡɑl#) :
+#weroɡɑlɑ# >>> #βʲˈeroɣˌɑl# ( GOLD : #fʲerɡɑl#) :
 w e r o ɡ ɑ l ɑ 
 #werːoɡɑlːɑ# | 0 : [+son,+cons] > [+long] 
-#werːoɣɑlːɑ# | 3 : [-cont] > [+cont,0delrel] / [-cons] __ [+syl]
-#weroɣɑlɑ# | 4 : [+son] > [-long,-splng] / [-cons] __ [+syl]
-#βeroɣɑlɑ# | 7 : w > β 
-#βʲeroɣɑlɑ# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
-#βʲeroɣɑl# | 17 : [+syl,-long] > ∅ / __ #
-Final form : #βʲeroɣɑl#
+#wˈerːoɡɑlːɑ# | 1 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+#wˈerːoɣɑlːɑ# | 3 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
+#wˈeroɣɑlɑ# | 4 : [+son] > [-long,-splng] / [-cons,+son] __ [+syl]
+#βˈeroɣɑlɑ# | 6 : w > β 
+#βʲˈeroɣɑlɑ# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
+#βʲˈeroɣˌɑlɑ# | 12 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
+#βʲˈeroɣˌɑl# | 20 : [+syl,-long] > ∅ / __ #
+Final form : #βʲˈeroɣˌɑl#
