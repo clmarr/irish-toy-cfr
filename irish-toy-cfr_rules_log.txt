@@ -1,11 +1,11 @@
 [+son,+cons] > [+long] 
+w > ɸ / __ [+syl]
 [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
 [+syl] > [+prim,+stres,+syl,+son,0delrel] / ʔ ( [-syl] )* __ 
+ʔ > ∅ 
 [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
 [+son] > [-long,-splng] / [-cons,+son] __ [+syl]
-s > h / [-cons] __ [+syl]
-w > β 
-ʔ > ∅ 
+{s;ɸ} > {χ;h} / [-cons,+son] __ [+syl]
 [+cons] > ∅ / [-cons] __ #
 [+cons,-front] > [+hi,+front] / __ [+front]
 [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]

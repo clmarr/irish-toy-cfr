@@ -2,8 +2,8 @@ Derivation file for run '../irish-toy-cfr'; etymon number :14:
 #t̪oriːmo# >>> #t̪ˈurʲeːm# ( GOLD : #t̪urʲeṽ#) :
 t̪ o r iː m o 
 #t̪orːiːmːo# | 0 : [+son,+cons] > [+long] 
-#t̪ˈorːiːmːo# | 1 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
-#t̪ˈoriːmo# | 4 : [+son] > [-long,-splng] / [-cons,+son] __ [+syl]
+#t̪ˈorːiːmːo# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+#t̪ˈoriːmo# | 6 : [+son] > [-long,-splng] / [-cons,+son] __ [+syl]
 #t̪ˈorʲiːmo# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
 #t̪ˈurʲiːmo# | 10 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
 #t̪ˈurʲeːmo# | 11 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]

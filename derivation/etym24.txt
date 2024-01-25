@@ -1,13 +1,14 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :24:
-#esoʔlet̪ɑs# >>> #ˈeholːʲˈeθ# ( GOLD : #ɑlʲeθ#) :
+#esoʔlet̪ɑs# >>> #ˈeχolʲˈeθ# ( GOLD : #ɑlʲeθ#) :
 e s o ʔ l e t̪ ɑ s 
 #esoʔlːet̪ɑs# | 0 : [+son,+cons] > [+long] 
-#ˈesoʔlːet̪ɑs# | 1 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
-#ˈesoʔlːˈet̪ɑs# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / ʔ ( [-syl] )* __ 
-#ˈesoʔlːˈeθɑs# | 3 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
-#ˈehoʔlːˈeθɑs# | 5 : s > h / [-cons] __ [+syl]
-#ˈeholːˈeθɑs# | 7 : ʔ > ∅ 
-#ˈeholːˈeθɑ# | 8 : [+cons] > ∅ / [-cons] __ #
-#ˈeholːʲˈeθɑ# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
-#ˈeholːʲˈeθ# | 20 : [+syl,-long] > ∅ / __ #
-Final form : #ˈeholːʲˈeθ#
+#ˈesoʔlːet̪ɑs# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+#ˈesoʔlːˈet̪ɑs# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / ʔ ( [-syl] )* __ 
+#ˈesolːˈet̪ɑs# | 4 : ʔ > ∅ 
+#ˈesolːˈeθɑs# | 5 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
+#ˈesolˈeθɑs# | 6 : [+son] > [-long,-splng] / [-cons,+son] __ [+syl]
+#ˈeχolˈeθɑs# | 7 : {s;ɸ} > {χ;h} / [-cons,+son] __ [+syl]
+#ˈeχolˈeθɑ# | 8 : [+cons] > ∅ / [-cons] __ #
+#ˈeχolʲˈeθɑ# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
+#ˈeχolʲˈeθ# | 20 : [+syl,-long] > ∅ / __ #
+Final form : #ˈeχolʲˈeθ#

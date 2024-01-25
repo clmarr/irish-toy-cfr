@@ -1,12 +1,12 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :8:
-#weroɡɑlɑ# >>> #βʲˈeroɣˌɑl# ( GOLD : #fʲerɡɑl#) :
+#weroɡɑlɑ# >>> #ɸʲˈeroɣˌɑl# ( GOLD : #fʲerɡɑl#) :
 w e r o ɡ ɑ l ɑ 
 #werːoɡɑlːɑ# | 0 : [+son,+cons] > [+long] 
-#wˈerːoɡɑlːɑ# | 1 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
-#wˈerːoɣɑlːɑ# | 3 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
-#wˈeroɣɑlɑ# | 4 : [+son] > [-long,-splng] / [-cons,+son] __ [+syl]
-#βˈeroɣɑlɑ# | 6 : w > β 
-#βʲˈeroɣɑlɑ# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
-#βʲˈeroɣˌɑlɑ# | 12 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
-#βʲˈeroɣˌɑl# | 20 : [+syl,-long] > ∅ / __ #
-Final form : #βʲˈeroɣˌɑl#
+#ɸerːoɡɑlːɑ# | 1 : w > ɸ / __ [+syl]
+#ɸˈerːoɡɑlːɑ# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+#ɸˈerːoɣɑlːɑ# | 5 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
+#ɸˈeroɣɑlɑ# | 6 : [+son] > [-long,-splng] / [-cons,+son] __ [+syl]
+#ɸʲˈeroɣɑlɑ# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
+#ɸʲˈeroɣˌɑlɑ# | 12 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
+#ɸʲˈeroɣˌɑl# | 20 : [+syl,-long] > ∅ / __ #
+Final form : #ɸʲˈeroɣˌɑl#

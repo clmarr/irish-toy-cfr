@@ -1,21 +1,22 @@
 $Proto-Irish to Old Irish cascade!
 
+
 $although this language treats nasal stops as proper stops and [-cont] that's a change to symbolDefs I'm too lazy to implement at the moment, so we are instead handling that distinction with length. Implementing long variant default. Implement the same for l and r since it seems to work the same. 
 [+son,+cons] > [+long]
+
+$syllable initila w develarizes and also devoices to ɸ for now (pending later developments.)
+w > ɸ / __ [+syl]
 
 $innovation of word initial stress. Taking into account that word boundaries that are going to be removed before long are currently represented by ʔ
 [+syl] > [+prim] / {#;ʔ} ([-syl])* __
 
-$First Lenition: stops spirantize and sonorants "shorten" intervocalically. s to h in these contexts too. lenition of s to h in also # __ V where the V is not stressed (done by omitting [+son] because [ʔ] is -cons -son). 
-[-cont] > [+cont] / [-cons,+son] __ [+syl] 
-[+son] > [-long] / [-cons,+son] __ [+syl]
-s > h / [-cons] __ [+syl] 
-
-$*w merges into β
-w > β
-
 $deletion of the word-boundary in nominal and verbal complexes it seems. This appears to happen after the first lenition, but before the first final consonant lost. Recall that this evanescent word boundary is being represented by <ʔ> 
 ʔ > ∅
+
+$First Lenition: stops spirantize and sonorants "shorten" intervocalically. s to χ (later secondary h) and ɸ to h in these contexts too. After deletion of word-boundary in these complexes. 
+[-cont] > [+cont] / [-cons,+son] __ [+syl] 
+[+son] > [-long] / [-cons,+son] __ [+syl]
+{s;ɸ} > {χ;h} / [-cons,+son] __ [+syl] 
 
 $loss of post-non-consonantal final consonants. This must come after the word boundary deletion with esan, given the nasalized onset form agenel. 
 [+cons] > ∅ / [-cons] __ #
