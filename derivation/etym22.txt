@@ -6,9 +6,9 @@ e s ɑ n ʔ ɡ o n i
 #ˈesɑnːʔɡˈonːi# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / ʔ ( [-syl] )* __ 
 #ˈesɑnːɡˈonːi# | 4 : ʔ > ∅ 
 #ˈesɑnːɡˈoni# | 6 : [+son] > [-long,-splng] / [-cons,+son] __ [+syl]
-#ˈeχɑnːɡˈoni# | 7 : {s;ɸ} > {χ;h} / [-cons,+son] __ [+syl]
+#ˈeχɑnːɡˈoni# | 7 : {s;f} > {χ;h} / [-cons,+son] __ 
 #ˈeχɑnːɡˈonʲi# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
 #ˈeχɑnːɡˈunʲi# | 10 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
-#ˈeχɑɡˈunʲi# | 19 : [+nas,+cons] > ∅ / [-cons] __ [+cons,-nas]
-#ˈeχɑɡˈunʲ# | 20 : [+syl,-long] > ∅ / __ #
+#ˈeχɑɡˈunʲi# | 22 : [+nas,+cons] > ∅ / [-cons] __ [+cons,-nas]
+#ˈeχɑɡˈunʲ# | 23 : [+syl,-long] > ∅ / __ #
 Final form : #ˈeχɑɡˈunʲ#

@@ -7,7 +7,7 @@ t̪ o m e t̪ e n t̪
 #t̪ˈomeθenːt̪# | 6 : [+son] > [-long,-splng] / [-cons,+son] __ [+syl]
 #t̪ˈomʲeθʲenːt̪# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
 #t̪ˈomʲeθʲˌenːt̪# | 12 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
-#t̪ˈomʲeθʲˌenːd̪# | 16 : [-son,-cont] > [+voi] / [+voi] __ #
-#t̪ˈomʲeθʲˌeːnːd̪# | 18 : [+stres] > [+long] / __ [+nas,+cons] [-son]
-#t̪ˈomʲeθʲˌeːd̪# | 19 : [+nas,+cons] > ∅ / [-cons] __ [+cons,-nas]
+#t̪ˈomʲeθʲˌenːd̪# | 18 : [-son,-cont] > [+voi] / [+voi] __ #
+#t̪ˈomʲeθʲˌeːnːd̪# | 21 : [+stres] > [+long] / __ [+nas,+cons] [-son]
+#t̪ˈomʲeθʲˌeːd̪# | 22 : [+nas,+cons] > ∅ / [-cons] __ [+cons,-nas]
 Final form : #t̪ˈomʲeθʲˌeːd̪#

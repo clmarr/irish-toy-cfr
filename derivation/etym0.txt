@@ -3,9 +3,10 @@ Derivation file for run '../irish-toy-cfr'; etymon number :0:
 k ɑ t̪ u b u t̪ ɑ s 
 #kˈɑt̪ubut̪ɑs# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
 #kˈɑθuβuθɑs# | 5 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
+#kˈɑθuβuθɑχ# | 7 : {s;f} > {χ;h} / [-cons,+son] __ 
 #kˈɑθuβuθɑ# | 8 : [+cons] > ∅ / [-cons] __ #
 #kˈɑθuβoθɑ# | 11 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
 #kˈɑθuβˌoθɑ# | 12 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
 #kˈɑθuβˌɑθɑ# | 15 : [-hi,+round,+syl] > [+lo,-round,-lab] / [+lab] __ 
-#kˈɑθuβˌɑθ# | 20 : [+syl,-long] > ∅ / __ #
+#kˈɑθuβˌɑθ# | 23 : [+syl,-long] > ∅ / __ #
 Final form : #kˈɑθuβˌɑθ#

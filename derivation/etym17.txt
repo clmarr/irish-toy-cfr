@@ -6,5 +6,5 @@ k l u t̪ ɑ n
 #klːˈuθɑnː# | 5 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
 #klːˈuθɑ# | 8 : [+cons] > ∅ / [-cons] __ #
 #klːˈoθɑ# | 11 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
-#klːˈoθ# | 20 : [+syl,-long] > ∅ / __ #
+#klːˈoθ# | 23 : [+syl,-long] > ∅ / __ #
 Final form : #klːˈoθ#

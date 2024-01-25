@@ -7,8 +7,8 @@ e s o ʔ l e t̪ ɑ s
 #ˈesolːˈet̪ɑs# | 4 : ʔ > ∅ 
 #ˈesolːˈeθɑs# | 5 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
 #ˈesolˈeθɑs# | 6 : [+son] > [-long,-splng] / [-cons,+son] __ [+syl]
-#ˈeχolˈeθɑs# | 7 : {s;ɸ} > {χ;h} / [-cons,+son] __ [+syl]
+#ˈeχolˈeθɑχ# | 7 : {s;f} > {χ;h} / [-cons,+son] __ 
 #ˈeχolˈeθɑ# | 8 : [+cons] > ∅ / [-cons] __ #
 #ˈeχolʲˈeθɑ# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
-#ˈeχolʲˈeθ# | 20 : [+syl,-long] > ∅ / __ #
+#ˈeχolʲˈeθ# | 23 : [+syl,-long] > ∅ / __ #
 Final form : #ˈeχolʲˈeθ#

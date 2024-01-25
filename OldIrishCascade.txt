@@ -1,11 +1,13 @@
 $Proto-Irish to Old Irish cascade!
 
 
+$TODO per thurneysen paragraph 120 -- lenition of sonorants in clusters not involving dentals (incl. dental sonorants)
+
 $although this language treats nasal stops as proper stops and [-cont] that's a change to symbolDefs I'm too lazy to implement at the moment, so we are instead handling that distinction with length. Implementing long variant default. Implement the same for l and r since it seems to work the same. 
 [+son,+cons] > [+long]
 
-$syllable initila w develarizes and also devoices to ɸ for now (pending later developments.)
-w > ɸ / __ [+syl]
+$syllable initila w develarizes and also devoices to f for now (pending later developments.)
+w > f / __ [+syl]
 
 $innovation of word initial stress. Taking into account that word boundaries that are going to be removed before long are currently represented by ʔ
 [+syl] > [+prim] / {#;ʔ} ([-syl])* __
@@ -13,10 +15,13 @@ $innovation of word initial stress. Taking into account that word boundaries tha
 $deletion of the word-boundary in nominal and verbal complexes it seems. This appears to happen after the first lenition, but before the first final consonant lost. Recall that this evanescent word boundary is being represented by <ʔ> 
 ʔ > ∅
 
-$First Lenition: stops spirantize and sonorants "shorten" intervocalically. s to χ (later secondary h) and ɸ to h in these contexts too. After deletion of word-boundary in these complexes. 
+$First Lenition: stops spirantize and sonorants "shorten" intervocalically. After deletion of word-boundary in these complexes. 
 [-cont] > [+cont] / [-cons,+son] __ [+syl] 
 [+son] > [-long] / [-cons,+son] __ [+syl]
-{s;ɸ} > {χ;h} / [-cons,+son] __ [+syl] 
+
+$FIrst lenition part two: s to χ (later secondary h) and ɸ to h post-vocalically 
+{s;f} > {χ;h} / [-cons,+son] __ 
+
 
 $loss of post-non-consonantal final consonants. This must come after the word boundary deletion with esan, given the nasalized onset form agenel. 
 [+cons] > ∅ / [-cons] __ #
@@ -46,8 +51,14 @@ $unstressed penultimates that are not before stressed final syllables acquire se
 $ apparent o to a after labial (reassignment of rounding/height gesture?) 
 [-hi,+round,+syl] > [+lo,-round,-lab] / [+lab] __ 
 
-$Second lenition: voicing spreads progressively for stops in consonant clusters; stops are also voiced after vowels. Either bled by spirantization in first lenition and/or counterfed by syncope (finchar). Perhaps not before voiceless obstruents
+$nasals totally assimilate to following n m l r s, forming geminates. No lengthening caused in this case. 
+[+nas,+cons] [+son,+cons] > ∅ [+long]
+[+nas,+cons] s > ∅ [+long]
+
+
+$Second lenition: voicing spreads progressively for stops in consonant clusters; stops are also voiced after vowels. Either bled by spirantization in first lenition and/or counterfed by syncope (finchar). Only voiceless obstruent affected is f after nasals (which has not yet merged with ɸ < p)
 [-son,-cont] > [+voi] / [+voi] __ {#;[+voi]}
+f > v / [+nas,+voi] __
 
 
 $TODO merge stop deletion and compensatory lengthening in here? 

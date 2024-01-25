@@ -1,15 +1,16 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :7:
-#wenikɑros# >>> #ɸʲˈinʲexˌɑr# ( GOLD : #fʲinxɑr#) :
+#wenikɑros# >>> #fʲˈinʲexˌɑr# ( GOLD : #fʲinxɑr#) :
 w e n i k ɑ r o s 
 #wenːikɑrːos# | 0 : [+son,+cons] > [+long] 
-#ɸenːikɑrːos# | 1 : w > ɸ / __ [+syl]
-#ɸˈenːikɑrːos# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
-#ɸˈenːixɑrːos# | 5 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
-#ɸˈenixɑros# | 6 : [+son] > [-long,-splng] / [-cons,+son] __ [+syl]
-#ɸˈenixɑro# | 8 : [+cons] > ∅ / [-cons] __ #
-#ɸʲˈenʲixɑro# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
-#ɸʲˈinʲixɑro# | 10 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
-#ɸʲˈinʲexɑro# | 11 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
-#ɸʲˈinʲexˌɑro# | 12 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
-#ɸʲˈinʲexˌɑr# | 20 : [+syl,-long] > ∅ / __ #
-Final form : #ɸʲˈinʲexˌɑr#
+#fenːikɑrːos# | 1 : w > f / __ [+syl]
+#fˈenːikɑrːos# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+#fˈenːixɑrːos# | 5 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
+#fˈenixɑros# | 6 : [+son] > [-long,-splng] / [-cons,+son] __ [+syl]
+#fˈenixɑroχ# | 7 : {s;f} > {χ;h} / [-cons,+son] __ 
+#fˈenixɑro# | 8 : [+cons] > ∅ / [-cons] __ #
+#fʲˈenʲixɑro# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
+#fʲˈinʲixɑro# | 10 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
+#fʲˈinʲexɑro# | 11 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
+#fʲˈinʲexˌɑro# | 12 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
+#fʲˈinʲexˌɑr# | 23 : [+syl,-long] > ∅ / __ #
+Final form : #fʲˈinʲexˌɑr#

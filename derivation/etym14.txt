@@ -8,5 +8,5 @@ t̪ o r iː m o
 #t̪ˈurʲiːmo# | 10 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
 #t̪ˈurʲeːmo# | 11 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
 #t̪ˈurʲeːmɑ# | 15 : [-hi,+round,+syl] > [+lo,-round,-lab] / [+lab] __ 
-#t̪ˈurʲeːm# | 20 : [+syl,-long] > ∅ / __ #
+#t̪ˈurʲeːm# | 23 : [+syl,-long] > ∅ / __ #
 Final form : #t̪ˈurʲeːm#

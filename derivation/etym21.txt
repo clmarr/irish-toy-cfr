@@ -7,8 +7,8 @@ e s o ʔ ɡ o n i
 #ˈesoɡˈonːi# | 4 : ʔ > ∅ 
 #ˈesoɣˈonːi# | 5 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
 #ˈesoɣˈoni# | 6 : [+son] > [-long,-splng] / [-cons,+son] __ [+syl]
-#ˈeχoɣˈoni# | 7 : {s;ɸ} > {χ;h} / [-cons,+son] __ [+syl]
+#ˈeχoɣˈoni# | 7 : {s;f} > {χ;h} / [-cons,+son] __ 
 #ˈeχoɣˈonʲi# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
 #ˈeχoɣˈunʲi# | 10 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
-#ˈeχoɣˈunʲ# | 20 : [+syl,-long] > ∅ / __ #
+#ˈeχoɣˈunʲ# | 23 : [+syl,-long] > ∅ / __ #
 Final form : #ˈeχoɣˈunʲ#

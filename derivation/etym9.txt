@@ -7,10 +7,10 @@ e s o ʔ k e n e t̪ l ɑ n
 #ˈesokˈenːet̪lːɑnː# | 4 : ʔ > ∅ 
 #ˈesoxˈenːet̪lːɑnː# | 5 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
 #ˈesoxˈenet̪lːɑnː# | 6 : [+son] > [-long,-splng] / [-cons,+son] __ [+syl]
-#ˈeχoxˈenet̪lːɑnː# | 7 : {s;ɸ} > {χ;h} / [-cons,+son] __ [+syl]
+#ˈeχoxˈenet̪lːɑnː# | 7 : {s;f} > {χ;h} / [-cons,+son] __ 
 #ˈeχoxˈenet̪lːɑ# | 8 : [+cons] > ∅ / [-cons] __ #
 #ˈeχoxʲˈenʲet̪lːɑ# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
 #ˈeχoxʲˈenʲˌet̪lːɑ# | 14 : [+syl] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [-stres] ( [-syl] )* #
-#ˈeχoxʲˈenʲˌed̪lːɑ# | 17 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
-#ˈeχoxʲˈenʲˌed̪lː# | 20 : [+syl,-long] > ∅ / __ #
+#ˈeχoxʲˈenʲˌed̪lːɑ# | 19 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
+#ˈeχoxʲˈenʲˌed̪lː# | 23 : [+syl,-long] > ∅ / __ #
 Final form : #ˈeχoxʲˈenʲˌed̪lː#
