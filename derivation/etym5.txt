@@ -4,7 +4,7 @@ t̪ o m e t̪ e n t̪
 #t̪omːet̪enːt̪# | 0 : [+son,+cons] > [+long] 
 #t̪ˈomːet̪enːt̪# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
 #t̪ˈomːeθenːt̪# | 5 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
-#t̪ˈomeθenːt̪# | 6 : [+son] > [-long,-splng] / [-cons,+son] __ [+syl]
+#t̪ˈomeθenːt̪# | 6 : [+son,-cor] > [-long,-splng] / [-cons,+son,-cor] __ [+syl]
 #t̪ˈomʲeθʲenːt̪# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
 #t̪ˈomʲeθʲˌenːt̪# | 12 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
 #t̪ˈomʲeθʲˌenːd̪# | 18 : [-son,-cont] > [+voi] / [+voi] __ #

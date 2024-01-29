@@ -4,7 +4,7 @@ w > f / __ [+syl]
 [+syl] > [+prim,+stres,+syl,+son,0delrel] / ʔ ( [-syl] )* __ 
 ʔ > ∅ 
 [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
-[+son] > [-long,-splng] / [-cons,+son] __ [+syl]
+[+son,-cor] > [-long,-splng] / [-cons,+son,-cor] __ [+syl]
 {s;f} > {χ;h} / [-cons,+son] __ 
 [+cons] > ∅ / [-cons] __ #
 [+cons,-front] > [+hi,+front] / __ [+front]

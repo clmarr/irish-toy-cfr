@@ -1,16 +1,15 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :7:
-#wenikɑros# >>> #fʲˈinʲexˌɑr# ( GOLD : #fʲinxɑr#) :
+#wenikɑros# >>> #fʲˈinːʲexˌɑrː# ( GOLD : #fʲinxɑr#) :
 w e n i k ɑ r o s 
 #wenːikɑrːos# | 0 : [+son,+cons] > [+long] 
 #fenːikɑrːos# | 1 : w > f / __ [+syl]
 #fˈenːikɑrːos# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
 #fˈenːixɑrːos# | 5 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
-#fˈenixɑros# | 6 : [+son] > [-long,-splng] / [-cons,+son] __ [+syl]
-#fˈenixɑroχ# | 7 : {s;f} > {χ;h} / [-cons,+son] __ 
-#fˈenixɑro# | 8 : [+cons] > ∅ / [-cons] __ #
-#fʲˈenʲixɑro# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
-#fʲˈinʲixɑro# | 10 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
-#fʲˈinʲexɑro# | 11 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
-#fʲˈinʲexˌɑro# | 12 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
-#fʲˈinʲexˌɑr# | 23 : [+syl,-long] > ∅ / __ #
-Final form : #fʲˈinʲexˌɑr#
+#fˈenːixɑrːoχ# | 7 : {s;f} > {χ;h} / [-cons,+son] __ 
+#fˈenːixɑrːo# | 8 : [+cons] > ∅ / [-cons] __ #
+#fʲˈenːʲixɑrːo# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
+#fʲˈinːʲixɑrːo# | 10 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
+#fʲˈinːʲexɑrːo# | 11 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
+#fʲˈinːʲexˌɑrːo# | 12 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
+#fʲˈinːʲexˌɑrː# | 23 : [+syl,-long] > ∅ / __ #
+Final form : #fʲˈinːʲexˌɑrː#

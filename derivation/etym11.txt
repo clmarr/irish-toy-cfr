@@ -1,16 +1,15 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :11:
-#esɑnʔkenet̪lɑn# >>> #ˈeχɑɡʲˈenʲˌed̪lː# ( GOLD : #ɑɡʲenʲeːl#) :
+#esɑnʔkenet̪lɑn# >>> #ˈeχɑɡʲˈenːʲˌed̪lː# ( GOLD : #ɑɡʲenʲeːl#) :
 e s ɑ n ʔ k e n e t̪ l ɑ n 
 #esɑnːʔkenːet̪lːɑnː# | 0 : [+son,+cons] > [+long] 
 #ˈesɑnːʔkenːet̪lːɑnː# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
 #ˈesɑnːʔkˈenːet̪lːɑnː# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / ʔ ( [-syl] )* __ 
 #ˈesɑnːkˈenːet̪lːɑnː# | 4 : ʔ > ∅ 
-#ˈesɑnːkˈenet̪lːɑnː# | 6 : [+son] > [-long,-splng] / [-cons,+son] __ [+syl]
-#ˈeχɑnːkˈenet̪lːɑnː# | 7 : {s;f} > {χ;h} / [-cons,+son] __ 
-#ˈeχɑnːkˈenet̪lːɑ# | 8 : [+cons] > ∅ / [-cons] __ #
-#ˈeχɑnːkʲˈenʲet̪lːɑ# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
-#ˈeχɑnːkʲˈenʲˌet̪lːɑ# | 14 : [+syl] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [-stres] ( [-syl] )* #
-#ˈeχɑnːɡʲˈenʲˌed̪lːɑ# | 19 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
-#ˈeχɑɡʲˈenʲˌed̪lːɑ# | 22 : [+nas,+cons] > ∅ / [-cons] __ [+cons,-nas]
-#ˈeχɑɡʲˈenʲˌed̪lː# | 23 : [+syl,-long] > ∅ / __ #
-Final form : #ˈeχɑɡʲˈenʲˌed̪lː#
+#ˈeχɑnːkˈenːet̪lːɑnː# | 7 : {s;f} > {χ;h} / [-cons,+son] __ 
+#ˈeχɑnːkˈenːet̪lːɑ# | 8 : [+cons] > ∅ / [-cons] __ #
+#ˈeχɑnːkʲˈenːʲet̪lːɑ# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
+#ˈeχɑnːkʲˈenːʲˌet̪lːɑ# | 14 : [+syl] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [-stres] ( [-syl] )* #
+#ˈeχɑnːɡʲˈenːʲˌed̪lːɑ# | 19 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
+#ˈeχɑɡʲˈenːʲˌed̪lːɑ# | 22 : [+nas,+cons] > ∅ / [-cons] __ [+cons,-nas]
+#ˈeχɑɡʲˈenːʲˌed̪lː# | 23 : [+syl,-long] > ∅ / __ #
+Final form : #ˈeχɑɡʲˈenːʲˌed̪lː#

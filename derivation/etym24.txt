@@ -1,14 +1,13 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :24:
-#esoʔlet̪ɑs# >>> #ˈeχolʲˈeθ# ( GOLD : #ɑlʲeθ#) :
+#esoʔlet̪ɑs# >>> #ˈeχolːʲˈeθ# ( GOLD : #ɑlʲeθ#) :
 e s o ʔ l e t̪ ɑ s 
 #esoʔlːet̪ɑs# | 0 : [+son,+cons] > [+long] 
 #ˈesoʔlːet̪ɑs# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
 #ˈesoʔlːˈet̪ɑs# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / ʔ ( [-syl] )* __ 
 #ˈesolːˈet̪ɑs# | 4 : ʔ > ∅ 
 #ˈesolːˈeθɑs# | 5 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
-#ˈesolˈeθɑs# | 6 : [+son] > [-long,-splng] / [-cons,+son] __ [+syl]
-#ˈeχolˈeθɑχ# | 7 : {s;f} > {χ;h} / [-cons,+son] __ 
-#ˈeχolˈeθɑ# | 8 : [+cons] > ∅ / [-cons] __ #
-#ˈeχolʲˈeθɑ# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
-#ˈeχolʲˈeθ# | 23 : [+syl,-long] > ∅ / __ #
-Final form : #ˈeχolʲˈeθ#
+#ˈeχolːˈeθɑχ# | 7 : {s;f} > {χ;h} / [-cons,+son] __ 
+#ˈeχolːˈeθɑ# | 8 : [+cons] > ∅ / [-cons] __ #
+#ˈeχolːʲˈeθɑ# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
+#ˈeχolːʲˈeθ# | 23 : [+syl,-long] > ∅ / __ #
+Final form : #ˈeχolːʲˈeθ#

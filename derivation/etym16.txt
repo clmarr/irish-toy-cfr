@@ -1,10 +1,9 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :16:
-#ɡoni# >>> #ɡˈunʲ# ( GOLD : #ɡunʲ#) :
+#ɡoni# >>> #ɡˈunːʲ# ( GOLD : #ɡunʲ#) :
 ɡ o n i 
 #ɡonːi# | 0 : [+son,+cons] > [+long] 
 #ɡˈonːi# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
-#ɡˈoni# | 6 : [+son] > [-long,-splng] / [-cons,+son] __ [+syl]
-#ɡˈonʲi# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
-#ɡˈunʲi# | 10 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
-#ɡˈunʲ# | 23 : [+syl,-long] > ∅ / __ #
-Final form : #ɡˈunʲ#
+#ɡˈonːʲi# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
+#ɡˈunːʲi# | 10 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
+#ɡˈunːʲ# | 23 : [+syl,-long] > ∅ / __ #
+Final form : #ɡˈunːʲ#

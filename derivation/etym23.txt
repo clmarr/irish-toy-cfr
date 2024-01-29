@@ -1,14 +1,13 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :23:
-#sesɑnʔsuːliːs# >>> #sʲˈeχɑ?ˈuːlʲi# ( GOLD : #ɑsuːlʲi#) :
+#sesɑnʔsuːliːs# >>> #sʲˈeχɑsːˈuːlːʲi# ( GOLD : #ɑsuːlʲi#) :
 s e s ɑ n ʔ s uː l iː s 
 #sesɑnːʔsuːlːiːs# | 0 : [+son,+cons] > [+long] 
 #sˈesɑnːʔsuːlːiːs# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
 #sˈesɑnːʔsˈuːlːiːs# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / ʔ ( [-syl] )* __ 
 #sˈesɑnːsˈuːlːiːs# | 4 : ʔ > ∅ 
-#sˈesɑnːsˈuːliːs# | 6 : [+son] > [-long,-splng] / [-cons,+son] __ [+syl]
-#sˈeχɑnːsˈuːliːχ# | 7 : {s;f} > {χ;h} / [-cons,+son] __ 
-#sˈeχɑnːsˈuːliː# | 8 : [+cons] > ∅ / [-cons] __ #
-#sʲˈeχɑnːsˈuːlʲiː# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
-#sʲˈeχɑ?ˈuːlʲiː# | 17 : [+nas,+cons] s > ∅ [+long]
-#sʲˈeχɑ?ˈuːlʲi# | 24 : [+syl] > [-long,-splng] / __ #
-Final form : #sʲˈeχɑ?ˈuːlʲi#
+#sˈeχɑnːsˈuːlːiːχ# | 7 : {s;f} > {χ;h} / [-cons,+son] __ 
+#sˈeχɑnːsˈuːlːiː# | 8 : [+cons] > ∅ / [-cons] __ #
+#sʲˈeχɑnːsˈuːlːʲiː# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
+#sʲˈeχɑsːˈuːlːʲiː# | 17 : [+nas,+cons] s > ∅ [+long]
+#sʲˈeχɑsːˈuːlːʲi# | 24 : [+syl] > [-long,-splng] / __ #
+Final form : #sʲˈeχɑsːˈuːlːʲi#
