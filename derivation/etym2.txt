@@ -6,6 +6,7 @@ r iː m iː t̪
 #rːˈiːmiːt̪# | 6 : [+son,-cor] > [-long,-splng] / [-cons,+son,-cor] __ [+syl]
 #rːˈiːmiː# | 8 : [+cons] > ∅ / [-cons] __ #
 #rːʲˈiːmʲiː# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
+Stressed-Irish stage form : #rːʲˈiːmʲiː#
 #rːʲˈiːmʲi# | 25 : [+syl] > [-long,-splng] / __ #
-#rːʲiːmʲi# | 26 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#rːʲiːmʲi# | 29 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #rːʲiːmʲi#

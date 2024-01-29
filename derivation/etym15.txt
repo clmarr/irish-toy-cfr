@@ -10,6 +10,7 @@ n iː s ʔ t̪ o r iː m iː t̪
 #nːˈiːχt̪ˈorːiːmiː# | 8 : [+cons] > ∅ / [-cons] __ #
 #nːʲˈiːχt̪ˈorːʲiːmʲiː# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
 #nːʲˈiːχt̪ˈurːʲiːmʲiː# | 11 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
+Stressed-Irish stage form : #nːʲˈiːχt̪ˈurːʲiːmʲiː#
 #nːʲˈiːχt̪ˈurːʲiːmʲi# | 25 : [+syl] > [-long,-splng] / __ #
-#nːʲiːχt̪urːʲiːmʲi# | 26 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#nːʲiːχt̪urːʲiːmʲi# | 29 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #nːʲiːχt̪urːʲiːmʲi#

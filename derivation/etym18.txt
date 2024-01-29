@@ -7,6 +7,7 @@ b i t̪ oː s
 #bˈiθoː# | 8 : [+cons] > ∅ / [-cons] __ #
 #bʲˈiθoː# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
 #bʲˈeθoː# | 12 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
+Stressed-Irish stage form : #bʲˈeθoː#
 #bʲˈeθo# | 25 : [+syl] > [-long,-splng] / __ #
-#bʲeθo# | 26 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#bʲeθo# | 29 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #bʲeθo#

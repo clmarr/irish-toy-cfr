@@ -23,7 +23,7 @@ $First lenition part two: s to χ (later secondary h) and ɸ to h post-vocalical
 $loss of post-non-consonantal final consonants. This must come after the word boundary deletion with esan, given the nasalized onset form agenel. 
 [+cons] > ∅ / [-cons] __ #
 
-$e lowered before x. May be argued to bleed palatalization in finchar though this could be debated.
+$e lowered before x.  Fed by aspirating lenition.
 [+front,-hi] > [+lo] / __ [+back,+cont]
 
 $consonants before i, e patalalize. This must happen before apocope (ri:mi:ti > r:ʲiṽʲiθʲ)
@@ -44,6 +44,8 @@ $ [-hi,+back] captures a and o to the exclusion of e.
 $countertonic (secondary) stress imposed on odd numbered syllables unless they are word final. This is done by detecting the intermediate unstressed syllable and then jumping over it. Must come before syncope and before compensatory lengthening for nasal and stop deletions in clusters. Does not apply to word-final vowels (post-context: @, to be blocked before #). Applies recursively. Two times application is probably enough for words in this set, they don't get that long. 
 [+syl] > [+stres] / [+stres] ([-syl])* [-stres] ([-syl])* __ @
 [+syl] > [+stres] / [+stres] ([-syl])* [-stres] ([-syl])* __ @
+
+=Stressed-Irish
 
 $unstressed penultimates that are not before stressed final syllables acquire secondary stress if before (at least?) two vowels. 
 [+syl] > [+stres] / __ [-syl] ([-syl])+ [-stres] ([-syl])* #
@@ -77,6 +79,11 @@ $APOCOPE and SYNCOPE handled together here, in terms of stress
 $pseudo-apocope: just before word boundary (no cons. in between), short vowels are lost, while long vowels lose a mora. (in effect short vowels lose their only mora. 
 [+syl,-long] > ∅ / __ #
 [+syl] > [-long] / __ #
+
+$cluster palatality assimilation (regressive) 
+[+back,+cons] > [-front] / __ [-front]
+[-back,+cons] > [-front,-hi] / __ [-front] 
+[+cons] > [+front,+hi] / __ [+front,+cons]
 
 $orthographic stress removed (place this late)
 [+stres] > [-stres]

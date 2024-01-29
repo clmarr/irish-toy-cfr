@@ -10,6 +10,7 @@ e s o ʔ l e t̪ ɑ s
 #ˈeχolːˈeθɑ# | 8 : [+cons] > ∅ / [-cons] __ #
 #ˈaχolːˈeθɑ# | 9 : [+front,-hi] > [+lo] / __ [+back,+cont]
 #ˈaχolːʲˈeθɑ# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
+Stressed-Irish stage form : #ˈaχolːʲˈeθɑ#
 #ˈaχolːʲˈeθ# | 24 : [+syl,-long] > ∅ / __ #
-#aχolːʲeθ# | 26 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#aχolːʲeθ# | 29 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #aχolːʲeθ#

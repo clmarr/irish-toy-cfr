@@ -9,7 +9,8 @@ s e s ɑ n ʔ s uː l iː s
 #sˈeχɑnːsˈuːlːiː# | 8 : [+cons] > ∅ / [-cons] __ #
 #sˈaχɑnːsˈuːlːiː# | 9 : [+front,-hi] > [+lo] / __ [+back,+cont]
 #sʲˈaχɑnːsˈuːlːʲiː# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
+Stressed-Irish stage form : #sʲˈaχɑnːsˈuːlːʲiː#
 #sʲˈaχɑsːˈuːlːʲiː# | 18 : [+nas,+cons] s > ∅ [+long]
 #sʲˈaχɑsːˈuːlːʲi# | 25 : [+syl] > [-long,-splng] / __ #
-#sʲaχɑsːuːlːʲi# | 26 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#sʲaχɑsːuːlːʲi# | 29 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #sʲaχɑsːuːlːʲi#

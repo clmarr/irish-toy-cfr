@@ -8,8 +8,9 @@ m o n i k l ɑ s
 #mːˈonːʲiklːɑ# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
 #mːˈunːʲiklːɑ# | 11 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
 #mːˈunːʲeklːɑ# | 12 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
+Stressed-Irish stage form : #mːˈunːʲeklːɑ#
 #mːˈunːʲˌeklːɑ# | 15 : [+syl] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [-stres] ( [-syl] )* #
 #mːˈunːʲˌeɡlːɑ# | 20 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
 #mːˈunːʲˌeɡlː# | 24 : [+syl,-long] > ∅ / __ #
-#mːunːʲeɡlː# | 26 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#mːunːʲeɡlː# | 29 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #mːunːʲeɡlː#

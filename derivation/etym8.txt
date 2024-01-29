@@ -8,6 +8,7 @@ w i r o ɡ ɑ l ɑ
 #fʲˈirːoɣɑlːɑ# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
 #fʲˈerːoɣɑlːɑ# | 12 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
 #fʲˈerːoɣˌɑlːɑ# | 13 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
+Stressed-Irish stage form : #fʲˈerːoɣˌɑlːɑ#
 #fʲˈerːoɣˌɑlː# | 24 : [+syl,-long] > ∅ / __ #
-#fʲerːoɣɑlː# | 26 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#fʲerːoɣɑlː# | 29 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #fʲerːoɣɑlː#

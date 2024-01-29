@@ -8,7 +8,8 @@ m r o ɡ i s
 #mːrːˈoɣi# | 8 : [+cons] > ∅ / [-cons] __ #
 #mːrːˈoɣʲi# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
 #mːrːˈuɣʲi# | 11 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
+Stressed-Irish stage form : #mːrːˈuɣʲi#
 #rːˈuɣʲi# | 17 : [+nas,+cons] [+son,+cons] > ∅ [+long]
 #rːˈuɣʲ# | 24 : [+syl,-long] > ∅ / __ #
-#rːuɣʲ# | 26 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#rːuɣʲ# | 29 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #rːuɣʲ#

@@ -7,6 +7,7 @@ l e t̪ ɑ s
 #lːˈeθɑχ# | 7 : {s;f} > {χ;h} / [-cons,+son] __ 
 #lːˈeθɑ# | 8 : [+cons] > ∅ / [-cons] __ #
 #lːʲˈeθɑ# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
+Stressed-Irish stage form : #lːʲˈeθɑ#
 #lːʲˈeθ# | 24 : [+syl,-long] > ∅ / __ #
-#lːʲeθ# | 26 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#lːʲeθ# | 29 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #lːʲeθ#

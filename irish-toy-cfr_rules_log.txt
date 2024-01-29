@@ -24,4 +24,7 @@ f > v / [+nas,+voi] __
 [+nas,+cons] > ∅ / [-cons] __ [+cons,-nas]
 [+syl,-long] > ∅ / __ #
 [+syl] > [-long,-splng] / __ #
+[+back,+cons] > [-front] / __ [-front]
+[-back,+cons] > [-front,-hi] / __ [-front]
+[+cons] > [+front,+hi] / __ [+front,+cons]
 [+stres] > [-stres,-prim,+syl,+son,0delrel] 
