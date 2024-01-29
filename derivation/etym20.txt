@@ -14,7 +14,7 @@ Stressed-Irish stage form : #mːˈunʲˌeklːɑ#
 #mːˈunʲˌeɡlːɑ# | 23 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
 #mːˈunʲˌehlːɑ# | 27 : [-cont] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
 #mːˈunʲˌeːhlːɑ# | 29 : [+stres] > [+long] / __ h
-#mːˈunʲˌeːlːɑ# | 30 : h > ∅ 
-#mːˈunʲˌeːlː# | 31 : [-stres,-long] > ∅ 
-#mːunʲeːlː# | 36 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#mːˈunʲˌeːhlː# | 30 : [-stres,-long] > ∅ 
+#mːˈunʲˌeːlː# | 33 : h > ∅ / __ [-syl]
+#mːunʲeːlː# | 39 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #mːunʲeːlː#

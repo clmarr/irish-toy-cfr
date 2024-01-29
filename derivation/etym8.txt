@@ -10,6 +10,6 @@ w i r o ɡ ɑ l ɑ
 #fʲˈeroɣɑlɑ# | 14 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
 #fʲˈeroɣˌɑlɑ# | 15 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
 Stressed-Irish stage form : #fʲˈeroɣˌɑlɑ#
-#fʲˈerɣˌɑl# | 31 : [-stres,-long] > ∅ 
-#fʲerɣɑl# | 36 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#fʲˈerɣˌɑl# | 30 : [-stres,-long] > ∅ 
+#fʲerɣɑl# | 39 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #fʲerɣɑl#

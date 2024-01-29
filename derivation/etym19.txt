@@ -10,6 +10,6 @@ m r o ɡ i s
 #mːrːˈuɣʲi# | 13 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
 Stressed-Irish stage form : #mːrːˈuɣʲi#
 #rːˈuɣʲi# | 20 : [+nas,+cons] [+son,+cons] > ∅ [+long]
-#rːˈuɣʲ# | 31 : [-stres,-long] > ∅ 
-#rːuɣʲ# | 36 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#rːˈuɣʲ# | 30 : [-stres,-long] > ∅ 
+#rːuɣʲ# | 39 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #rːuɣʲ#

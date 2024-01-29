@@ -1,5 +1,5 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :11:
-#esɑnʔkenet̪lɑn# >>> #aχnːʲɡʲenʲeːlː# ( GOLD : #ɑɡʲenʲeːl#) :
+#esɑnʔkenet̪lɑn# >>> #ɑnːʲɡʲenʲeːlː# ( GOLD : #ɑɡʲenʲeːl#) :
 e s ɑ n ʔ k e n e t̪ l ɑ n 
 #esɑnːʔkenːet̪lːɑnː# | 0 : [+son,+cons] > [+long] 
 #ˈesɑnːʔkenːet̪lːɑnː# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
@@ -8,15 +8,16 @@ e s ɑ n ʔ k e n e t̪ l ɑ n
 #ˈesɑnːkˈenet̪lːɑnː# | 8 : [+son,+cons] > [-long,-splng] / [+syl] __ [+syl]
 #ˈeχɑnːkˈenet̪lːɑnː# | 9 : {s;f} > {χ;h} / [-cons,+son] __ 
 #ˈeχɑnːkˈenet̪lːɑ# | 10 : [+cons] > ∅ / [-cons] __ #
-#ˈaχɑnːkˈenet̪lːɑ# | 11 : [+front,-hi] > [+lo] / __ [+back,+cont]
-#ˈaχɑnːkʲˈenʲet̪lːɑ# | 12 : [+cons,-front] > [+hi,+front] / __ [+front]
-#ˈaχɑnːkʲˈenʲˌet̪lːɑ# | 17 : [+syl,-stres] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [+syl] #
-Stressed-Irish stage form : #ˈaχɑnːkʲˈenʲˌet̪lːɑ#
-#ˈaχɑnːɡʲˈenʲˌed̪lːɑ# | 23 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
-#ˈaχɑnːɡʲˈenʲˌehlːɑ# | 27 : [-cont] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
-#ˈaχɑnːɡʲˈenʲˌeːhlːɑ# | 29 : [+stres] > [+long] / __ h
-#ˈaχɑnːɡʲˈenʲˌeːlːɑ# | 30 : h > ∅ 
-#ˈaχnːɡʲˈenʲˌeːlː# | 31 : [-stres,-long] > ∅ 
-#ˈaχnːʲɡʲˈenʲˌeːlː# | 35 : [+cons] > [+front,+hi] / __ [+front,+cons]
-#aχnːʲɡʲenʲeːlː# | 36 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #aχnːʲɡʲenʲeːlː#
+#ˈɑχɑnːkˈenet̪lːɑ# | 11 : [+front,-hi] > [+lo,+back,-front] / __ [+back,+cont]
+#ˈɑχɑnːkʲˈenʲet̪lːɑ# | 12 : [+cons,-front] > [+hi,+front] / __ [+front]
+#ˈɑχɑnːkʲˈenʲˌet̪lːɑ# | 17 : [+syl,-stres] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [+syl] #
+Stressed-Irish stage form : #ˈɑχɑnːkʲˈenʲˌet̪lːɑ#
+#ˈɑχɑnːɡʲˈenʲˌed̪lːɑ# | 23 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
+#ˈɑχɑnːɡʲˈenʲˌehlːɑ# | 27 : [-cont] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
+#ˈɑχɑnːɡʲˈenʲˌeːhlːɑ# | 29 : [+stres] > [+long] / __ h
+#ˈɑχnːɡʲˈenʲˌeːhlː# | 30 : [-stres,-long] > ∅ 
+#ˈɑhnːɡʲˈenʲˌeːhlː# | 32 : χ > h 
+#ˈɑnːɡʲˈenʲˌeːlː# | 33 : h > ∅ / __ [-syl]
+#ˈɑnːʲɡʲˈenʲˌeːlː# | 36 : [+cons] > [+front,+hi] / __ [+front,+cons]
+#ɑnːʲɡʲenʲeːlː# | 39 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #ɑnːʲɡʲenʲeːlː#

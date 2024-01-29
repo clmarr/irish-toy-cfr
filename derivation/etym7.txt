@@ -13,7 +13,7 @@ w e n i k ɑ r o s
 #fʲˈinʲexɑro# | 14 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
 #fʲˈinʲexˌɑro# | 15 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
 Stressed-Irish stage form : #fʲˈinʲexˌɑro#
-#fʲˈinʲxˌɑr# | 31 : [-stres,-long] > ∅ 
-#fʲˈinxˌɑr# | 34 : [-back,+cons] > [-front,-hi] / __ [-front]
-#fʲinxɑr# | 36 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#fʲˈinʲxˌɑr# | 30 : [-stres,-long] > ∅ 
+#fʲˈinxˌɑr# | 35 : [-back,+cons] > [-front,-hi] / __ [-front]
+#fʲinxɑr# | 39 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #fʲinxɑr#

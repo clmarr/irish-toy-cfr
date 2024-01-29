@@ -11,8 +11,8 @@ Stressed-Irish stage form : #t̪ʲˈenːt̪ʲenːt̪#
 #t̪ʲˈehd̪ʲenːd̪# | 25 : [+nas] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
 #t̪ʲˈehd̪ʲehd̪# | 26 : [+nas] > h / __ [-syl] ( [-syl] )* #
 #t̪ʲˈeːhd̪ʲehd̪# | 29 : [+stres] > [+long] / __ h
-#t̪ʲˈeːd̪ʲed̪# | 30 : h > ∅ 
-#t̪ʲˈeːd̪ʲd̪# | 31 : [-stres,-long] > ∅ 
-#t̪ʲˈeːd̪d̪# | 34 : [-back,+cons] > [-front,-hi] / __ [-front]
-#t̪ʲeːd̪d̪# | 36 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#t̪ʲˈeːhd̪ʲhd̪# | 30 : [-stres,-long] > ∅ 
+#t̪ʲˈeːd̪ʲd̪# | 33 : h > ∅ / __ [-syl]
+#t̪ʲˈeːd̪d̪# | 35 : [-back,+cons] > [-front,-hi] / __ [-front]
+#t̪ʲeːd̪d̪# | 39 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #t̪ʲeːd̪d̪#

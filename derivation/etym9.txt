@@ -1,5 +1,5 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :9:
-#esoʔkenet̪lɑn# >>> #aɕˠxʲenʲeːlː# ( GOLD : #ɑxʲenʲeːl#) :
+#esoʔkenet̪lɑn# >>> #ɑxʲenʲeːlː# ( GOLD : #ɑxʲenʲeːl#) :
 e s o ʔ k e n e t̪ l ɑ n 
 #esoʔkenːet̪lːɑnː# | 0 : [+son,+cons] > [+long] 
 #ˈesoʔkenːet̪lːɑnː# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
@@ -9,15 +9,15 @@ e s o ʔ k e n e t̪ l ɑ n
 #ˈesoxˈenet̪lːɑnː# | 8 : [+son,+cons] > [-long,-splng] / [+syl] __ [+syl]
 #ˈeχoxˈenet̪lːɑnː# | 9 : {s;f} > {χ;h} / [-cons,+son] __ 
 #ˈeχoxˈenet̪lːɑ# | 10 : [+cons] > ∅ / [-cons] __ #
-#ˈaχoxˈenet̪lːɑ# | 11 : [+front,-hi] > [+lo] / __ [+back,+cont]
-#ˈaχoxʲˈenʲet̪lːɑ# | 12 : [+cons,-front] > [+hi,+front] / __ [+front]
-#ˈaχoxʲˈenʲˌet̪lːɑ# | 17 : [+syl,-stres] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [+syl] #
-Stressed-Irish stage form : #ˈaχoxʲˈenʲˌet̪lːɑ#
-#ˈaχoxʲˈenʲˌed̪lːɑ# | 23 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
-#ˈaχoxʲˈenʲˌehlːɑ# | 27 : [-cont] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
-#ˈaχoxʲˈenʲˌeːhlːɑ# | 29 : [+stres] > [+long] / __ h
-#ˈaχoxʲˈenʲˌeːlːɑ# | 30 : h > ∅ 
-#ˈaχxʲˈenʲˌeːlː# | 31 : [-stres,-long] > ∅ 
-#ˈaɕˠxʲˈenʲˌeːlː# | 35 : [+cons] > [+front,+hi] / __ [+front,+cons]
-#aɕˠxʲenʲeːlː# | 36 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #aɕˠxʲenʲeːlː#
+#ˈɑχoxˈenet̪lːɑ# | 11 : [+front,-hi] > [+lo,+back,-front] / __ [+back,+cont]
+#ˈɑχoxʲˈenʲet̪lːɑ# | 12 : [+cons,-front] > [+hi,+front] / __ [+front]
+#ˈɑχoxʲˈenʲˌet̪lːɑ# | 17 : [+syl,-stres] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [+syl] #
+Stressed-Irish stage form : #ˈɑχoxʲˈenʲˌet̪lːɑ#
+#ˈɑχoxʲˈenʲˌed̪lːɑ# | 23 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
+#ˈɑχoxʲˈenʲˌehlːɑ# | 27 : [-cont] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
+#ˈɑχoxʲˈenʲˌeːhlːɑ# | 29 : [+stres] > [+long] / __ h
+#ˈɑχxʲˈenʲˌeːhlː# | 30 : [-stres,-long] > ∅ 
+#ˈɑhxʲˈenʲˌeːhlː# | 32 : χ > h 
+#ˈɑxʲˈenʲˌeːlː# | 33 : h > ∅ / __ [-syl]
+#ɑxʲenʲeːlː# | 39 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #ɑxʲenʲeːlː#

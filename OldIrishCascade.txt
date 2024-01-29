@@ -29,7 +29,7 @@ $loss of post-non-consonantal final consonants. This must come after the word bo
 [+cons] > ∅ / [-cons] __ #
 
 $e lowered before x. Fed by aspirating lenition.
-[+front,-hi] > [+lo] / __ [+back,+cont]
+[+front,-hi] > [+lo,+back,-front] / __ [+back,+cont]
 
 $consonants before i, e patalalize. This must happen before apocope (ri:mi:ti > r:ʲiṽʲiθʲ)
 [+cons,-front] > [+hi,+front] / __ [+front]
@@ -94,12 +94,18 @@ $pseudo-apocope and -syncope: unstressed short vowels are lost, while long vowel
 
 $ reflex of s passes to h, and disappears in any consonant cluster it is not the last element of. Before cluster palatality assimilation.
 χ > h 
-h > ∅ / __ [+cons]
+h > ∅ / __ [-syl]
 
 $cluster palatality assimilation (regressive) 
 [+back,+cons] > [-front] / __ [-front]
 [-back,+cons] > [-front,-hi] / __ [-front] 
 [+cons] > [+front,+hi] / __ [+front,+cons]
+
+$n-place assimilates to following stops
+$this should be done with alpha features but alas.
+{n;nː} > {ŋ;ŋː} / __ [-cont,+back]
+{n;nː} > {m;mː} / __ [-cont,+lab]
+
 
 $orthographic stress removed (place this late)
 [+stres] > [-stres]

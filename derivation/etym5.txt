@@ -11,7 +11,7 @@ Stressed-Irish stage form : #t̪ˈomʲeθʲˌenːt̪#
 #t̪ˈomʲeθʲˌenːd̪# | 22 : [-son,-cont] > [+voi] / [+voi] __ #
 #t̪ˈomʲeθʲˌehd̪# | 26 : [+nas] > h / __ [-syl] ( [-syl] )* #
 #t̪ˈomʲeθʲˌeːhd̪# | 29 : [+stres] > [+long] / __ h
-#t̪ˈomʲeθʲˌeːd̪# | 30 : h > ∅ 
-#t̪ˈomʲθʲˌeːd̪# | 31 : [-stres,-long] > ∅ 
-#t̪omʲθʲeːd̪# | 36 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#t̪ˈomʲθʲˌeːhd̪# | 30 : [-stres,-long] > ∅ 
+#t̪ˈomʲθʲˌeːd̪# | 33 : h > ∅ / __ [-syl]
+#t̪omʲθʲeːd̪# | 39 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #t̪omʲθʲeːd̪#

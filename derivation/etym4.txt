@@ -8,6 +8,6 @@ Stressed-Irish stage form : #t̪ʲˈenːt̪#
 #t̪ʲˈenːd̪# | 22 : [-son,-cont] > [+voi] / [+voi] __ #
 #t̪ʲˈehd̪# | 26 : [+nas] > h / __ [-syl] ( [-syl] )* #
 #t̪ʲˈeːhd̪# | 29 : [+stres] > [+long] / __ h
-#t̪ʲˈeːd̪# | 30 : h > ∅ 
-#t̪ʲeːd̪# | 36 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#t̪ʲˈeːd̪# | 33 : h > ∅ / __ [-syl]
+#t̪ʲeːd̪# | 39 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #t̪ʲeːd̪#

@@ -9,7 +9,7 @@ o > ∅ / __ [+syl]
 [+son,+cons] > [-long,-splng] / [+syl] __ [+syl]
 {s;f} > {χ;h} / [-cons,+son] __ 
 [+cons] > ∅ / [-cons] __ #
-[+front,-hi] > [+lo] / __ [+back,+cont]
+[+front,-hi] > [+lo,+back,-front] / __ [+back,+cont]
 [+cons,-front] > [+hi,+front] / __ [+front]
 [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
 [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
@@ -28,10 +28,13 @@ f > v / [+nas,+voi] __
 [-cont] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
 [-cont] > h / __ [-syl] ( [-syl] )* #
 [+stres] > [+long] / __ h
-h > ∅ 
 [-stres,-long] > ∅ 
 [-stres] > [-long,-splng] 
+χ > h 
+h > ∅ / __ [-syl]
 [+back,+cons] > [-front] / __ [-front]
 [-back,+cons] > [-front,-hi] / __ [-front]
 [+cons] > [+front,+hi] / __ [+front,+cons]
+{n;nː} > {ŋ;ŋː} / __ [-cont,+back]
+{n;nː} > {m;mː} / __ [-cont,+lab]
 [+stres] > [-stres,-prim,+syl,+son,0delrel] 
