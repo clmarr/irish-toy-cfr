@@ -2,15 +2,15 @@ Derivation file for run '../irish-toy-cfr'; etymon number :21:
 #esoʔɡoni# >>> #aχoɣunːʲ# ( GOLD : #ɑɣunʲ#) :
 e s o ʔ ɡ o n i 
 #esoʔɡonːi# | 0 : [+son,+cons] > [+long] 
-#ˈesoʔɡonːi# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
-#ˈesoʔɡˈonːi# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / ʔ ( [-syl] )* __ 
-#ˈesoɡˈonːi# | 4 : ʔ > ∅ 
-#ˈesoɣˈonːi# | 5 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
-#ˈeχoɣˈonːi# | 7 : {s;f} > {χ;h} / [-cons,+son] __ 
-#ˈaχoɣˈonːi# | 9 : [+front,-hi] > [+lo] / __ [+back,+cont]
-#ˈaχoɣˈonːʲi# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
-#ˈaχoɣˈunːʲi# | 11 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
+#ˈesoʔɡonːi# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+#ˈesoʔɡˈonːi# | 4 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / ʔ ( [-syl] )* __ 
+#ˈesoɡˈonːi# | 5 : ʔ > ∅ 
+#ˈesoɣˈonːi# | 6 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
+#ˈeχoɣˈonːi# | 8 : {s;f} > {χ;h} / [-cons,+son] __ 
+#ˈaχoɣˈonːi# | 10 : [+front,-hi] > [+lo] / __ [+back,+cont]
+#ˈaχoɣˈonːʲi# | 11 : [+cons,-front] > [+hi,+front] / __ [+front]
+#ˈaχoɣˈunːʲi# | 12 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
 Stressed-Irish stage form : #ˈaχoɣˈunːʲi#
-#ˈaχoɣˈunːʲ# | 24 : [+syl,-long] > ∅ / __ #
-#aχoɣunːʲ# | 29 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ˈaχoɣˈunːʲ# | 30 : [+syl,-long] > ∅ / __ #
+#aχoɣunːʲ# | 35 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #aχoɣunːʲ#

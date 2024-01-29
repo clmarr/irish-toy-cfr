@@ -1,13 +1,13 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :18:
 #bit̪oːs# >>> #bʲeθo# ( GOLD : #bʲeθo#) :
 b i t̪ oː s 
-#bˈit̪oːs# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
-#bˈiθoːs# | 5 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
-#bˈiθoːχ# | 7 : {s;f} > {χ;h} / [-cons,+son] __ 
-#bˈiθoː# | 8 : [+cons] > ∅ / [-cons] __ #
-#bʲˈiθoː# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
-#bʲˈeθoː# | 12 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
+#bˈit̪oːs# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+#bˈiθoːs# | 6 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
+#bˈiθoːχ# | 8 : {s;f} > {χ;h} / [-cons,+son] __ 
+#bˈiθoː# | 9 : [+cons] > ∅ / [-cons] __ #
+#bʲˈiθoː# | 11 : [+cons,-front] > [+hi,+front] / __ [+front]
+#bʲˈeθoː# | 13 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
 Stressed-Irish stage form : #bʲˈeθoː#
-#bʲˈeθo# | 25 : [+syl] > [-long,-splng] / __ #
-#bʲeθo# | 29 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#bʲˈeθo# | 31 : [+syl] > [-long,-splng] / __ #
+#bʲeθo# | 35 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #bʲeθo#

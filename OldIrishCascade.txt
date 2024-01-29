@@ -3,8 +3,11 @@ $Proto-Irish to Old Irish cascade!
 $although this language treats nasal stops as proper stops and [-cont] that's a change to symbolDefs I'm too lazy to implement at the moment, so we are instead handling that distinction with length. Implementing long variant default. Implement the same for l and r since it seems to work the same. 
 [+son,+cons] > [+long]
 
-$syllable initila w develarizes and also devoices to f for now (pending later developments.)
+$syllable initial w develarizes and also devoices to f for now (pending later developments.)
 w > f / __ [+syl]
+
+$o effaced in hiatus (per handout I believe)
+o > ∅ / __ [+syl]
 
 $innovation of word initial stress. Taking into account that word boundaries that are going to be removed before long are currently represented by ʔ
 [+syl] > [+prim] / {#;ʔ} ([-syl])* __
@@ -45,6 +48,9 @@ $countertonic (secondary) stress imposed on odd numbered syllables unless they a
 [+syl] > [+stres] / [+stres] ([-syl])* [-stres] ([-syl])* __ @
 [+syl] > [+stres] / [+stres] ([-syl])* [-stres] ([-syl])* __ @
 
+$countertonic stress imposed on heavy penultimates before light ultimates
+[+syl,-stres] > [+stres] / __ [-syl] ([-syl])+ [+syl] #
+
 =Stressed-Irish
 
 $unstressed penultimates that are not before stressed final syllables acquire secondary stress if before (at least?) two vowels. 
@@ -62,17 +68,20 @@ $Second lenition: voicing spreads progressively for stops in consonant clusters;
 [-son,-cont] > [+voi] / [+voi] __ {#;[+voi]}
 f > v / [+nas,+voi] __
 
-
-$TODO merge stop deletion and compensatory lengthening in here? 
-
 $nasal consonant deletion in V __ C : must come AFTER POST-SONORANT STOP VOICING (tent > te:d), but BEFORE SYNCOPE (tomthed). 
-$compensatory lengthening before nasal deletion
+$compensatory lengthening before nasal deletion :
+$ would be:  [+stres] > [+long] / __ [+nas,+cons] [-son] 
+	$ followed by [+nas,+cons] > ∅ / [-cons] __ [+cons,-nas]
 $seems limited to primary or secondary stressed elements.
-$ the same thing 
-[+stres] > [+long] / __ [+nas,+cons] [-son] 
+$ the same thing appears to happen with stops as the first elements in clusters
+$ another relevant element is that these elements do not seem to be effaced word initialy: mruig, cloth, etc. 
+$ but the language no longer respects word boundaries so the real way these are distinguished seems to be ... being in the onset of the tonic syllable.
+$ handle this with a dummy h. 
+[+nas] > h / __ [-syl] ([-syl])* {[+syl,-prim];#}
+[-cont] > h / __ [-syl] ([-syl])* {[+syl,-prim];#}
+[+stres] > [+long] / __ h
+h > ∅
 
-$loss of N in V __ C
-[+nas,+cons] > ∅ / [-cons] __ [+cons,-nas]
 
 $APOCOPE and SYNCOPE handled together here, in terms of stress
 

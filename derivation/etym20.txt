@@ -1,16 +1,19 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :20:
-#moniklɑs# >>> #mːunːʲeɡlː# ( GOLD : #munʲeːl#) :
+#moniklɑs# >>> #mːunːʲeːlː# ( GOLD : #munʲeːl#) :
 m o n i k l ɑ s 
 #mːonːiklːɑs# | 0 : [+son,+cons] > [+long] 
-#mːˈonːiklːɑs# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
-#mːˈonːiklːɑχ# | 7 : {s;f} > {χ;h} / [-cons,+son] __ 
-#mːˈonːiklːɑ# | 8 : [+cons] > ∅ / [-cons] __ #
-#mːˈonːʲiklːɑ# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
-#mːˈunːʲiklːɑ# | 11 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
-#mːˈunːʲeklːɑ# | 12 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
-Stressed-Irish stage form : #mːˈunːʲeklːɑ#
-#mːˈunːʲˌeklːɑ# | 15 : [+syl] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [-stres] ( [-syl] )* #
-#mːˈunːʲˌeɡlːɑ# | 20 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
-#mːˈunːʲˌeɡlː# | 24 : [+syl,-long] > ∅ / __ #
-#mːunːʲeɡlː# | 29 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #mːunːʲeɡlː#
+#mːˈonːiklːɑs# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+#mːˈonːiklːɑχ# | 8 : {s;f} > {χ;h} / [-cons,+son] __ 
+#mːˈonːiklːɑ# | 9 : [+cons] > ∅ / [-cons] __ #
+#mːˈonːʲiklːɑ# | 11 : [+cons,-front] > [+hi,+front] / __ [+front]
+#mːˈunːʲiklːɑ# | 12 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
+#mːˈunːʲeklːɑ# | 13 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
+#mːˈunːʲˌeklːɑ# | 16 : [+syl,-stres] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [+syl] #
+Stressed-Irish stage form : #mːˈunːʲˌeklːɑ#
+#mːˈunːʲˌeɡlːɑ# | 22 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
+#mːˈunːʲˌehlːɑ# | 26 : [-cont] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
+#mːˈunːʲˌeːhlːɑ# | 28 : [+stres] > [+long] / __ h
+#mːˈunːʲˌeːlːɑ# | 29 : h > ∅ 
+#mːˈunːʲˌeːlː# | 30 : [+syl,-long] > ∅ / __ #
+#mːunːʲeːlː# | 35 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #mːunːʲeːlː#

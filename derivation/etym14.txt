@@ -2,13 +2,13 @@ Derivation file for run '../irish-toy-cfr'; etymon number :14:
 #t̪oriːmo# >>> #t̪urːʲeːm# ( GOLD : #t̪urʲeṽ#) :
 t̪ o r iː m o 
 #t̪orːiːmːo# | 0 : [+son,+cons] > [+long] 
-#t̪ˈorːiːmːo# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
-#t̪ˈorːiːmo# | 6 : [+son,-cor] > [-long,-splng] / [-cons,+son,-cor] __ [+syl]
-#t̪ˈorːʲiːmo# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
-#t̪ˈurːʲiːmo# | 11 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
-#t̪ˈurːʲeːmo# | 12 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
+#t̪ˈorːiːmːo# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+#t̪ˈorːiːmo# | 7 : [+son,-cor] > [-long,-splng] / [-cons,+son,-cor] __ [+syl]
+#t̪ˈorːʲiːmo# | 11 : [+cons,-front] > [+hi,+front] / __ [+front]
+#t̪ˈurːʲiːmo# | 12 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
+#t̪ˈurːʲeːmo# | 13 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
 Stressed-Irish stage form : #t̪ˈurːʲeːmo#
-#t̪ˈurːʲeːmɑ# | 16 : [-hi,+round,+syl] > [+lo,-round,-lab] / [+lab] __ 
-#t̪ˈurːʲeːm# | 24 : [+syl,-long] > ∅ / __ #
-#t̪urːʲeːm# | 29 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#t̪ˈurːʲeːmɑ# | 18 : [-hi,+round,+syl] > [+lo,-round,-lab] / [+lab] __ 
+#t̪ˈurːʲeːm# | 30 : [+syl,-long] > ∅ / __ #
+#t̪urːʲeːm# | 35 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #t̪urːʲeːm#

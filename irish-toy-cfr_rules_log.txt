@@ -1,5 +1,6 @@
 [+son,+cons] > [+long] 
 w > f / __ [+syl]
+o > ∅ / __ [+syl]
 [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
 [+syl] > [+prim,+stres,+syl,+son,0delrel] / ʔ ( [-syl] )* __ 
 ʔ > ∅ 
@@ -13,6 +14,7 @@ w > f / __ [+syl]
 [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
 [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
 [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
+[+syl,-stres] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [+syl] #
 [+syl] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [-stres] ( [-syl] )* #
 [-hi,+round,+syl] > [+lo,-round,-lab] / [+lab] __ 
 [+nas,+cons] [+son,+cons] > ∅ [+long]
@@ -20,8 +22,12 @@ w > f / __ [+syl]
 [-son,-cont] > [+voi] / [+voi] __ #
 [-son,-cont] > [+voi] / [+voi] __ [+voi]
 f > v / [+nas,+voi] __ 
-[+stres] > [+long] / __ [+nas,+cons] [-son]
-[+nas,+cons] > ∅ / [-cons] __ [+cons,-nas]
+[+nas] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
+[+nas] > h / __ [-syl] ( [-syl] )* #
+[-cont] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
+[-cont] > h / __ [-syl] ( [-syl] )* #
+[+stres] > [+long] / __ h
+h > ∅ 
 [+syl,-long] > ∅ / __ #
 [+syl] > [-long,-splng] / __ #
 [+back,+cons] > [-front] / __ [-front]

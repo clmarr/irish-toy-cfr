@@ -5,12 +5,12 @@ etID  | Input | Stressed-Irish | Output {GOLD}
 3      | #let̪ɑs# | #lːʲˈeθɑ# | #lːʲeθ# {GOLD: #lːʲeθ#}
 4      | #t̪ent̪# | #t̪ʲˈenːt̪# | #t̪ʲeːd̪# {GOLD: #t̪ʲeːd̪#}
 5      | #t̪omet̪ent̪# | #t̪ˈomʲeθʲˌenːt̪# | #t̪omʲeθʲeːd̪# {GOLD: #t̪omʲθʲeːd̪#}
-6      | #t̪oent̪ent̪# | #t̪ˈoenːt̪ʲˌenːt̪# | #t̪oed̪ʲeːd̪# {GOLD: #t̪ʲed̪ʲeːd̪#}
+6      | #t̪oent̪ent̪# | #t̪ʲˈenːt̪ʲenːt̪# | #t̪ʲeːd̪ʲed̪# {GOLD: #t̪ʲed̪ʲeːd̪#}
 7      | #wenikɑros# | #fʲˈinːʲexˌɑrːo# | #fʲinːʲexɑrː# {GOLD: #fʲinːxɑr#}
 8      | #wiroɡɑlɑ# | #fʲˈerːoɣˌɑlːɑ# | #fʲerːoɣɑlː# {GOLD: #fʲerːɡɑl#}
-9      | #esoʔkenet̪lɑn# | #ˈaχoxʲˈenːʲet̪lːɑ# | #aχoxʲenːʲed̪lː# {GOLD: #ɑxʲenʲeːl#}
-10     | #esɑsʔkenet̪lɑn# | #ˈaχɑχkʲˈenːʲet̪lːɑ# | #aχɑɕˠkʲenːʲed̪lː# {GOLD: #ɑkʲenʲeːl#}
-11     | #esɑnʔkenet̪lɑn# | #ˈaχɑnːkʲˈenːʲet̪lːɑ# | #aχɑɡʲenːʲed̪lː# {GOLD: #ɑɡʲenʲeːl#}
+9      | #esoʔkenet̪lɑn# | #ˈaχoxʲˈenːʲˌet̪lːɑ# | #aχoxʲenːʲeːlː# {GOLD: #ɑxʲenʲeːl#}
+10     | #esɑsʔkenet̪lɑn# | #ˈaχɑχkʲˈenːʲˌet̪lːɑ# | #aχɑɕˠkʲenːʲeːlː# {GOLD: #ɑkʲenʲeːl#}
+11     | #esɑnʔkenet̪lɑn# | #ˈaχɑnːkʲˈenːʲˌet̪lːɑ# | #aχɑnːʲɡʲenːʲeːlː# {GOLD: #ɑɡʲenʲeːl#}
 12     | #esoʔsuːlis# | #ˈaχuχˈuːlːʲi# | #aχuχuːlːʲ# {GOLD: #ɑhuːlʲ#}
 13     | #esɑsʔsuːlis# | #ˈaχɑχsˈuːlːʲi# | #aχɑχsuːlːʲ# {GOLD: #ɑsuːlʲi#}
 14     | #t̪oriːmo# | #t̪ˈurːʲeːmo# | #t̪urːʲeːm# {GOLD: #t̪urʲeṽ#}
@@ -19,8 +19,8 @@ etID  | Input | Stressed-Irish | Output {GOLD}
 17     | #klut̪ɑn# | #klːˈoθɑ# | #klːoθ# {GOLD: #klːoθ#}
 18     | #bit̪oːs# | #bʲˈeθoː# | #bʲeθo# {GOLD: #bʲeθo#}
 19     | #mroɡis# | #mːrːˈuɣʲi# | #rːuɣʲ# {GOLD: #mrːuɣʲ#}
-20     | #moniklɑs# | #mːˈunːʲeklːɑ# | #mːunːʲeɡlː# {GOLD: #munʲeːl#}
+20     | #moniklɑs# | #mːˈunːʲˌeklːɑ# | #mːunːʲeːlː# {GOLD: #munʲeːl#}
 21     | #esoʔɡoni# | #ˈaχoɣˈunːʲi# | #aχoɣunːʲ# {GOLD: #ɑɣunʲ#}
-22     | #esɑnʔɡoni# | #ˈaχɑnːɡˈunːʲi# | #aχɑɡunːʲ# {GOLD: #ɑŋɡunʲ#}
+22     | #esɑnʔɡoni# | #ˈaχɑnːɡˈunːʲi# | #aχɑnːɡunːʲ# {GOLD: #ɑŋɡunʲ#}
 23     | #sesɑnʔsuːliːs# | #sʲˈaχɑnːsˈuːlːʲiː# | #sʲaχɑsːuːlːʲi# {GOLD: #ɑsuːlʲi#}
 24     | #esoʔlet̪ɑs# | #ˈaχolːʲˈeθɑ# | #aχolːʲeθ# {GOLD: #ɑlʲeθ#}

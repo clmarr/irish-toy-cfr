@@ -3,15 +3,15 @@ Derivation file for run '../irish-toy-cfr'; etymon number :7:
 w e n i k ɑ r o s 
 #wenːikɑrːos# | 0 : [+son,+cons] > [+long] 
 #fenːikɑrːos# | 1 : w > f / __ [+syl]
-#fˈenːikɑrːos# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
-#fˈenːixɑrːos# | 5 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
-#fˈenːixɑrːoχ# | 7 : {s;f} > {χ;h} / [-cons,+son] __ 
-#fˈenːixɑrːo# | 8 : [+cons] > ∅ / [-cons] __ #
-#fʲˈenːʲixɑrːo# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
-#fʲˈinːʲixɑrːo# | 11 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
-#fʲˈinːʲexɑrːo# | 12 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
-#fʲˈinːʲexˌɑrːo# | 13 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
+#fˈenːikɑrːos# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+#fˈenːixɑrːos# | 6 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
+#fˈenːixɑrːoχ# | 8 : {s;f} > {χ;h} / [-cons,+son] __ 
+#fˈenːixɑrːo# | 9 : [+cons] > ∅ / [-cons] __ #
+#fʲˈenːʲixɑrːo# | 11 : [+cons,-front] > [+hi,+front] / __ [+front]
+#fʲˈinːʲixɑrːo# | 12 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
+#fʲˈinːʲexɑrːo# | 13 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
+#fʲˈinːʲexˌɑrːo# | 14 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
 Stressed-Irish stage form : #fʲˈinːʲexˌɑrːo#
-#fʲˈinːʲexˌɑrː# | 24 : [+syl,-long] > ∅ / __ #
-#fʲinːʲexɑrː# | 29 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#fʲˈinːʲexˌɑrː# | 30 : [+syl,-long] > ∅ / __ #
+#fʲinːʲexɑrː# | 35 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #fʲinːʲexɑrː#
