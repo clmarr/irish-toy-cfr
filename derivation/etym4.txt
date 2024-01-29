@@ -3,9 +3,9 @@ Derivation file for run '../irish-toy-cfr'; etymon number :4:
 t̪ e n t̪ 
 #t̪enːt̪# | 0 : [+son,+cons] > [+long] 
 #t̪ˈenːt̪# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
-#t̪ʲˈenːt̪# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
-#t̪ʲˈenːd̪# | 18 : [-son,-cont] > [+voi] / [+voi] __ #
-#t̪ʲˈeːnːd̪# | 21 : [+stres] > [+long] / __ [+nas,+cons] [-son]
-#t̪ʲˈeːd̪# | 22 : [+nas,+cons] > ∅ / [-cons] __ [+cons,-nas]
-#t̪ʲeːd̪# | 25 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#t̪ʲˈenːt̪# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
+#t̪ʲˈenːd̪# | 19 : [-son,-cont] > [+voi] / [+voi] __ #
+#t̪ʲˈeːnːd̪# | 22 : [+stres] > [+long] / __ [+nas,+cons] [-son]
+#t̪ʲˈeːd̪# | 23 : [+nas,+cons] > ∅ / [-cons] __ [+cons,-nas]
+#t̪ʲeːd̪# | 26 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #t̪ʲeːd̪#

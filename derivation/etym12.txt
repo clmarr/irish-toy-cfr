@@ -1,5 +1,5 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :12:
-#esoʔsuːlis# >>> #eχuχuːlːʲ# ( GOLD : #ɑhuːlʲ#) :
+#esoʔsuːlis# >>> #aχuχuːlːʲ# ( GOLD : #ɑhuːlʲ#) :
 e s o ʔ s uː l i s 
 #esoʔsuːlːis# | 0 : [+son,+cons] > [+long] 
 #ˈesoʔsuːlːis# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
@@ -7,8 +7,9 @@ e s o ʔ s uː l i s
 #ˈesosˈuːlːis# | 4 : ʔ > ∅ 
 #ˈeχoχˈuːlːiχ# | 7 : {s;f} > {χ;h} / [-cons,+son] __ 
 #ˈeχoχˈuːlːi# | 8 : [+cons] > ∅ / [-cons] __ #
-#ˈeχoχˈuːlːʲi# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
-#ˈeχuχˈuːlːʲi# | 10 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
-#ˈeχuχˈuːlːʲ# | 23 : [+syl,-long] > ∅ / __ #
-#eχuχuːlːʲ# | 25 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #eχuχuːlːʲ#
+#ˈaχoχˈuːlːi# | 9 : [+front,-hi] > [+lo] / __ [+back,+cont]
+#ˈaχoχˈuːlːʲi# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
+#ˈaχuχˈuːlːʲi# | 11 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
+#ˈaχuχˈuːlːʲ# | 24 : [+syl,-long] > ∅ / __ #
+#aχuχuːlːʲ# | 26 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #aχuχuːlːʲ#

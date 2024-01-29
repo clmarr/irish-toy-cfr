@@ -5,11 +5,11 @@ m o n i k l ɑ s
 #mːˈonːiklːɑs# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
 #mːˈonːiklːɑχ# | 7 : {s;f} > {χ;h} / [-cons,+son] __ 
 #mːˈonːiklːɑ# | 8 : [+cons] > ∅ / [-cons] __ #
-#mːˈonːʲiklːɑ# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
-#mːˈunːʲiklːɑ# | 10 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
-#mːˈunːʲeklːɑ# | 11 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
-#mːˈunːʲˌeklːɑ# | 14 : [+syl] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [-stres] ( [-syl] )* #
-#mːˈunːʲˌeɡlːɑ# | 19 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
-#mːˈunːʲˌeɡlː# | 23 : [+syl,-long] > ∅ / __ #
-#mːunːʲeɡlː# | 25 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#mːˈonːʲiklːɑ# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
+#mːˈunːʲiklːɑ# | 11 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
+#mːˈunːʲeklːɑ# | 12 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
+#mːˈunːʲˌeklːɑ# | 15 : [+syl] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [-stres] ( [-syl] )* #
+#mːˈunːʲˌeɡlːɑ# | 20 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
+#mːˈunːʲˌeɡlː# | 24 : [+syl,-long] > ∅ / __ #
+#mːunːʲeɡlː# | 26 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #mːunːʲeɡlː#

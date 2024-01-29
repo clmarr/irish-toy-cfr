@@ -1,5 +1,5 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :10:
-#esɑsʔkenet̪lɑn# >>> #eχɑχkʲenːʲed̪lː# ( GOLD : #ɑkʲenʲeːl#) :
+#esɑsʔkenet̪lɑn# >>> #aχɑχkʲenːʲed̪lː# ( GOLD : #ɑkʲenʲeːl#) :
 e s ɑ s ʔ k e n e t̪ l ɑ n 
 #esɑsʔkenːet̪lːɑnː# | 0 : [+son,+cons] > [+long] 
 #ˈesɑsʔkenːet̪lːɑnː# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
@@ -7,9 +7,10 @@ e s ɑ s ʔ k e n e t̪ l ɑ n
 #ˈesɑskˈenːet̪lːɑnː# | 4 : ʔ > ∅ 
 #ˈeχɑχkˈenːet̪lːɑnː# | 7 : {s;f} > {χ;h} / [-cons,+son] __ 
 #ˈeχɑχkˈenːet̪lːɑ# | 8 : [+cons] > ∅ / [-cons] __ #
-#ˈeχɑχkʲˈenːʲet̪lːɑ# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
-#ˈeχɑχkʲˈenːʲˌet̪lːɑ# | 14 : [+syl] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [-stres] ( [-syl] )* #
-#ˈeχɑχkʲˈenːʲˌed̪lːɑ# | 19 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
-#ˈeχɑχkʲˈenːʲˌed̪lː# | 23 : [+syl,-long] > ∅ / __ #
-#eχɑχkʲenːʲed̪lː# | 25 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #eχɑχkʲenːʲed̪lː#
+#ˈaχɑχkˈenːet̪lːɑ# | 9 : [+front,-hi] > [+lo] / __ [+back,+cont]
+#ˈaχɑχkʲˈenːʲet̪lːɑ# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
+#ˈaχɑχkʲˈenːʲˌet̪lːɑ# | 15 : [+syl] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [-stres] ( [-syl] )* #
+#ˈaχɑχkʲˈenːʲˌed̪lːɑ# | 20 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
+#ˈaχɑχkʲˈenːʲˌed̪lː# | 24 : [+syl,-long] > ∅ / __ #
+#aχɑχkʲenːʲed̪lː# | 26 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #aχɑχkʲenːʲed̪lː#

@@ -23,6 +23,9 @@ $First lenition part two: s to χ (later secondary h) and ɸ to h post-vocalical
 $loss of post-non-consonantal final consonants. This must come after the word boundary deletion with esan, given the nasalized onset form agenel. 
 [+cons] > ∅ / [-cons] __ #
 
+$e lowered before x. May be argued to bleed palatalization in finchar though this could be debated.
+[+front,-hi] > [+lo] / __ [+back,+cont]
+
 $consonants before i, e patalalize. This must happen before apocope (ri:mi:ti > r:ʲiṽʲiθʲ)
 [+cons,-front] > [+hi,+front] / __ [+front]
 

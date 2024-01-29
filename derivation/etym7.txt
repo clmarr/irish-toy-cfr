@@ -7,10 +7,10 @@ w e n i k ɑ r o s
 #fˈenːixɑrːos# | 5 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
 #fˈenːixɑrːoχ# | 7 : {s;f} > {χ;h} / [-cons,+son] __ 
 #fˈenːixɑrːo# | 8 : [+cons] > ∅ / [-cons] __ #
-#fʲˈenːʲixɑrːo# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
-#fʲˈinːʲixɑrːo# | 10 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
-#fʲˈinːʲexɑrːo# | 11 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
-#fʲˈinːʲexˌɑrːo# | 12 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
-#fʲˈinːʲexˌɑrː# | 23 : [+syl,-long] > ∅ / __ #
-#fʲinːʲexɑrː# | 25 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#fʲˈenːʲixɑrːo# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
+#fʲˈinːʲixɑrːo# | 11 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
+#fʲˈinːʲexɑrːo# | 12 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
+#fʲˈinːʲexˌɑrːo# | 13 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
+#fʲˈinːʲexˌɑrː# | 24 : [+syl,-long] > ∅ / __ #
+#fʲinːʲexɑrː# | 26 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #fʲinːʲexɑrː#

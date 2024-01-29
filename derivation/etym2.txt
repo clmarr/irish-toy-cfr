@@ -5,7 +5,7 @@ r iː m iː t̪
 #rːˈiːmːiːt̪# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
 #rːˈiːmiːt̪# | 6 : [+son,-cor] > [-long,-splng] / [-cons,+son,-cor] __ [+syl]
 #rːˈiːmiː# | 8 : [+cons] > ∅ / [-cons] __ #
-#rːʲˈiːmʲiː# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
-#rːʲˈiːmʲi# | 24 : [+syl] > [-long,-splng] / __ #
-#rːʲiːmʲi# | 25 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#rːʲˈiːmʲiː# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
+#rːʲˈiːmʲi# | 25 : [+syl] > [-long,-splng] / __ #
+#rːʲiːmʲi# | 26 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #rːʲiːmʲi#

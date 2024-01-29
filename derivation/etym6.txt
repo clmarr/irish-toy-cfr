@@ -3,11 +3,11 @@ Derivation file for run '../irish-toy-cfr'; etymon number :6:
 t̪ o e n t̪ e n t̪ 
 #t̪oenːt̪enːt̪# | 0 : [+son,+cons] > [+long] 
 #t̪ˈoenːt̪enːt̪# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
-#t̪ˈoenːt̪ʲenːt̪# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
-#t̪ˈoenːt̪ʲˌenːt̪# | 12 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
-#t̪ˈoenːt̪ʲˌenːd̪# | 18 : [-son,-cont] > [+voi] / [+voi] __ #
-#t̪ˈoenːd̪ʲˌenːd̪# | 19 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
-#t̪ˈoenːd̪ʲˌeːnːd̪# | 21 : [+stres] > [+long] / __ [+nas,+cons] [-son]
-#t̪ˈoed̪ʲˌeːd̪# | 22 : [+nas,+cons] > ∅ / [-cons] __ [+cons,-nas]
-#t̪oed̪ʲeːd̪# | 25 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#t̪ˈoenːt̪ʲenːt̪# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
+#t̪ˈoenːt̪ʲˌenːt̪# | 13 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
+#t̪ˈoenːt̪ʲˌenːd̪# | 19 : [-son,-cont] > [+voi] / [+voi] __ #
+#t̪ˈoenːd̪ʲˌenːd̪# | 20 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
+#t̪ˈoenːd̪ʲˌeːnːd̪# | 22 : [+stres] > [+long] / __ [+nas,+cons] [-son]
+#t̪ˈoed̪ʲˌeːd̪# | 23 : [+nas,+cons] > ∅ / [-cons] __ [+cons,-nas]
+#t̪oed̪ʲeːd̪# | 26 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #t̪oed̪ʲeːd̪#

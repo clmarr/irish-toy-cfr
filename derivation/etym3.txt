@@ -6,7 +6,7 @@ l e t̪ ɑ s
 #lːˈeθɑs# | 5 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
 #lːˈeθɑχ# | 7 : {s;f} > {χ;h} / [-cons,+son] __ 
 #lːˈeθɑ# | 8 : [+cons] > ∅ / [-cons] __ #
-#lːʲˈeθɑ# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
-#lːʲˈeθ# | 23 : [+syl,-long] > ∅ / __ #
-#lːʲeθ# | 25 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#lːʲˈeθɑ# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
+#lːʲˈeθ# | 24 : [+syl,-long] > ∅ / __ #
+#lːʲeθ# | 26 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #lːʲeθ#

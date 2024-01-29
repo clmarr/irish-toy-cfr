@@ -5,9 +5,9 @@ w i r o ɡ ɑ l ɑ
 #firːoɡɑlːɑ# | 1 : w > f / __ [+syl]
 #fˈirːoɡɑlːɑ# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
 #fˈirːoɣɑlːɑ# | 5 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
-#fʲˈirːoɣɑlːɑ# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
-#fʲˈerːoɣɑlːɑ# | 11 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
-#fʲˈerːoɣˌɑlːɑ# | 12 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
-#fʲˈerːoɣˌɑlː# | 23 : [+syl,-long] > ∅ / __ #
-#fʲerːoɣɑlː# | 25 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#fʲˈirːoɣɑlːɑ# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
+#fʲˈerːoɣɑlːɑ# | 12 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
+#fʲˈerːoɣˌɑlːɑ# | 13 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
+#fʲˈerːoɣˌɑlː# | 24 : [+syl,-long] > ∅ / __ #
+#fʲerːoɣɑlː# | 26 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #fʲerːoɣɑlː#

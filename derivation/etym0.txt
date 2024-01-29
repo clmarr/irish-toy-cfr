@@ -5,9 +5,9 @@ k ɑ t̪ u b u t̪ ɑ s
 #kˈɑθuβuθɑs# | 5 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
 #kˈɑθuβuθɑχ# | 7 : {s;f} > {χ;h} / [-cons,+son] __ 
 #kˈɑθuβuθɑ# | 8 : [+cons] > ∅ / [-cons] __ #
-#kˈɑθuβoθɑ# | 11 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
-#kˈɑθuβˌoθɑ# | 12 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
-#kˈɑθuβˌɑθɑ# | 15 : [-hi,+round,+syl] > [+lo,-round,-lab] / [+lab] __ 
-#kˈɑθuβˌɑθ# | 23 : [+syl,-long] > ∅ / __ #
-#kɑθuβɑθ# | 25 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#kˈɑθuβoθɑ# | 12 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
+#kˈɑθuβˌoθɑ# | 13 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
+#kˈɑθuβˌɑθɑ# | 16 : [-hi,+round,+syl] > [+lo,-round,-lab] / [+lab] __ 
+#kˈɑθuβˌɑθ# | 24 : [+syl,-long] > ∅ / __ #
+#kɑθuβɑθ# | 26 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #kɑθuβɑθ#

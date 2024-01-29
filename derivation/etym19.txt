@@ -6,9 +6,9 @@ m r o ɡ i s
 #mːrːˈoɣis# | 5 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
 #mːrːˈoɣiχ# | 7 : {s;f} > {χ;h} / [-cons,+son] __ 
 #mːrːˈoɣi# | 8 : [+cons] > ∅ / [-cons] __ #
-#mːrːˈoɣʲi# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
-#mːrːˈuɣʲi# | 10 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
-#rːˈuɣʲi# | 16 : [+nas,+cons] [+son,+cons] > ∅ [+long]
-#rːˈuɣʲ# | 23 : [+syl,-long] > ∅ / __ #
-#rːuɣʲ# | 25 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#mːrːˈoɣʲi# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
+#mːrːˈuɣʲi# | 11 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
+#rːˈuɣʲi# | 17 : [+nas,+cons] [+son,+cons] > ∅ [+long]
+#rːˈuɣʲ# | 24 : [+syl,-long] > ∅ / __ #
+#rːuɣʲ# | 26 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #rːuɣʲ#

@@ -7,6 +7,7 @@ w > f / __ [+syl]
 [+son,-cor] > [-long,-splng] / [-cons,+son,-cor] __ [+syl]
 {s;f} > {χ;h} / [-cons,+son] __ 
 [+cons] > ∅ / [-cons] __ #
+[+front,-hi] > [+lo] / __ [+back,+cont]
 [+cons,-front] > [+hi,+front] / __ [+front]
 [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
 [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]

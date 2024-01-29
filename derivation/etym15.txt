@@ -8,8 +8,8 @@ n iː s ʔ t̪ o r iː m iː t̪
 #nːˈiːst̪ˈorːiːmiːt̪# | 6 : [+son,-cor] > [-long,-splng] / [-cons,+son,-cor] __ [+syl]
 #nːˈiːχt̪ˈorːiːmiːt̪# | 7 : {s;f} > {χ;h} / [-cons,+son] __ 
 #nːˈiːχt̪ˈorːiːmiː# | 8 : [+cons] > ∅ / [-cons] __ #
-#nːʲˈiːχt̪ˈorːʲiːmʲiː# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
-#nːʲˈiːχt̪ˈurːʲiːmʲiː# | 10 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
-#nːʲˈiːχt̪ˈurːʲiːmʲi# | 24 : [+syl] > [-long,-splng] / __ #
-#nːʲiːχt̪urːʲiːmʲi# | 25 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#nːʲˈiːχt̪ˈorːʲiːmʲiː# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
+#nːʲˈiːχt̪ˈurːʲiːmʲiː# | 11 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
+#nːʲˈiːχt̪ˈurːʲiːmʲi# | 25 : [+syl] > [-long,-splng] / __ #
+#nːʲiːχt̪urːʲiːmʲi# | 26 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #nːʲiːχt̪urːʲiːmʲi#

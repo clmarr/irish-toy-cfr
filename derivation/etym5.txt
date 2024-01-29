@@ -5,10 +5,10 @@ t̪ o m e t̪ e n t̪
 #t̪ˈomːet̪enːt̪# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
 #t̪ˈomːeθenːt̪# | 5 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
 #t̪ˈomeθenːt̪# | 6 : [+son,-cor] > [-long,-splng] / [-cons,+son,-cor] __ [+syl]
-#t̪ˈomʲeθʲenːt̪# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
-#t̪ˈomʲeθʲˌenːt̪# | 12 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
-#t̪ˈomʲeθʲˌenːd̪# | 18 : [-son,-cont] > [+voi] / [+voi] __ #
-#t̪ˈomʲeθʲˌeːnːd̪# | 21 : [+stres] > [+long] / __ [+nas,+cons] [-son]
-#t̪ˈomʲeθʲˌeːd̪# | 22 : [+nas,+cons] > ∅ / [-cons] __ [+cons,-nas]
-#t̪omʲeθʲeːd̪# | 25 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#t̪ˈomʲeθʲenːt̪# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
+#t̪ˈomʲeθʲˌenːt̪# | 13 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
+#t̪ˈomʲeθʲˌenːd̪# | 19 : [-son,-cont] > [+voi] / [+voi] __ #
+#t̪ˈomʲeθʲˌeːnːd̪# | 22 : [+stres] > [+long] / __ [+nas,+cons] [-son]
+#t̪ˈomʲeθʲˌeːd̪# | 23 : [+nas,+cons] > ∅ / [-cons] __ [+cons,-nas]
+#t̪omʲeθʲeːd̪# | 26 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #t̪omʲeθʲeːd̪#

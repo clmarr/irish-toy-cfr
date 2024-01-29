@@ -3,8 +3,8 @@ Derivation file for run '../irish-toy-cfr'; etymon number :16:
 ɡ o n i 
 #ɡonːi# | 0 : [+son,+cons] > [+long] 
 #ɡˈonːi# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
-#ɡˈonːʲi# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
-#ɡˈunːʲi# | 10 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
-#ɡˈunːʲ# | 23 : [+syl,-long] > ∅ / __ #
-#ɡunːʲ# | 25 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ɡˈonːʲi# | 10 : [+cons,-front] > [+hi,+front] / __ [+front]
+#ɡˈunːʲi# | 11 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
+#ɡˈunːʲ# | 24 : [+syl,-long] > ∅ / __ #
+#ɡunːʲ# | 26 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #ɡunːʲ#
