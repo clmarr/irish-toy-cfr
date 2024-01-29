@@ -1,5 +1,5 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :19:
-#mroɡis# >>> #rːuɣʲ# ( GOLD : #mruɣʲ#) :
+#mroɡis# >>> #rːuɣʲ# ( GOLD : #mrːuɣʲ#) :
 m r o ɡ i s 
 #mːrːoɡis# | 0 : [+son,+cons] > [+long] 
 #mːrːˈoɡis# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
