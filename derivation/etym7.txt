@@ -1,5 +1,5 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :7:
-#wenikɑros# >>> #fʲˈinːʲexˌɑrː# ( GOLD : #fʲinxɑr#) :
+#wenikɑros# >>> #fʲinːʲexɑrː# ( GOLD : #fʲinxɑr#) :
 w e n i k ɑ r o s 
 #wenːikɑrːos# | 0 : [+son,+cons] > [+long] 
 #fenːikɑrːos# | 1 : w > f / __ [+syl]
@@ -12,4 +12,5 @@ w e n i k ɑ r o s
 #fʲˈinːʲexɑrːo# | 11 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
 #fʲˈinːʲexˌɑrːo# | 12 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
 #fʲˈinːʲexˌɑrː# | 23 : [+syl,-long] > ∅ / __ #
-Final form : #fʲˈinːʲexˌɑrː#
+#fʲinːʲexɑrː# | 25 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #fʲinːʲexɑrː#

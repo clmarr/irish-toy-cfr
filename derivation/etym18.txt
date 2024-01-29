@@ -1,5 +1,5 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :18:
-#bit̪oːs# >>> #bʲˈeθo# ( GOLD : #bʲeθo#) :
+#bit̪oːs# >>> #bʲeθo# ( GOLD : #bʲeθo#) :
 b i t̪ oː s 
 #bˈit̪oːs# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
 #bˈiθoːs# | 5 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
@@ -8,4 +8,5 @@ b i t̪ oː s
 #bʲˈiθoː# | 9 : [+cons,-front] > [+hi,+front] / __ [+front]
 #bʲˈeθoː# | 11 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
 #bʲˈeθo# | 24 : [+syl] > [-long,-splng] / __ #
-Final form : #bʲˈeθo#
+#bʲeθo# | 25 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #bʲeθo#

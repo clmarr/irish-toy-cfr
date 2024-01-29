@@ -1,5 +1,5 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :5:
-#t̪omet̪ent̪# >>> #t̪ˈomʲeθʲˌeːd̪# ( GOLD : #t̪omʲθʲeːd̪#) :
+#t̪omet̪ent̪# >>> #t̪omʲeθʲeːd̪# ( GOLD : #t̪omʲθʲeːd̪#) :
 t̪ o m e t̪ e n t̪ 
 #t̪omːet̪enːt̪# | 0 : [+son,+cons] > [+long] 
 #t̪ˈomːet̪enːt̪# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
@@ -10,4 +10,5 @@ t̪ o m e t̪ e n t̪
 #t̪ˈomʲeθʲˌenːd̪# | 18 : [-son,-cont] > [+voi] / [+voi] __ #
 #t̪ˈomʲeθʲˌeːnːd̪# | 21 : [+stres] > [+long] / __ [+nas,+cons] [-son]
 #t̪ˈomʲeθʲˌeːd̪# | 22 : [+nas,+cons] > ∅ / [-cons] __ [+cons,-nas]
-Final form : #t̪ˈomʲeθʲˌeːd̪#
+#t̪omʲeθʲeːd̪# | 25 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #t̪omʲeθʲeːd̪#
