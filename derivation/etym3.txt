@@ -4,10 +4,10 @@ l e t̪ ɑ s
 #lːet̪ɑs# | 0 : [+son,+cons] > [+long] 
 #lːˈet̪ɑs# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
 #lːˈeθɑs# | 6 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
-#lːˈeθɑχ# | 8 : {s;f} > {χ;h} / [-cons,+son] __ 
-#lːˈeθɑ# | 9 : [+cons] > ∅ / [-cons] __ #
-#lːʲˈeθɑ# | 11 : [+cons,-front] > [+hi,+front] / __ [+front]
+#lːˈeθɑχ# | 9 : {s;f} > {χ;h} / [-cons,+son] __ 
+#lːˈeθɑ# | 10 : [+cons] > ∅ / [-cons] __ #
+#lːʲˈeθɑ# | 12 : [+cons,-front] > [+hi,+front] / __ [+front]
 Stressed-Irish stage form : #lːʲˈeθɑ#
-#lːʲˈeθ# | 30 : [+syl,-long] > ∅ / __ #
-#lːʲeθ# | 35 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#lːʲˈeθ# | 31 : [-stres,-long] > ∅ 
+#lːʲeθ# | 36 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #lːʲeθ#

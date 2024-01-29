@@ -3,11 +3,11 @@ Derivation file for run '../irish-toy-cfr'; etymon number :4:
 t̪ e n t̪ 
 #t̪enːt̪# | 0 : [+son,+cons] > [+long] 
 #t̪ˈenːt̪# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
-#t̪ʲˈenːt̪# | 11 : [+cons,-front] > [+hi,+front] / __ [+front]
+#t̪ʲˈenːt̪# | 12 : [+cons,-front] > [+hi,+front] / __ [+front]
 Stressed-Irish stage form : #t̪ʲˈenːt̪#
-#t̪ʲˈenːd̪# | 21 : [-son,-cont] > [+voi] / [+voi] __ #
-#t̪ʲˈehd̪# | 25 : [+nas] > h / __ [-syl] ( [-syl] )* #
-#t̪ʲˈeːhd̪# | 28 : [+stres] > [+long] / __ h
-#t̪ʲˈeːd̪# | 29 : h > ∅ 
-#t̪ʲeːd̪# | 35 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#t̪ʲˈenːd̪# | 22 : [-son,-cont] > [+voi] / [+voi] __ #
+#t̪ʲˈehd̪# | 26 : [+nas] > h / __ [-syl] ( [-syl] )* #
+#t̪ʲˈeːhd̪# | 29 : [+stres] > [+long] / __ h
+#t̪ʲˈeːd̪# | 30 : h > ∅ 
+#t̪ʲeːd̪# | 36 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #t̪ʲeːd̪#

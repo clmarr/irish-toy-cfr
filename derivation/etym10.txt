@@ -1,21 +1,22 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :10:
-#esɑsʔkenet̪lɑn# >>> #aχɑɕˠkʲenːʲeːlː# ( GOLD : #ɑkʲenʲeːl#) :
+#esɑsʔkenet̪lɑn# >>> #aχɕˠkʲenʲeːlː# ( GOLD : #ɑkʲenʲeːl#) :
 e s ɑ s ʔ k e n e t̪ l ɑ n 
 #esɑsʔkenːet̪lːɑnː# | 0 : [+son,+cons] > [+long] 
 #ˈesɑsʔkenːet̪lːɑnː# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
 #ˈesɑsʔkˈenːet̪lːɑnː# | 4 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / ʔ ( [-syl] )* __ 
 #ˈesɑskˈenːet̪lːɑnː# | 5 : ʔ > ∅ 
-#ˈeχɑχkˈenːet̪lːɑnː# | 8 : {s;f} > {χ;h} / [-cons,+son] __ 
-#ˈeχɑχkˈenːet̪lːɑ# | 9 : [+cons] > ∅ / [-cons] __ #
-#ˈaχɑχkˈenːet̪lːɑ# | 10 : [+front,-hi] > [+lo] / __ [+back,+cont]
-#ˈaχɑχkʲˈenːʲet̪lːɑ# | 11 : [+cons,-front] > [+hi,+front] / __ [+front]
-#ˈaχɑχkʲˈenːʲˌet̪lːɑ# | 16 : [+syl,-stres] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [+syl] #
-Stressed-Irish stage form : #ˈaχɑχkʲˈenːʲˌet̪lːɑ#
-#ˈaχɑχkʲˈenːʲˌed̪lːɑ# | 22 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
-#ˈaχɑχkʲˈenːʲˌehlːɑ# | 26 : [-cont] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
-#ˈaχɑχkʲˈenːʲˌeːhlːɑ# | 28 : [+stres] > [+long] / __ h
-#ˈaχɑχkʲˈenːʲˌeːlːɑ# | 29 : h > ∅ 
-#ˈaχɑχkʲˈenːʲˌeːlː# | 30 : [+syl,-long] > ∅ / __ #
-#ˈaχɑɕˠkʲˈenːʲˌeːlː# | 34 : [+cons] > [+front,+hi] / __ [+front,+cons]
-#aχɑɕˠkʲenːʲeːlː# | 35 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #aχɑɕˠkʲenːʲeːlː#
+#ˈesɑskˈenet̪lːɑnː# | 8 : [+son,+cons] > [-long,-splng] / [+syl] __ [+syl]
+#ˈeχɑχkˈenet̪lːɑnː# | 9 : {s;f} > {χ;h} / [-cons,+son] __ 
+#ˈeχɑχkˈenet̪lːɑ# | 10 : [+cons] > ∅ / [-cons] __ #
+#ˈaχɑχkˈenet̪lːɑ# | 11 : [+front,-hi] > [+lo] / __ [+back,+cont]
+#ˈaχɑχkʲˈenʲet̪lːɑ# | 12 : [+cons,-front] > [+hi,+front] / __ [+front]
+#ˈaχɑχkʲˈenʲˌet̪lːɑ# | 17 : [+syl,-stres] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [+syl] #
+Stressed-Irish stage form : #ˈaχɑχkʲˈenʲˌet̪lːɑ#
+#ˈaχɑχkʲˈenʲˌed̪lːɑ# | 23 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
+#ˈaχɑχkʲˈenʲˌehlːɑ# | 27 : [-cont] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
+#ˈaχɑχkʲˈenʲˌeːhlːɑ# | 29 : [+stres] > [+long] / __ h
+#ˈaχɑχkʲˈenʲˌeːlːɑ# | 30 : h > ∅ 
+#ˈaχχkʲˈenʲˌeːlː# | 31 : [-stres,-long] > ∅ 
+#ˈaχɕˠkʲˈenʲˌeːlː# | 35 : [+cons] > [+front,+hi] / __ [+front,+cons]
+#aχɕˠkʲenʲeːlː# | 36 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #aχɕˠkʲenʲeːlː#

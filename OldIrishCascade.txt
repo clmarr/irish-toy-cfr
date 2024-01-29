@@ -16,9 +16,11 @@ $deletion of the word-boundary in nominal and verbal complexes it seems. This ap
 ʔ > ∅
 
 $First Lenition: stops spirantize and sonorants "shorten" intervocalically. After deletion of word-boundary in these complexes. 
-$per thurneysen paragraph 120 -- lenition of sonorants in clusters not involving dentals (incl. dental sonorants). 
 [-cont] > [+cont] / [-cons,+son] __ [+syl] 
-[+son,-cor] > [-long] / [-cons,+son,-cor] __ [+syl]
+
+$per thurneysen paragraph 120 -- lenition of sonorants in clusters not involving dentals (incl. dental sonorants). By dental I assume he means coronal. 
+[+son,+cons,-cor] > [-long] / [-cons,+son,-cor] __ [+syl]
+[+son,+cons] > [-long] / [+syl] __ [+syl]
 
 $First lenition part two: s to χ (later secondary h) and ɸ to h post-vocalically 
 {s;f} > {χ;h} / [-cons,+son] __ 
@@ -26,7 +28,7 @@ $First lenition part two: s to χ (later secondary h) and ɸ to h post-vocalical
 $loss of post-non-consonantal final consonants. This must come after the word boundary deletion with esan, given the nasalized onset form agenel. 
 [+cons] > ∅ / [-cons] __ #
 
-$e lowered before x.  Fed by aspirating lenition.
+$e lowered before x. Fed by aspirating lenition.
 [+front,-hi] > [+lo] / __ [+back,+cont]
 
 $consonants before i, e patalalize. This must happen before apocope (ri:mi:ti > r:ʲiṽʲiθʲ)
@@ -76,18 +78,23 @@ $seems limited to primary or secondary stressed elements.
 $ the same thing appears to happen with stops as the first elements in clusters
 $ another relevant element is that these elements do not seem to be effaced word initialy: mruig, cloth, etc. 
 $ but the language no longer respects word boundaries so the real way these are distinguished seems to be ... being in the onset of the tonic syllable.
-$ handle this with a dummy h. 
+$ handle this with a dummy h, the result of s > χ, which is about to disappear in these positions
+$ this all would be much more natural, with a single rule even, if symbolDefs had the nasals as noncontinuant... 
+	$ which may be how Old Irish was treating them! 
 [+nas] > h / __ [-syl] ([-syl])* {[+syl,-prim];#}
 [-cont] > h / __ [-syl] ([-syl])* {[+syl,-prim];#}
 [+stres] > [+long] / __ h
-h > ∅
 
 
 $APOCOPE and SYNCOPE handled together here, in terms of stress
 
-$pseudo-apocope: just before word boundary (no cons. in between), short vowels are lost, while long vowels lose a mora. (in effect short vowels lose their only mora. 
-[+syl,-long] > ∅ / __ #
-[+syl] > [-long] / __ #
+$pseudo-apocope and -syncope: unstressed short vowels are lost, while long vowels lose a mora. (in effect short vowels lose their only mora. 
+[-stres,-long] > ∅
+[-stres] > [-long]
+
+$ reflex of s passes to h, and disappears in any consonant cluster it is not the last element of. Before cluster palatality assimilation.
+χ > h 
+h > ∅ / __ [+cons]
 
 $cluster palatality assimilation (regressive) 
 [+back,+cons] > [-front] / __ [-front]

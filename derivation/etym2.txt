@@ -3,10 +3,10 @@ Derivation file for run '../irish-toy-cfr'; etymon number :2:
 r iː m iː t̪ 
 #rːiːmːiːt̪# | 0 : [+son,+cons] > [+long] 
 #rːˈiːmːiːt̪# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
-#rːˈiːmiːt̪# | 7 : [+son,-cor] > [-long,-splng] / [-cons,+son,-cor] __ [+syl]
-#rːˈiːmiː# | 9 : [+cons] > ∅ / [-cons] __ #
-#rːʲˈiːmʲiː# | 11 : [+cons,-front] > [+hi,+front] / __ [+front]
+#rːˈiːmiːt̪# | 7 : [+son,+cons,-cor] > [-long,-splng] / [-cons,+son,-cor] __ [+syl]
+#rːˈiːmiː# | 10 : [+cons] > ∅ / [-cons] __ #
+#rːʲˈiːmʲiː# | 12 : [+cons,-front] > [+hi,+front] / __ [+front]
 Stressed-Irish stage form : #rːʲˈiːmʲiː#
-#rːʲˈiːmʲi# | 31 : [+syl] > [-long,-splng] / __ #
-#rːʲiːmʲi# | 35 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#rːʲˈiːmʲi# | 32 : [-stres] > [-long,-splng] 
+#rːʲiːmʲi# | 36 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #rːʲiːmʲi#
