@@ -13,11 +13,11 @@ e s o ʔ k e n e t̪ l ɑ n
 #ˈɑχoxʲˈenʲet̪lːɑ# | 12 : [+cons,-front] > [+hi,+front] / __ [+front]
 #ˈɑχoxʲˈenʲˌet̪lːɑ# | 17 : [+syl,-stres] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [+syl] #
 Stressed-Irish stage form : #ˈɑχoxʲˈenʲˌet̪lːɑ#
-#ˈɑχoxʲˈenʲˌed̪lːɑ# | 23 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
-#ˈɑχoxʲˈenʲˌehlːɑ# | 27 : [-cont] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
-#ˈɑχoxʲˈenʲˌeːhlːɑ# | 29 : [+stres] > [+long] / __ h
-#ˈɑχxʲˈenʲˌeːhlː# | 30 : [-stres,-long] > ∅ 
-#ˈɑhxʲˈenʲˌeːhlː# | 32 : χ > h 
-#ˈɑxʲˈenʲˌeːlː# | 33 : h > ∅ / __ [-syl]
-#ɑxʲenʲeːlː# | 39 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ˈɑχoxʲˈenʲˌed̪lːɑ# | 24 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
+#ˈɑχoxʲˈenʲˌehlːɑ# | 28 : [-cont] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
+#ˈɑχoxʲˈenʲˌeːhlːɑ# | 30 : [+stres] > [+long] / __ h
+#ˈɑχxʲˈenʲˌeːhlː# | 31 : [-stres,-long] > ∅ 
+#ˈɑhxʲˈenʲˌeːhlː# | 33 : χ > h 
+#ˈɑxʲˈenʲˌeːlː# | 34 : h > ∅ / __ [-syl]
+#ɑxʲenʲeːlː# | 40 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #ɑxʲenʲeːlː#

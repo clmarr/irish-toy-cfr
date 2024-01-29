@@ -9,8 +9,8 @@ t̪ o r iː m o
 #t̪ˈurʲiːmo# | 13 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
 #t̪ˈurʲeːmo# | 14 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
 Stressed-Irish stage form : #t̪ˈurʲeːmo#
-#t̪ˈurʲeːmɑ# | 19 : [-hi,+round,+syl] > [+lo,-round,-lab] / [+lab] __ 
-#t̪ˈurʲeːm# | 30 : [-stres,-long] > ∅ 
-#t̪ˈurʲem# | 31 : [-stres] > [-long,-splng] 
-#t̪urʲem# | 39 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#t̪ˈurʲeːmɑ# | 20 : [-hi,+round,+syl] > [+lo,-round,-lab] / [+lab] __ 
+#t̪ˈurʲeːm# | 31 : [-stres,-long] > ∅ 
+#t̪ˈurʲem# | 32 : [-stres] > [-long,-splng] 
+#t̪urʲem# | 40 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #t̪urʲem#

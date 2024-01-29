@@ -7,6 +7,6 @@ k l u t̪ ɑ n
 #klːˈuθɑ# | 10 : [+cons] > ∅ / [-cons] __ #
 #klːˈoθɑ# | 14 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
 Stressed-Irish stage form : #klːˈoθɑ#
-#klːˈoθ# | 30 : [-stres,-long] > ∅ 
-#klːoθ# | 39 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#klːˈoθ# | 31 : [-stres,-long] > ∅ 
+#klːoθ# | 40 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #klːoθ#

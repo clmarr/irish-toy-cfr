@@ -55,7 +55,8 @@ $countertonic stress imposed on heavy penultimates before light ultimates
 
 =Stressed-Irish
 
-$unstressed penultimates that are not before stressed final syllables acquire secondary stress if before (at least?) two vowels. 
+$unstressed penultimates that are not before stressed final syllables acquire secondary stress if before (at least?) two vowels; likewise, stressed ultimates 
+[+syl] > [+stres] / __ [-syl] ([-syl])+ #
 [+syl] > [+stres] / __ [-syl] ([-syl])+ [-stres] ([-syl])* #
 
 $ apparent o to a after labial (reassignment of rounding/height gesture?) 

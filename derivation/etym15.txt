@@ -12,8 +12,8 @@ n iː s ʔ t̪ o r iː m iː t̪
 #nːʲˈiːχt̪ˈorʲiːmʲiː# | 12 : [+cons,-front] > [+hi,+front] / __ [+front]
 #nːʲˈiːχt̪ˈurʲiːmʲiː# | 13 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
 Stressed-Irish stage form : #nːʲˈiːχt̪ˈurʲiːmʲiː#
-#nːʲˈiːχt̪ˈurʲimʲi# | 31 : [-stres] > [-long,-splng] 
-#nːʲˈiːht̪ˈurʲimʲi# | 32 : χ > h 
-#nːʲˈiːt̪ˈurʲimʲi# | 33 : h > ∅ / __ [-syl]
-#nːʲiːt̪urʲimʲi# | 39 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#nːʲˈiːχt̪ˈurʲimʲi# | 32 : [-stres] > [-long,-splng] 
+#nːʲˈiːht̪ˈurʲimʲi# | 33 : χ > h 
+#nːʲˈiːt̪ˈurʲimʲi# | 34 : h > ∅ / __ [-syl]
+#nːʲiːt̪urʲimʲi# | 40 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #nːʲiːt̪urʲimʲi#

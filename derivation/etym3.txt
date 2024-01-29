@@ -8,6 +8,6 @@ l e t̪ ɑ s
 #lːˈeθɑ# | 10 : [+cons] > ∅ / [-cons] __ #
 #lːʲˈeθɑ# | 12 : [+cons,-front] > [+hi,+front] / __ [+front]
 Stressed-Irish stage form : #lːʲˈeθɑ#
-#lːʲˈeθ# | 30 : [-stres,-long] > ∅ 
-#lːʲeθ# | 39 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#lːʲˈeθ# | 31 : [-stres,-long] > ∅ 
+#lːʲeθ# | 40 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #lːʲeθ#

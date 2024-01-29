@@ -8,10 +8,10 @@ t̪ o m e t̪ e n t̪
 #t̪ˈomʲeθʲenːt̪# | 12 : [+cons,-front] > [+hi,+front] / __ [+front]
 #t̪ˈomʲeθʲˌenːt̪# | 15 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
 Stressed-Irish stage form : #t̪ˈomʲeθʲˌenːt̪#
-#t̪ˈomʲeθʲˌenːd̪# | 22 : [-son,-cont] > [+voi] / [+voi] __ #
-#t̪ˈomʲeθʲˌehd̪# | 26 : [+nas] > h / __ [-syl] ( [-syl] )* #
-#t̪ˈomʲeθʲˌeːhd̪# | 29 : [+stres] > [+long] / __ h
-#t̪ˈomʲθʲˌeːhd̪# | 30 : [-stres,-long] > ∅ 
-#t̪ˈomʲθʲˌeːd̪# | 33 : h > ∅ / __ [-syl]
-#t̪omʲθʲeːd̪# | 39 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#t̪ˈomʲeθʲˌenːd̪# | 23 : [-son,-cont] > [+voi] / [+voi] __ #
+#t̪ˈomʲeθʲˌehd̪# | 27 : [+nas] > h / __ [-syl] ( [-syl] )* #
+#t̪ˈomʲeθʲˌeːhd̪# | 30 : [+stres] > [+long] / __ h
+#t̪ˈomʲθʲˌeːhd̪# | 31 : [-stres,-long] > ∅ 
+#t̪ˈomʲθʲˌeːd̪# | 34 : h > ∅ / __ [-syl]
+#t̪omʲθʲeːd̪# | 40 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #t̪omʲθʲeːd̪#

@@ -7,6 +7,6 @@ r iː m iː t̪
 #rːˈiːmiː# | 10 : [+cons] > ∅ / [-cons] __ #
 #rːʲˈiːmʲiː# | 12 : [+cons,-front] > [+hi,+front] / __ [+front]
 Stressed-Irish stage form : #rːʲˈiːmʲiː#
-#rːʲˈiːmʲi# | 31 : [-stres] > [-long,-splng] 
-#rːʲiːmʲi# | 39 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#rːʲˈiːmʲi# | 32 : [-stres] > [-long,-splng] 
+#rːʲiːmʲi# | 40 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #rːʲiːmʲi#

@@ -11,10 +11,10 @@ s e s ɑ n ʔ s uː l iː s
 #sˈɑχɑnːsˈuːliː# | 11 : [+front,-hi] > [+lo,+back,-front] / __ [+back,+cont]
 #sˈɑχɑnːsˈuːlʲiː# | 12 : [+cons,-front] > [+hi,+front] / __ [+front]
 Stressed-Irish stage form : #sˈɑχɑnːsˈuːlʲiː#
-#sˈɑχɑsːˈuːlʲiː# | 21 : [+nas,+cons] s > ∅ [+long]
-#sˈɑχsːˈuːlʲiː# | 30 : [-stres,-long] > ∅ 
-#sˈɑχsːˈuːlʲi# | 31 : [-stres] > [-long,-splng] 
-#sˈɑhsːˈuːlʲi# | 32 : χ > h 
-#sˈɑsːˈuːlʲi# | 33 : h > ∅ / __ [-syl]
-#sɑsːuːlʲi# | 39 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#sˈɑχɑsːˈuːlʲiː# | 22 : [+nas,+cons] s > ∅ [+long]
+#sˈɑχsːˈuːlʲiː# | 31 : [-stres,-long] > ∅ 
+#sˈɑχsːˈuːlʲi# | 32 : [-stres] > [-long,-splng] 
+#sˈɑhsːˈuːlʲi# | 33 : χ > h 
+#sˈɑsːˈuːlʲi# | 34 : h > ∅ / __ [-syl]
+#sɑsːuːlʲi# | 40 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #sɑsːuːlʲi#
