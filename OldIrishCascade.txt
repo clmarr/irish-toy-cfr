@@ -67,9 +67,9 @@ $ apparent o to a after labial (reassignment of rounding/height gesture?)
 [-hi,+round,+syl] > [+lo,-round,-lab] / [+lab] __ 
 
 $nasals totally assimilate to following n m l r s, forming geminates. No lengthening caused in this case. 
-[+nas,+cons] [+son,+cons] > ∅ [+long]
-[+nas,+cons] s > ∅ [+long]
-
+$correction: doesn't seem to happen to m
+[+nas,+cons,-lab] [+son,+cons] > ∅ [+long]
+[+nas,+cons,-lab] s > ∅ [+long]
 
 $Second lenition: voicing spreads progressively for stops in consonant clusters; stops are also voiced after vowels. Either bled by spirantization in first lenition and/or counterfed by syncope (finchar). Only voiceless obstruent affected is f after nasals (which has not yet merged with ɸ < p)
 [-son,-cont] > [+voi] / [+voi] __ {#;[+voi]}

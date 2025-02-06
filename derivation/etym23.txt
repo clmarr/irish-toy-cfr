@@ -11,7 +11,7 @@ s e s ɑ n ʔ s uː l iː s
 *#sˈɑχɑnːsˈuːliː# | 13 : [+front,-hi] > [+lo,+back,-front] / __ [+back,+cont]
 *#sˈɑχɑnːsˈuːlʲiː# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
 Stressed-Irish stage form : *#sˈɑχɑnːsˈuːlʲiː#
-*#sˈɑχɑsːˈuːlʲiː# | 24 : [+nas,+cons] s > ∅ [+long]
+*#sˈɑχɑsːˈuːlʲiː# | 24 : [+nas,+cons,-lab] s > ∅ [+long]
 *#sˈɑχsːˈuːlʲiː# | 33 : [-stres,-long] > ∅ 
 *#sˈɑχsːˈuːlʲi# | 34 : [-stres] > [-long,-splng] 
 *#sˈɑhsːˈuːlʲi# | 37 : χ > h 

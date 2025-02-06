@@ -1,5 +1,5 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :25:
-#nemos# >>> *#nːʲeṽ# ( GOLD : #nʲeṽ#) :
+#nemos# >>> *#nːʲeṽ# ( GOLD : #nːʲeṽ#) :
 n e m o s 
 *#nːemːos# | 2 : [+son,+cons] > [+long] 
 *#nːˈemːos# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 

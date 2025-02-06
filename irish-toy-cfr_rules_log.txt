@@ -21,8 +21,8 @@ o > ∅ / __ [+syl]
 [+syl] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* #
 [+syl] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [-stres] ( [-syl] )* #
 [-hi,+round,+syl] > [+lo,-round,-lab] / [+lab] __ 
-[+nas,+cons] [+son,+cons] > ∅ [+long]
-[+nas,+cons] s > ∅ [+long]
+[+nas,+cons,-lab] [+son,+cons] > ∅ [+long]
+[+nas,+cons,-lab] s > ∅ [+long]
 [-son,-cont] > [+voi] / [+voi] __ #
 [-son,-cont] > [+voi] / [+voi] __ [+voi]
 f > v / [+nas,+voi] __ 

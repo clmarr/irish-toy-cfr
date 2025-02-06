@@ -1,5 +1,5 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :36:
-#komɸroɑnkom# >>> *#korːɑːɡ# ( GOLD : #koṽrɑk#) :
+#komɸroɑnkom# >>> *#koːrːɑːɡ# ( GOLD : #koṽrɑk#) :
 k o m ɸ r o ɑ n k o m 
 *#komhroɑnkom# | 0 : ɸ > h 
 *#komroɑnkom# | 1 : h > ∅ 
@@ -9,11 +9,10 @@ k o m ɸ r o ɑ n k o m
 *#kˈomːrːɑnːko# | 12 : [+cons] > ∅ / [-cons] __ #
 *#kˈomːrːˌɑnːko# | 19 : [+syl,-stres] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [+syl] #
 Stressed-Irish stage form : *#kˈomːrːˌɑnːko#
-*#kˈorːˌɑnːko# | 23 : [+nas,+cons] [+son,+cons] > ∅ [+long]
-*#kˈorːˌɑnːɡo# | 26 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
-*#kˈorːˌɑhɡo# | 28 : [+nas] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
-*#kˈorːˌɑːhɡo# | 32 : [+stres] > [+long] / __ h
-*#kˈorːˌɑːhɡ# | 33 : [-stres,-long] > ∅ 
-*#kˈorːˌɑːɡ# | 38 : h > ∅ / __ [-syl]
-*#korːɑːɡ# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#korːɑːɡ#
+*#kˈomːrːˌɑnːɡo# | 26 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
+*#kˈohrːˌɑhɡo# | 28 : [+nas] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
+*#kˈoːhrːˌɑːhɡo# | 32 : [+stres] > [+long] / __ h
+*#kˈoːhrːˌɑːhɡ# | 33 : [-stres,-long] > ∅ 
+*#kˈoːrːˌɑːɡ# | 38 : h > ∅ / __ [-syl]
+*#koːrːɑːɡ# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#koːrːɑːɡ#
