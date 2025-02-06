@@ -86,7 +86,8 @@ $ but the language no longer respects word boundaries so the real way these are 
 $ handle this with a dummy h, the result of s > χ, which is about to disappear in these positions
 $ this all would be much more natural, with a single rule even, if symbolDefs had the nasals as noncontinuant... 
 	$ which may be how Old Irish was treating them! 
-[+nas] > h / __ [-syl] ([-syl])* {[+syl,-prim];#}
+$correction: doesn't happen to m, it seems. 
+[+nas,-lab] > h / __ [-syl] ([-syl])* {[+syl,-prim];#}
 [-cont] > h / __ [-syl] ([-syl])* {[+syl,-prim];#}
 [+stres] > [+long] / __ h
 
@@ -98,8 +99,7 @@ $pseudo-apocope and -syncope: unstressed short vowels are lost, while long vowel
 [-stres] > [-long]
 
 $m-lenition -- after apocope it seems -- between vowel or glide (coem as koiṽ , koimos) and sonorant and in vowel  __ # . Not in words like cambos > camm and curmi > cuirm. 
-[+lab,+nas] > [-son] / [-cons] __ {#;[+son]}
-
+[+lab,+nas] > [-son,-long] / [-cons] __ {#;[+son]}
 
 $ reflex of s passes to h, and disappears in any consonant cluster it is not the last element of. Before cluster palatality assimilation.
 χ > h 

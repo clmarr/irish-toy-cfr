@@ -8,7 +8,7 @@ Derivation file for run '../irish-toy-cfr'; etymon number :30:
 *#ˈɑmɑro# | 12 : [+cons] > ∅ / [-cons] __ #
 Stressed-Irish stage form : *#ˈɑmɑro#
 *#ˈɑmr# | 33 : [-stres,-long] > ∅ 
-*#ˈɑβ̃r# | 36 : [+lab,+nas] > [-son] / [-cons] __ [+son]
+*#ˈɑβ̃r# | 36 : [+lab,+nas] > [-son,-long,-splng] / [-cons] __ [+son]
 *#ˈɑṽr# | 44 : [+lab,+cont,-son] > [+strid] 
 *#ɑṽr# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : *#ɑṽr#

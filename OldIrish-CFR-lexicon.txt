@@ -3,7 +3,7 @@ $assuming t d are dental like in the modern language
 $assuming <a> is actually back [ɑ] 
 $lenis sonorants treated as short. fortis sonorants as long. 
 $former prosodic word boundaries (removed in an intermediate stage) represented as glottal stops (not for clitic chains e.g. to-me-tent)
-k ɑ t̪ u b u t̪ ɑ s , k ɑ θ v ɑ θ 
+k ɑ t̪ u b u t̪ ɑ s , k ɑ θ v ɑ θ
 r iː m iː t̪ i , rːʲ iː ṽʲ i θʲ
 r iː m iː t̪ , rːʲ iː ṽʲ i
 l e t̪ ɑ s , lːʲ e θ
@@ -11,7 +11,7 @@ t̪ e n t̪ , t̪ʲ eː d̪
 t̪ o m e t̪ e n t̪ , t̪ o mʲ θʲ eː d̪
 t̪ o e n t̪ e n t̪ , t̪ʲ e d̪ʲ eː d̪ 
 w e n i k ɑ r o s , fʲ i n x ɑ r
-w i r o ɡ ɑ l ɑ , fʲ e r ɡ ɑ l 
+w i r o ɡ ɑ l ɑ , fʲ e r ɣ ɑ l 
 e s o ʔ k e n e t̪ l ɑ n , ɑ xʲ e nʲ eː l
 e s ɑ s ʔ k e n e t̪ l ɑ n , ɑ kʲ e nʲ eː l 
 e s ɑ n ʔ k e n e t̪ l ɑ n , ɑ ɡʲ e nʲ eː l
@@ -22,8 +22,8 @@ n iː s ʔ t̪ o r iː m iː t̪ , nːʲ iː t̪ u rːʲ ṽʲ i $etymologically
 ɡ o n i , ɡ u nʲ
 k l u t̪ ɑ n , k lː o θ
 b i t̪ oː s , bʲ e θ o
-m r o ɡ i s , m rː u ɣʲ 
-m o n i k l ɑ s , m u nʲ eː lː
+m r o ɡ i s , mː rː u ɣʲ 
+m o n i k l ɑ s , mː u nʲ eː lː
 e s o ʔ ɡ o n i , ɑ ɣ u nʲ
 e s ɑ n ʔ ɡ o n i , ɑ ŋː ɡ u nʲ 
 s e s ɑ n ʔ s uː l iː s , ɑ s uː lʲ i 
@@ -40,4 +40,4 @@ k ɑ n x s m ɑ n , kʲ eː mʲ
 k l ɑ m o s , k lː ɑ ṽ
 k n ɑː m i s , k nː ɑː ṽʲ
 k o m ɸ r o ɑ n k o m , k o ṽ r ɑ k
-k u r m i , k u rʲ mʲ
+k u r m i , k u rːʲ mːʲ

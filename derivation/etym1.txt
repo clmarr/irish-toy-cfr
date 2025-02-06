@@ -9,7 +9,7 @@ r iː m iː t̪ i
 Stressed-Irish stage form : *#rːʲˈiːmʲiːθʲi#
 *#rːʲˈiːmʲiːθʲ# | 33 : [-stres,-long] > ∅ 
 *#rːʲˈiːmʲiθʲ# | 34 : [-stres] > [-long,-splng] 
-*#rːʲˈiːβʲ̃iθʲ# | 36 : [+lab,+nas] > [-son] / [-cons] __ [+son]
+*#rːʲˈiːβʲ̃iθʲ# | 36 : [+lab,+nas] > [-son,-long,-splng] / [-cons] __ [+son]
 *#rːʲˈiːṽʲiθʲ# | 44 : [+lab,+cont,-son] > [+strid] 
 *#rːʲiːṽʲiθʲ# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : *#rːʲiːṽʲiθʲ#

@@ -9,7 +9,7 @@ k l ɑ m o s
 Stressed-Irish stage form : *#klːˈɑmo#
 *#klːˈɑmɑ# | 22 : [-hi,+round,+syl] > [+lo,-round,-lab] / [+lab] __ 
 *#klːˈɑm# | 33 : [-stres,-long] > ∅ 
-*#klːˈɑβ̃# | 35 : [+lab,+nas] > [-son] / [-cons] __ #
+*#klːˈɑβ̃# | 35 : [+lab,+nas] > [-son,-long,-splng] / [-cons] __ #
 *#klːˈɑṽ# | 44 : [+lab,+cont,-son] > [+strid] 
 *#klːɑṽ# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : *#klːɑṽ#

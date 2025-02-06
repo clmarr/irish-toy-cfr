@@ -1,16 +1,13 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :29:
-#ɑmsterɑː# >>> *#ɑːstrɑ# ( GOLD : #ɑmʲsʲer#) :
+#ɑmsterɑː# >>> *#ɑmːstrɑ# ( GOLD : #ɑmʲsʲer#) :
 ɑ m s t e r ɑː 
 *#ɑmːsterːɑː# | 2 : [+son,+cons] > [+long] 
 *#ˈɑmːsterːɑː# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
 *#ˈɑmːsterɑː# | 10 : [+son,+cons] > [-long,-splng] / [+syl] __ [+syl]
 *#ˈɑmːstʲerɑː# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
 Stressed-Irish stage form : *#ˈɑmːstʲerɑː#
-*#ˈɑhstʲerɑː# | 28 : [+nas] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
-*#ˈɑːhstʲerɑː# | 32 : [+stres] > [+long] / __ h
-*#ˈɑːhstʲrɑː# | 33 : [-stres,-long] > ∅ 
-*#ˈɑːhstʲrɑ# | 34 : [-stres] > [-long,-splng] 
-*#ˈɑːstʲrɑ# | 38 : h > ∅ / __ [-syl]
-*#ˈɑːstrɑ# | 40 : [-back,+cons] > [-front,-hi] / __ [-front]
-*#ɑːstrɑ# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#ɑːstrɑ#
+*#ˈɑmːstʲrɑː# | 33 : [-stres,-long] > ∅ 
+*#ˈɑmːstʲrɑ# | 34 : [-stres] > [-long,-splng] 
+*#ˈɑmːstrɑ# | 40 : [-back,+cons] > [-front,-hi] / __ [-front]
+*#ɑmːstrɑ# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#ɑmːstrɑ#

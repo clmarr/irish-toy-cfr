@@ -9,8 +9,8 @@ Stressed-Irish stage form : *#t̪ʲˈenːt̪ʲenːt̪#
 *#t̪ʲˈenːt̪ʲˌenːt̪# | 20 : [+syl] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* #
 *#t̪ʲˈenːt̪ʲˌenːd̪# | 25 : [-son,-cont] > [+voi] / [+voi] __ #
 *#t̪ʲˈenːd̪ʲˌenːd̪# | 26 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
-*#t̪ʲˈehd̪ʲˌenːd̪# | 28 : [+nas] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
-*#t̪ʲˈehd̪ʲˌehd̪# | 29 : [+nas] > h / __ [-syl] ( [-syl] )* #
+*#t̪ʲˈehd̪ʲˌenːd̪# | 28 : [+nas,-lab] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
+*#t̪ʲˈehd̪ʲˌehd̪# | 29 : [+nas,-lab] > h / __ [-syl] ( [-syl] )* #
 *#t̪ʲˈeːhd̪ʲˌeːhd̪# | 32 : [+stres] > [+long] / __ h
 *#t̪ʲˈeːd̪ʲˌeːd̪# | 38 : h > ∅ / __ [-syl]
 *#t̪ʲeːd̪ʲeːd̪# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 

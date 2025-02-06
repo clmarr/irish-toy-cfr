@@ -5,7 +5,7 @@ k ɑ n x s m ɑ n
 *#kˈɑnːxsmːɑnː# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
 *#kˈɑnːxsmːɑ# | 12 : [+cons] > ∅ / [-cons] __ #
 Stressed-Irish stage form : *#kˈɑnːxsmːɑ#
-*#kˈɑhxsmːɑ# | 28 : [+nas] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
+*#kˈɑhxsmːɑ# | 28 : [+nas,-lab] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
 *#kˈɑːhxsmːɑ# | 32 : [+stres] > [+long] / __ h
 *#kˈɑːhxsmː# | 33 : [-stres,-long] > ∅ 
 *#kˈɑːxsmː# | 38 : h > ∅ / __ [-syl]

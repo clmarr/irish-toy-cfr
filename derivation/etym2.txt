@@ -8,7 +8,7 @@ r iː m iː t̪
 *#rːʲˈiːmʲiː# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
 Stressed-Irish stage form : *#rːʲˈiːmʲiː#
 *#rːʲˈiːmʲi# | 34 : [-stres] > [-long,-splng] 
-*#rːʲˈiːβʲ̃i# | 36 : [+lab,+nas] > [-son] / [-cons] __ [+son]
+*#rːʲˈiːβʲ̃i# | 36 : [+lab,+nas] > [-son,-long,-splng] / [-cons] __ [+son]
 *#rːʲˈiːṽʲi# | 44 : [+lab,+cont,-son] > [+strid] 
 *#rːʲiːṽʲi# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : *#rːʲiːṽʲi#

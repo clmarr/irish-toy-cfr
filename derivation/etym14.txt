@@ -12,7 +12,7 @@ Stressed-Irish stage form : *#t̪ˈurʲeːmo#
 *#t̪ˈurʲeːmɑ# | 22 : [-hi,+round,+syl] > [+lo,-round,-lab] / [+lab] __ 
 *#t̪ˈurʲeːm# | 33 : [-stres,-long] > ∅ 
 *#t̪ˈurʲem# | 34 : [-stres] > [-long,-splng] 
-*#t̪ˈurʲeβ̃# | 35 : [+lab,+nas] > [-son] / [-cons] __ #
+*#t̪ˈurʲeβ̃# | 35 : [+lab,+nas] > [-son,-long,-splng] / [-cons] __ #
 *#t̪ˈurʲeṽ# | 44 : [+lab,+cont,-son] > [+strid] 
 *#t̪urʲeṽ# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : *#t̪urʲeṽ#

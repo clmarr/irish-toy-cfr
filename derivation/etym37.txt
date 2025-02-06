@@ -1,11 +1,11 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :37:
-#kurmi# >>> *#kurːʲmʲː# ( GOLD : #kurʲmʲ#) :
+#kurmi# >>> *#kurːʲmːʲ# ( GOLD : #kurːʲmːʲ#) :
 k u r m i 
 *#kurːmːi# | 2 : [+son,+cons] > [+long] 
 *#kˈurːmːi# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
-*#kˈurːmʲːi# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
-Stressed-Irish stage form : *#kˈurːmʲːi#
-*#kˈurːmʲː# | 33 : [-stres,-long] > ∅ 
-*#kˈurːʲmʲː# | 41 : [+cons] > [+front,+hi] / __ [+front,+cons]
-*#kurːʲmʲː# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#kurːʲmʲː#
+*#kˈurːmːʲi# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
+Stressed-Irish stage form : *#kˈurːmːʲi#
+*#kˈurːmːʲ# | 33 : [-stres,-long] > ∅ 
+*#kˈurːʲmːʲ# | 41 : [+cons] > [+front,+hi] / __ [+front,+cons]
+*#kurːʲmːʲ# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#kurːʲmːʲ#

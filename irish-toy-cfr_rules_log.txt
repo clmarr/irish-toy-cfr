@@ -26,15 +26,15 @@ o > ∅ / __ [+syl]
 [-son,-cont] > [+voi] / [+voi] __ #
 [-son,-cont] > [+voi] / [+voi] __ [+voi]
 f > v / [+nas,+voi] __ 
-[+nas] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
-[+nas] > h / __ [-syl] ( [-syl] )* #
+[+nas,-lab] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
+[+nas,-lab] > h / __ [-syl] ( [-syl] )* #
 [-cont] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
 [-cont] > h / __ [-syl] ( [-syl] )* #
 [+stres] > [+long] / __ h
 [-stres,-long] > ∅ 
 [-stres] > [-long,-splng] 
-[+lab,+nas] > [-son] / [-cons] __ #
-[+lab,+nas] > [-son] / [-cons] __ [+son]
+[+lab,+nas] > [-son,-long,-splng] / [-cons] __ #
+[+lab,+nas] > [-son,-long,-splng] / [-cons] __ [+son]
 χ > h 
 h > ∅ / __ [-syl]
 [+back,+cons] > [-front] / __ [-front]

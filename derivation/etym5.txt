@@ -9,7 +9,7 @@ t̪ o m e t̪ e n t̪
 *#t̪ˈomʲeθʲˌenːt̪# | 17 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
 Stressed-Irish stage form : *#t̪ˈomʲeθʲˌenːt̪#
 *#t̪ˈomʲeθʲˌenːd̪# | 25 : [-son,-cont] > [+voi] / [+voi] __ #
-*#t̪ˈomʲeθʲˌehd̪# | 29 : [+nas] > h / __ [-syl] ( [-syl] )* #
+*#t̪ˈomʲeθʲˌehd̪# | 29 : [+nas,-lab] > h / __ [-syl] ( [-syl] )* #
 *#t̪ˈomʲeθʲˌeːhd̪# | 32 : [+stres] > [+long] / __ h
 *#t̪ˈomʲθʲˌeːhd̪# | 33 : [-stres,-long] > ∅ 
 *#t̪ˈomʲθʲˌeːd̪# | 38 : h > ∅ / __ [-syl]
