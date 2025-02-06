@@ -1,12 +1,12 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :16:
-#ɡoni# >>> #ɡunʲ# ( GOLD : #ɡunʲ#) :
+#ɡoni# >>> *#ɡunʲ# ( GOLD : #ɡunʲ#) :
 ɡ o n i 
-#ɡonːi# | 0 : [+son,+cons] > [+long] 
-#ɡˈonːi# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
-#ɡˈoni# | 8 : [+son,+cons] > [-long,-splng] / [+syl] __ [+syl]
-#ɡˈonʲi# | 12 : [+cons,-front] > [+hi,+front] / __ [+front]
-#ɡˈunʲi# | 13 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
-Stressed-Irish stage form : #ɡˈunʲi#
-#ɡˈunʲ# | 31 : [-stres,-long] > ∅ 
-#ɡunʲ# | 40 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ɡunʲ#
+*#ɡonːi# | 2 : [+son,+cons] > [+long] 
+*#ɡˈonːi# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+*#ɡˈoni# | 10 : [+son,+cons] > [-long,-splng] / [+syl] __ [+syl]
+*#ɡˈonʲi# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
+*#ɡˈunʲi# | 15 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
+Stressed-Irish stage form : *#ɡˈunʲi#
+*#ɡˈunʲ# | 33 : [-stres,-long] > ∅ 
+*#ɡunʲ# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#ɡunʲ#

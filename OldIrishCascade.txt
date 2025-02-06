@@ -1,5 +1,9 @@
 $Proto-Irish to Old Irish cascade!
 
+$deletion of ɸ , via h 
+ɸ > h 
+h > ∅
+
 $although this language treats nasal stops as proper stops and [-cont] that's a change to symbolDefs I'm too lazy to implement at the moment, so we are instead handling that distinction with length. Implementing long variant default. Implement the same for l and r since it seems to work the same. 
 [+son,+cons] > [+long]
 
@@ -93,6 +97,10 @@ $pseudo-apocope and -syncope: unstressed short vowels are lost, while long vowel
 [-stres,-long] > ∅
 [-stres] > [-long]
 
+$m-lenition -- after apocope it seems -- between vowel or glide (coem as koiṽ , koimos) and sonorant and in vowel  __ # . Not in words like cambos > camm and curmi > cuirm. 
+[+lab,+nas] > [-son] / [-cons] __ {#;[+son]}
+
+
 $ reflex of s passes to h, and disappears in any consonant cluster it is not the last element of. Before cluster palatality assimilation.
 χ > h 
 h > ∅ / __ [-syl]
@@ -107,6 +115,8 @@ $this should be done with alpha features but alas.
 {n;nː} > {ŋ;ŋː} / __ [-cont,+back]
 {n;nː} > {m;mː} / __ [-cont,+lab]
 
+$beta labiodentalized
+[+lab,+cont,-son] > [+strid]
 
 $orthographic stress removed (place this late)
 [+stres] > [-stres]

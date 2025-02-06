@@ -1,22 +1,22 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :10:
-#esɑsʔkenet̪lɑn# >>> #ɑkʲenʲeːlː# ( GOLD : #ɑkʲenʲeːl#) :
+#esɑsʔkenet̪lɑn# >>> *#ɑkʲenʲeːlː# ( GOLD : #ɑkʲenʲeːl#) :
 e s ɑ s ʔ k e n e t̪ l ɑ n 
-#esɑsʔkenːet̪lːɑnː# | 0 : [+son,+cons] > [+long] 
-#ˈesɑsʔkenːet̪lːɑnː# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
-#ˈesɑsʔkˈenːet̪lːɑnː# | 4 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / ʔ ( [-syl] )* __ 
-#ˈesɑskˈenːet̪lːɑnː# | 5 : ʔ > ∅ 
-#ˈesɑskˈenet̪lːɑnː# | 8 : [+son,+cons] > [-long,-splng] / [+syl] __ [+syl]
-#ˈeχɑχkˈenet̪lːɑnː# | 9 : {s;f} > {χ;h} / [-cons,+son] __ 
-#ˈeχɑχkˈenet̪lːɑ# | 10 : [+cons] > ∅ / [-cons] __ #
-#ˈɑχɑχkˈenet̪lːɑ# | 11 : [+front,-hi] > [+lo,+back,-front] / __ [+back,+cont]
-#ˈɑχɑχkʲˈenʲet̪lːɑ# | 12 : [+cons,-front] > [+hi,+front] / __ [+front]
-#ˈɑχɑχkʲˈenʲˌet̪lːɑ# | 17 : [+syl,-stres] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [+syl] #
-Stressed-Irish stage form : #ˈɑχɑχkʲˈenʲˌet̪lːɑ#
-#ˈɑχɑχkʲˈenʲˌed̪lːɑ# | 24 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
-#ˈɑχɑχkʲˈenʲˌehlːɑ# | 28 : [-cont] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
-#ˈɑχɑχkʲˈenʲˌeːhlːɑ# | 30 : [+stres] > [+long] / __ h
-#ˈɑχχkʲˈenʲˌeːhlː# | 31 : [-stres,-long] > ∅ 
-#ˈɑhhkʲˈenʲˌeːhlː# | 33 : χ > h 
-#ˈɑkʲˈenʲˌeːlː# | 34 : h > ∅ / __ [-syl]
-#ɑkʲenʲeːlː# | 40 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #ɑkʲenʲeːlː#
+*#esɑsʔkenːet̪lːɑnː# | 2 : [+son,+cons] > [+long] 
+*#ˈesɑsʔkenːet̪lːɑnː# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+*#ˈesɑsʔkˈenːet̪lːɑnː# | 6 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / ʔ ( [-syl] )* __ 
+*#ˈesɑskˈenːet̪lːɑnː# | 7 : ʔ > ∅ 
+*#ˈesɑskˈenet̪lːɑnː# | 10 : [+son,+cons] > [-long,-splng] / [+syl] __ [+syl]
+*#ˈeχɑχkˈenet̪lːɑnː# | 11 : {s;f} > {χ;h} / [-cons,+son] __ 
+*#ˈeχɑχkˈenet̪lːɑ# | 12 : [+cons] > ∅ / [-cons] __ #
+*#ˈɑχɑχkˈenet̪lːɑ# | 13 : [+front,-hi] > [+lo,+back,-front] / __ [+back,+cont]
+*#ˈɑχɑχkʲˈenʲet̪lːɑ# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
+*#ˈɑχɑχkʲˈenʲˌet̪lːɑ# | 19 : [+syl,-stres] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [+syl] #
+Stressed-Irish stage form : *#ˈɑχɑχkʲˈenʲˌet̪lːɑ#
+*#ˈɑχɑχkʲˈenʲˌed̪lːɑ# | 26 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
+*#ˈɑχɑχkʲˈenʲˌehlːɑ# | 30 : [-cont] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
+*#ˈɑχɑχkʲˈenʲˌeːhlːɑ# | 32 : [+stres] > [+long] / __ h
+*#ˈɑχχkʲˈenʲˌeːhlː# | 33 : [-stres,-long] > ∅ 
+*#ˈɑhhkʲˈenʲˌeːhlː# | 37 : χ > h 
+*#ˈɑkʲˈenʲˌeːlː# | 38 : h > ∅ / __ [-syl]
+*#ɑkʲenʲeːlː# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#ɑkʲenʲeːlː#

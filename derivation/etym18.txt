@@ -1,13 +1,13 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :18:
-#bit̪oːs# >>> #bʲeθo# ( GOLD : #bʲeθo#) :
+#bit̪oːs# >>> *#bʲeθo# ( GOLD : #bʲeθo#) :
 b i t̪ oː s 
-#bˈit̪oːs# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
-#bˈiθoːs# | 6 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
-#bˈiθoːχ# | 9 : {s;f} > {χ;h} / [-cons,+son] __ 
-#bˈiθoː# | 10 : [+cons] > ∅ / [-cons] __ #
-#bʲˈiθoː# | 12 : [+cons,-front] > [+hi,+front] / __ [+front]
-#bʲˈeθoː# | 14 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
-Stressed-Irish stage form : #bʲˈeθoː#
-#bʲˈeθo# | 32 : [-stres] > [-long,-splng] 
-#bʲeθo# | 40 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #bʲeθo#
+*#bˈit̪oːs# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+*#bˈiθoːs# | 8 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
+*#bˈiθoːχ# | 11 : {s;f} > {χ;h} / [-cons,+son] __ 
+*#bˈiθoː# | 12 : [+cons] > ∅ / [-cons] __ #
+*#bʲˈiθoː# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
+*#bʲˈeθoː# | 16 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
+Stressed-Irish stage form : *#bʲˈeθoː#
+*#bʲˈeθo# | 34 : [-stres] > [-long,-splng] 
+*#bʲeθo# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#bʲeθo#

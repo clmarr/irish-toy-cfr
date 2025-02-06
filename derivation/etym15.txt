@@ -1,19 +1,21 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :15:
-#niːsʔt̪oriːmiːt̪# >>> #nːʲiːt̪urʲimʲi# ( GOLD : #nːʲiːt̪urːʲṽʲi#) :
+#niːsʔt̪oriːmiːt̪# >>> *#nːʲiːt̪urʲiṽʲi# ( GOLD : #nːʲiːt̪urːʲṽʲi#) :
 n iː s ʔ t̪ o r iː m iː t̪ 
-#nːiːsʔt̪orːiːmːiːt̪# | 0 : [+son,+cons] > [+long] 
-#nːˈiːsʔt̪orːiːmːiːt̪# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
-#nːˈiːsʔt̪ˈorːiːmːiːt̪# | 4 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / ʔ ( [-syl] )* __ 
-#nːˈiːst̪ˈorːiːmːiːt̪# | 5 : ʔ > ∅ 
-#nːˈiːst̪ˈorːiːmiːt̪# | 7 : [+son,+cons,-cor] > [-long,-splng] / [-cons,+son,-cor] __ [+syl]
-#nːˈiːst̪ˈoriːmiːt̪# | 8 : [+son,+cons] > [-long,-splng] / [+syl] __ [+syl]
-#nːˈiːχt̪ˈoriːmiːt̪# | 9 : {s;f} > {χ;h} / [-cons,+son] __ 
-#nːˈiːχt̪ˈoriːmiː# | 10 : [+cons] > ∅ / [-cons] __ #
-#nːʲˈiːχt̪ˈorʲiːmʲiː# | 12 : [+cons,-front] > [+hi,+front] / __ [+front]
-#nːʲˈiːχt̪ˈurʲiːmʲiː# | 13 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
-Stressed-Irish stage form : #nːʲˈiːχt̪ˈurʲiːmʲiː#
-#nːʲˈiːχt̪ˈurʲimʲi# | 32 : [-stres] > [-long,-splng] 
-#nːʲˈiːht̪ˈurʲimʲi# | 33 : χ > h 
-#nːʲˈiːt̪ˈurʲimʲi# | 34 : h > ∅ / __ [-syl]
-#nːʲiːt̪urʲimʲi# | 40 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #nːʲiːt̪urʲimʲi#
+*#nːiːsʔt̪orːiːmːiːt̪# | 2 : [+son,+cons] > [+long] 
+*#nːˈiːsʔt̪orːiːmːiːt̪# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+*#nːˈiːsʔt̪ˈorːiːmːiːt̪# | 6 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / ʔ ( [-syl] )* __ 
+*#nːˈiːst̪ˈorːiːmːiːt̪# | 7 : ʔ > ∅ 
+*#nːˈiːst̪ˈorːiːmiːt̪# | 9 : [+son,+cons,-cor] > [-long,-splng] / [-cons,+son,-cor] __ [+syl]
+*#nːˈiːst̪ˈoriːmiːt̪# | 10 : [+son,+cons] > [-long,-splng] / [+syl] __ [+syl]
+*#nːˈiːχt̪ˈoriːmiːt̪# | 11 : {s;f} > {χ;h} / [-cons,+son] __ 
+*#nːˈiːχt̪ˈoriːmiː# | 12 : [+cons] > ∅ / [-cons] __ #
+*#nːʲˈiːχt̪ˈorʲiːmʲiː# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
+*#nːʲˈiːχt̪ˈurʲiːmʲiː# | 15 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
+Stressed-Irish stage form : *#nːʲˈiːχt̪ˈurʲiːmʲiː#
+*#nːʲˈiːχt̪ˈurʲimʲi# | 34 : [-stres] > [-long,-splng] 
+*#nːʲˈiːχt̪ˈurʲiβʲ̃i# | 36 : [+lab,+nas] > [-son] / [-cons] __ [+son]
+*#nːʲˈiːht̪ˈurʲiβʲ̃i# | 37 : χ > h 
+*#nːʲˈiːt̪ˈurʲiβʲ̃i# | 38 : h > ∅ / __ [-syl]
+*#nːʲˈiːt̪ˈurʲiṽʲi# | 44 : [+lab,+cont,-son] > [+strid] 
+*#nːʲiːt̪urʲiṽʲi# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#nːʲiːt̪urʲiṽʲi#

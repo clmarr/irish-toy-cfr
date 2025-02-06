@@ -1,13 +1,13 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :3:
-#let̪ɑs# >>> #lːʲeθ# ( GOLD : #lːʲeθ#) :
+#let̪ɑs# >>> *#lːʲeθ# ( GOLD : #lːʲeθ#) :
 l e t̪ ɑ s 
-#lːet̪ɑs# | 0 : [+son,+cons] > [+long] 
-#lːˈet̪ɑs# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
-#lːˈeθɑs# | 6 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
-#lːˈeθɑχ# | 9 : {s;f} > {χ;h} / [-cons,+son] __ 
-#lːˈeθɑ# | 10 : [+cons] > ∅ / [-cons] __ #
-#lːʲˈeθɑ# | 12 : [+cons,-front] > [+hi,+front] / __ [+front]
-Stressed-Irish stage form : #lːʲˈeθɑ#
-#lːʲˈeθ# | 31 : [-stres,-long] > ∅ 
-#lːʲeθ# | 40 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #lːʲeθ#
+*#lːet̪ɑs# | 2 : [+son,+cons] > [+long] 
+*#lːˈet̪ɑs# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+*#lːˈeθɑs# | 8 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
+*#lːˈeθɑχ# | 11 : {s;f} > {χ;h} / [-cons,+son] __ 
+*#lːˈeθɑ# | 12 : [+cons] > ∅ / [-cons] __ #
+*#lːʲˈeθɑ# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
+Stressed-Irish stage form : *#lːʲˈeθɑ#
+*#lːʲˈeθ# | 33 : [-stres,-long] > ∅ 
+*#lːʲeθ# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#lːʲeθ#

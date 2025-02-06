@@ -1,12 +1,12 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :17:
-#klut̪ɑn# >>> #klːoθ# ( GOLD : #klːoθ#) :
+#klut̪ɑn# >>> *#klːoθ# ( GOLD : #klːoθ#) :
 k l u t̪ ɑ n 
-#klːut̪ɑnː# | 0 : [+son,+cons] > [+long] 
-#klːˈut̪ɑnː# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
-#klːˈuθɑnː# | 6 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
-#klːˈuθɑ# | 10 : [+cons] > ∅ / [-cons] __ #
-#klːˈoθɑ# | 14 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
-Stressed-Irish stage form : #klːˈoθɑ#
-#klːˈoθ# | 31 : [-stres,-long] > ∅ 
-#klːoθ# | 40 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #klːoθ#
+*#klːut̪ɑnː# | 2 : [+son,+cons] > [+long] 
+*#klːˈut̪ɑnː# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+*#klːˈuθɑnː# | 8 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
+*#klːˈuθɑ# | 12 : [+cons] > ∅ / [-cons] __ #
+*#klːˈoθɑ# | 16 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
+Stressed-Irish stage form : *#klːˈoθɑ#
+*#klːˈoθ# | 33 : [-stres,-long] > ∅ 
+*#klːoθ# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#klːoθ#

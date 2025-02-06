@@ -1,15 +1,15 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :19:
-#mroɡis# >>> #rːuɣʲ# ( GOLD : #mrːuɣʲ#) :
+#mroɡis# >>> *#rːuɣʲ# ( GOLD : #mrːuɣʲ#) :
 m r o ɡ i s 
-#mːrːoɡis# | 0 : [+son,+cons] > [+long] 
-#mːrːˈoɡis# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
-#mːrːˈoɣis# | 6 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
-#mːrːˈoɣiχ# | 9 : {s;f} > {χ;h} / [-cons,+son] __ 
-#mːrːˈoɣi# | 10 : [+cons] > ∅ / [-cons] __ #
-#mːrːˈoɣʲi# | 12 : [+cons,-front] > [+hi,+front] / __ [+front]
-#mːrːˈuɣʲi# | 13 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
-Stressed-Irish stage form : #mːrːˈuɣʲi#
-#rːˈuɣʲi# | 21 : [+nas,+cons] [+son,+cons] > ∅ [+long]
-#rːˈuɣʲ# | 31 : [-stres,-long] > ∅ 
-#rːuɣʲ# | 40 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #rːuɣʲ#
+*#mːrːoɡis# | 2 : [+son,+cons] > [+long] 
+*#mːrːˈoɡis# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+*#mːrːˈoɣis# | 8 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
+*#mːrːˈoɣiχ# | 11 : {s;f} > {χ;h} / [-cons,+son] __ 
+*#mːrːˈoɣi# | 12 : [+cons] > ∅ / [-cons] __ #
+*#mːrːˈoɣʲi# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
+*#mːrːˈuɣʲi# | 15 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
+Stressed-Irish stage form : *#mːrːˈuɣʲi#
+*#rːˈuɣʲi# | 23 : [+nas,+cons] [+son,+cons] > ∅ [+long]
+*#rːˈuɣʲ# | 33 : [-stres,-long] > ∅ 
+*#rːuɣʲ# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#rːuɣʲ#

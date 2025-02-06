@@ -1,20 +1,20 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :23:
-#sesɑnʔsuːliːs# >>> #sɑsːuːlʲi# ( GOLD : #ɑsuːlʲi#) :
+#sesɑnʔsuːliːs# >>> *#sɑsːuːlʲi# ( GOLD : #ɑsuːlʲi#) :
 s e s ɑ n ʔ s uː l iː s 
-#sesɑnːʔsuːlːiːs# | 0 : [+son,+cons] > [+long] 
-#sˈesɑnːʔsuːlːiːs# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
-#sˈesɑnːʔsˈuːlːiːs# | 4 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / ʔ ( [-syl] )* __ 
-#sˈesɑnːsˈuːlːiːs# | 5 : ʔ > ∅ 
-#sˈesɑnːsˈuːliːs# | 8 : [+son,+cons] > [-long,-splng] / [+syl] __ [+syl]
-#sˈeχɑnːsˈuːliːχ# | 9 : {s;f} > {χ;h} / [-cons,+son] __ 
-#sˈeχɑnːsˈuːliː# | 10 : [+cons] > ∅ / [-cons] __ #
-#sˈɑχɑnːsˈuːliː# | 11 : [+front,-hi] > [+lo,+back,-front] / __ [+back,+cont]
-#sˈɑχɑnːsˈuːlʲiː# | 12 : [+cons,-front] > [+hi,+front] / __ [+front]
-Stressed-Irish stage form : #sˈɑχɑnːsˈuːlʲiː#
-#sˈɑχɑsːˈuːlʲiː# | 22 : [+nas,+cons] s > ∅ [+long]
-#sˈɑχsːˈuːlʲiː# | 31 : [-stres,-long] > ∅ 
-#sˈɑχsːˈuːlʲi# | 32 : [-stres] > [-long,-splng] 
-#sˈɑhsːˈuːlʲi# | 33 : χ > h 
-#sˈɑsːˈuːlʲi# | 34 : h > ∅ / __ [-syl]
-#sɑsːuːlʲi# | 40 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #sɑsːuːlʲi#
+*#sesɑnːʔsuːlːiːs# | 2 : [+son,+cons] > [+long] 
+*#sˈesɑnːʔsuːlːiːs# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+*#sˈesɑnːʔsˈuːlːiːs# | 6 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / ʔ ( [-syl] )* __ 
+*#sˈesɑnːsˈuːlːiːs# | 7 : ʔ > ∅ 
+*#sˈesɑnːsˈuːliːs# | 10 : [+son,+cons] > [-long,-splng] / [+syl] __ [+syl]
+*#sˈeχɑnːsˈuːliːχ# | 11 : {s;f} > {χ;h} / [-cons,+son] __ 
+*#sˈeχɑnːsˈuːliː# | 12 : [+cons] > ∅ / [-cons] __ #
+*#sˈɑχɑnːsˈuːliː# | 13 : [+front,-hi] > [+lo,+back,-front] / __ [+back,+cont]
+*#sˈɑχɑnːsˈuːlʲiː# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
+Stressed-Irish stage form : *#sˈɑχɑnːsˈuːlʲiː#
+*#sˈɑχɑsːˈuːlʲiː# | 24 : [+nas,+cons] s > ∅ [+long]
+*#sˈɑχsːˈuːlʲiː# | 33 : [-stres,-long] > ∅ 
+*#sˈɑχsːˈuːlʲi# | 34 : [-stres] > [-long,-splng] 
+*#sˈɑhsːˈuːlʲi# | 37 : χ > h 
+*#sˈɑsːˈuːlʲi# | 38 : h > ∅ / __ [-syl]
+*#sɑsːuːlʲi# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#sɑsːuːlʲi#

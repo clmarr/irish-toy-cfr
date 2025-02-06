@@ -1,13 +1,13 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :4:
-#t̪ent̪# >>> #t̪ʲeːd̪# ( GOLD : #t̪ʲeːd̪#) :
+#t̪ent̪# >>> *#t̪ʲeːd̪# ( GOLD : #t̪ʲeːd̪#) :
 t̪ e n t̪ 
-#t̪enːt̪# | 0 : [+son,+cons] > [+long] 
-#t̪ˈenːt̪# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
-#t̪ʲˈenːt̪# | 12 : [+cons,-front] > [+hi,+front] / __ [+front]
-Stressed-Irish stage form : #t̪ʲˈenːt̪#
-#t̪ʲˈenːd̪# | 23 : [-son,-cont] > [+voi] / [+voi] __ #
-#t̪ʲˈehd̪# | 27 : [+nas] > h / __ [-syl] ( [-syl] )* #
-#t̪ʲˈeːhd̪# | 30 : [+stres] > [+long] / __ h
-#t̪ʲˈeːd̪# | 34 : h > ∅ / __ [-syl]
-#t̪ʲeːd̪# | 40 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #t̪ʲeːd̪#
+*#t̪enːt̪# | 2 : [+son,+cons] > [+long] 
+*#t̪ˈenːt̪# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+*#t̪ʲˈenːt̪# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
+Stressed-Irish stage form : *#t̪ʲˈenːt̪#
+*#t̪ʲˈenːd̪# | 25 : [-son,-cont] > [+voi] / [+voi] __ #
+*#t̪ʲˈehd̪# | 29 : [+nas] > h / __ [-syl] ( [-syl] )* #
+*#t̪ʲˈeːhd̪# | 32 : [+stres] > [+long] / __ h
+*#t̪ʲˈeːd̪# | 38 : h > ∅ / __ [-syl]
+*#t̪ʲeːd̪# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#t̪ʲeːd̪#

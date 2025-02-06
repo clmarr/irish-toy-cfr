@@ -1,3 +1,5 @@
+ɸ > h 
+h > ∅ 
 [+son,+cons] > [+long] 
 w > f / __ [+syl]
 o > ∅ / __ [+syl]
@@ -31,6 +33,8 @@ f > v / [+nas,+voi] __
 [+stres] > [+long] / __ h
 [-stres,-long] > ∅ 
 [-stres] > [-long,-splng] 
+[+lab,+nas] > [-son] / [-cons] __ #
+[+lab,+nas] > [-son] / [-cons] __ [+son]
 χ > h 
 h > ∅ / __ [-syl]
 [+back,+cons] > [-front] / __ [-front]
@@ -38,4 +42,5 @@ h > ∅ / __ [-syl]
 [+cons] > [+front,+hi] / __ [+front,+cons]
 {n;nː} > {ŋ;ŋː} / __ [-cont,+back]
 {n;nː} > {m;mː} / __ [-cont,+lab]
+[+lab,+cont,-son] > [+strid] 
 [+stres] > [-stres,-prim,+syl,+son,0delrel] 

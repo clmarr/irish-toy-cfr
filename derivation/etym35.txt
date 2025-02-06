@@ -1,0 +1,15 @@
+Derivation file for run '../irish-toy-cfr'; etymon number :35:
+#knɑːmis# >>> *#knːɑːṽʲ# ( GOLD : #knːɑːṽʲ#) :
+k n ɑː m i s 
+*#knːɑːmːis# | 2 : [+son,+cons] > [+long] 
+*#knːˈɑːmːis# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+*#knːˈɑːmis# | 9 : [+son,+cons,-cor] > [-long,-splng] / [-cons,+son,-cor] __ [+syl]
+*#knːˈɑːmiχ# | 11 : {s;f} > {χ;h} / [-cons,+son] __ 
+*#knːˈɑːmi# | 12 : [+cons] > ∅ / [-cons] __ #
+*#knːˈɑːmʲi# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
+Stressed-Irish stage form : *#knːˈɑːmʲi#
+*#knːˈɑːmʲ# | 33 : [-stres,-long] > ∅ 
+*#knːˈɑːβʲ̃# | 35 : [+lab,+nas] > [-son] / [-cons] __ #
+*#knːˈɑːṽʲ# | 44 : [+lab,+cont,-son] > [+strid] 
+*#knːɑːṽʲ# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#knːɑːṽʲ#

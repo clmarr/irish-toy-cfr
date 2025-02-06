@@ -1,0 +1,17 @@
+Derivation file for run '../irish-toy-cfr'; etymon number :32:
+#beismɑn# >>> *#bʲiemː# ( GOLD : #bʲeːmʲ#) :
+b e i s m ɑ n 
+*#beismːɑnː# | 2 : [+son,+cons] > [+long] 
+*#bˈeismːɑnː# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+*#bˈeiχmːɑnː# | 11 : {s;f} > {χ;h} / [-cons,+son] __ 
+*#bˈeiχmːɑ# | 12 : [+cons] > ∅ / [-cons] __ #
+*#bʲˈeiχmːɑ# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
+*#bʲˈiiχmːɑ# | 15 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
+*#bʲˈieχmːɑ# | 16 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
+*#bʲˈiˌeχmːɑ# | 19 : [+syl,-stres] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [+syl] #
+Stressed-Irish stage form : *#bʲˈiˌeχmːɑ#
+*#bʲˈiˌeχmː# | 33 : [-stres,-long] > ∅ 
+*#bʲˈiˌehmː# | 37 : χ > h 
+*#bʲˈiˌemː# | 38 : h > ∅ / __ [-syl]
+*#bʲiemː# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#bʲiemː#
