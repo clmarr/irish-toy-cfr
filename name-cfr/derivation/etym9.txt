@@ -1,0 +1,7 @@
+Derivation file for run '../irish-toy-cfr/name-cfr'; etymon number :9:
+#nːʲe# >>> *#nːʲe#:
+nːʲ e
+*#nːʲˈe# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+Stressed-Irish stage form : *#nːʲˈe#
+*#nːʲe# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#nːʲe#

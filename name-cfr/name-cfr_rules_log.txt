@@ -1,0 +1,46 @@
+ɸ > h 
+h > ∅ 
+[+son,+cons] > [+long] 
+w > f / __ [+syl]
+o > ∅ / __ [+syl]
+[+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+[+syl] > [+prim,+stres,+syl,+son,0delrel] / ʔ ( [-syl] )* __ 
+ʔ > ∅ 
+[-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
+[+son,+cons,-cor] > [-long,-splng] / [-cons,+son,-cor] __ [+syl]
+[+son,+cons] > [-long,-splng] / [+syl] __ [+syl]
+{s;f} > {χ;h} / [-cons,+son] __ 
+[+cons] > ∅ / [-cons] __ #
+[+front,-hi] > [+lo,+back,-front] / __ [+back,+cont]
+[+cons,-front] > [+hi,+front] / __ [+front]
+[-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
+[+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
+[+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
+[+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
+[+syl,-stres] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [+syl] #
+[+syl] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* #
+[+syl] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [-stres] ( [-syl] )* #
+[-hi,+round,+syl] > [+lo,-round,-lab] / [+lab] __ 
+[+nas,+cons,-lab] [+son,+cons] > ∅ [+long]
+[+nas,+cons,-lab] s > ∅ [+long]
+[-son,-cont] > [+voi] / [+voi] __ #
+[-son,-cont] > [+voi] / [+voi] __ [+voi]
+f > v / [+nas,+voi] __ 
+[+nas,-lab] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
+[+nas,-lab] > h / __ [-syl] ( [-syl] )* #
+[-cont] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
+[-cont] > h / __ [-syl] ( [-syl] )* #
+[+stres] > [+long] / __ h
+[-stres,-long] > ∅ 
+[-stres] > [-long,-splng] 
+[+lab,+nas] > [-son,-long,-splng] / [-cons] __ #
+[+lab,+nas] > [-son,-long,-splng] / [-cons] __ [+son]
+χ > h 
+h > ∅ / __ [-syl]
+[+back,+cons] > [-front] / __ [-front]
+[-back,+cons] > [-front,-hi] / __ [-front]
+[+cons] > [+front,+hi] / __ [+front,+cons]
+{n;nː} > {ŋ;ŋː} / __ [-cont,+back]
+{n;nː} > {m;mː} / __ [-cont,+lab]
+[+lab,+cont,-son] > [+strid] 
+[+stres] > [-stres,-prim,+syl,+son,0delrel] 

@@ -1,18 +1,18 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :26:
-#dubnowɑlos# >>> *#doːnːhɑl# ( GOLD : #doṽnɑl#) :
-d u b n o w ɑ l o s 
-*#dubnːowɑlːos# | 2 : [+son,+cons] > [+long] 
-*#dubnːofɑlːos# | 3 : w > f / __ [+syl]
-*#dˈubnːofɑlːos# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
-*#dˈubnːofɑlos# | 10 : [+son,+cons] > [-long,-splng] / [+syl] __ [+syl]
-*#dˈubnːohɑloχ# | 11 : {s;f} > {χ;h} / [-cons,+son] __ 
-*#dˈubnːohɑlo# | 12 : [+cons] > ∅ / [-cons] __ #
-*#dˈobnːohɑlo# | 16 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
-*#dˈobnːohˌɑlo# | 17 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
-Stressed-Irish stage form : *#dˈobnːohˌɑlo#
-*#dˈohnːohˌɑlo# | 30 : [-cont] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
-*#dˈoːhnːohˌɑlo# | 32 : [+stres] > [+long] / __ h
-*#dˈoːhnːhˌɑl# | 33 : [-stres,-long] > ∅ 
-*#dˈoːnːhˌɑl# | 38 : h > ∅ / __ [-syl]
-*#doːnːhɑl# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#doːnːhɑl#
+#d̪ubnowɑlos# >>> *#d̪oːnːhɑl# ( GOLD : #d̪oṽnɑl#) :
+d̪ u b n o w ɑ l o s 
+*#d̪ubnːowɑlːos# | 2 : [+son,+cons] > [+long] 
+*#d̪ubnːofɑlːos# | 3 : w > f / __ [+syl]
+*#d̪ˈubnːofɑlːos# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+*#d̪ˈubnːofɑlos# | 10 : [+son,+cons] > [-long,-splng] / [+syl] __ [+syl]
+*#d̪ˈubnːohɑloχ# | 11 : {s;f} > {χ;h} / [-cons,+son] __ 
+*#d̪ˈubnːohɑlo# | 12 : [+cons] > ∅ / [-cons] __ #
+*#d̪ˈobnːohɑlo# | 16 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
+*#d̪ˈobnːohˌɑlo# | 17 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
+Stressed-Irish stage form : *#d̪ˈobnːohˌɑlo#
+*#d̪ˈohnːohˌɑlo# | 30 : [-cont] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
+*#d̪ˈoːhnːohˌɑlo# | 32 : [+stres] > [+long] / __ h
+*#d̪ˈoːhnːhˌɑl# | 33 : [-stres,-long] > ∅ 
+*#d̪ˈoːnːhˌɑl# | 38 : h > ∅ / __ [-syl]
+*#d̪oːnːhɑl# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#d̪oːnːhɑl#

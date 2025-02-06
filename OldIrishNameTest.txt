@@ -1,10 +1,11 @@
 $Proto-Celtic
-m o r iː n ɑː
-m o r i n ɑː
-m o r e n ɑː
-s ɑ b r i n ɑː 
-k ɑ t u m ɑ n d u s 
-w i n d o s e j b ɑ r i s
-d eː w o ɡ n ɑː t ɑ 
-ɡ n ɑː t ɑ 
-n eː m ɑ $nemos, with a-mutation > niamh
+m o r iː n ɑ
+m o r i n ɑ
+m o r e n ɑ
+s ɑ b r i n ɑ 
+k ɑ t̪ u m ɑ n d̪ u s 
+w i n d̪ o s e j b ɑ r i s
+d̪ eː w o ɡ n ɑː t̪ ɑ 
+ɡ n ɑː t̪ ɑ 
+n e m ɑ $nemos, with a-mutation > Niamh
+nːʲ e $dummy to prevent r̃ʲː error for nʲː 
