@@ -8,6 +8,6 @@ b i t̪ oː s
 *#bʲˈiθoː# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
 *#bʲˈeθoː# | 16 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
 Stressed-Irish stage form : *#bʲˈeθoː#
-*#bʲˈeθo# | 34 : [-stres] > [-long,-splng] 
-*#bʲeθo# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#bʲˈeθo# | 35 : [-stres] > [-long,-splng] 
+*#bʲeθo# | 46 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : *#bʲeθo#

@@ -1,0 +1,12 @@
+Derivation file for run '../irish-toy-cfr/name-cfr'; etymon number :32:
+#belɑ# >>> *#bʲel#:
+b e l ɑ
+*#belːɑ# | 2 : [+son,+cons] > [+long] 
+*#bˈelːɑ# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+*#bˈelɑ# | 10 : [+son,+cons] > [-long,-splng] / [+syl] __ [+syl]
+*#bʲˈelɑ# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
+Stressed-Irish stage form : *#bʲˈelɑ#
+Primitive-Irish stage form : *#bʲˈelɑ#
+*#bʲˈel# | 34 : [-stres,-long] > ∅ 
+*#bʲel# | 46 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#bʲel#

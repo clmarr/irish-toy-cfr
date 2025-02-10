@@ -12,9 +12,9 @@ Stressed-Irish stage form : *#kˈomːrːˌɑnːko#
 *#kˈomːrːˌɑnːɡo# | 26 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
 *#kˈomːrːˌɑhɡo# | 28 : [+nas,-lab] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
 *#kˈomːrːˌɑːhɡo# | 32 : [+stres] > [+long] / __ h
-*#kˈomːrːˌɑːhɡ# | 33 : [-stres,-long] > ∅ 
-*#kˈoβ̃rːˌɑːhɡ# | 36 : [+lab,+nas] > [-son,-long,-splng] / [-cons] __ [+son]
-*#kˈoβ̃rːˌɑːɡ# | 38 : h > ∅ / __ [-syl]
-*#kˈoṽrːˌɑːɡ# | 44 : [+lab,+cont,-son] > [+strid] 
-*#koṽrːɑːɡ# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#kˈomːrːˌɑːhɡ# | 34 : [-stres,-long] > ∅ 
+*#kˈoβ̃rːˌɑːhɡ# | 37 : [+lab,+nas] > [-son,-long,-splng] / [-cons] __ [+son]
+*#kˈoβ̃rːˌɑːɡ# | 39 : h > ∅ / __ [-syl]
+*#kˈoṽrːˌɑːɡ# | 45 : [+lab,+cont,-son] > [+strid] 
+*#koṽrːɑːɡ# | 46 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : *#koṽrːɑːɡ#

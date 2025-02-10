@@ -8,7 +8,8 @@ m o r iː n ɑ
 *#mːˈurʲiːnɑ# | 15 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
 *#mːˈurʲeːnɑ# | 16 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
 Stressed-Irish stage form : *#mːˈurʲeːnɑ#
-*#mːˈurʲeːn# | 33 : [-stres,-long] > ∅ 
-*#mːˈurʲen# | 34 : [-stres] > [-long,-splng] 
-*#mːurʲen# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Primitive-Irish stage form : *#mːˈurʲeːnɑ#
+*#mːˈurʲeːn# | 34 : [-stres,-long] > ∅ 
+*#mːˈurʲen# | 35 : [-stres] > [-long,-splng] 
+*#mːurʲen# | 46 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : *#mːurʲen#

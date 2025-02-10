@@ -1,0 +1,14 @@
+Derivation file for run '../irish-toy-cfr/name-cfr'; etymon number :12:
+#boud̪iːkɑ# >>> *#buðʲex#:
+b o u d̪ iː k ɑ
+*#bud̪iːkɑ# | 4 : o > ∅ / __ [+syl]
+*#bˈud̪iːkɑ# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+*#bˈuðiːxɑ# | 8 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
+*#bˈuðʲiːxɑ# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
+*#bˈuðʲeːxɑ# | 16 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
+Stressed-Irish stage form : *#bˈuðʲeːxɑ#
+Primitive-Irish stage form : *#bˈuðʲeːxɑ#
+*#bˈuðʲeːx# | 34 : [-stres,-long] > ∅ 
+*#bˈuðʲex# | 35 : [-stres] > [-long,-splng] 
+*#buðʲex# | 46 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#buðʲex#

@@ -9,8 +9,9 @@ d̪ eː w o ɡ n ɑː t̪ ɑ
 *#d̪ʲˈeːhoɡnːɑːθɑ# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
 *#d̪ʲˈeːhoɡnːˌɑːθɑ# | 17 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
 Stressed-Irish stage form : *#d̪ʲˈeːhoɡnːˌɑːθɑ#
+Primitive-Irish stage form : *#d̪ʲˈeːhoɡnːˌɑːθɑ#
 *#d̪ʲˈeːhohnːˌɑːθɑ# | 30 : [-cont] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
-*#d̪ʲˈeːhhnːˌɑːθ# | 33 : [-stres,-long] > ∅ 
-*#d̪ʲˈeːnːˌɑːθ# | 38 : h > ∅ / __ [-syl]
-*#d̪ʲeːnːɑːθ# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#d̪ʲˈeːhhnːˌɑːθ# | 34 : [-stres,-long] > ∅ 
+*#d̪ʲˈeːnːˌɑːθ# | 39 : h > ∅ / __ [-syl]
+*#d̪ʲeːnːɑːθ# | 46 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : *#d̪ʲeːnːɑːθ#

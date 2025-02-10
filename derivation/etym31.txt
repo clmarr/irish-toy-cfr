@@ -1,19 +1,18 @@
 Derivation file for run '../irish-toy-cfr'; etymon number :31:
-#ɑmɸlɑbros# >>> *#ɑṽlːɑːrː# ( GOLD : #ɑṽlɑvɑr#) :
-ɑ m ɸ l ɑ b r o s 
-*#ɑmhlɑbros# | 0 : ɸ > h 
-*#ɑmlɑbros# | 1 : h > ∅ 
-*#ɑmːlːɑbrːos# | 2 : [+son,+cons] > [+long] 
-*#ˈɑmːlːɑbrːos# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
-*#ˈɑmːlːɑbrːoχ# | 11 : {s;f} > {χ;h} / [-cons,+son] __ 
-*#ˈɑmːlːɑbrːo# | 12 : [+cons] > ∅ / [-cons] __ #
-*#ˈɑmːlːˌɑbrːo# | 19 : [+syl,-stres] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [+syl] #
-Stressed-Irish stage form : *#ˈɑmːlːˌɑbrːo#
-*#ˈɑmːlːˌɑhrːo# | 30 : [-cont] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
-*#ˈɑmːlːˌɑːhrːo# | 32 : [+stres] > [+long] / __ h
-*#ˈɑmːlːˌɑːhrː# | 33 : [-stres,-long] > ∅ 
-*#ˈɑβ̃lːˌɑːhrː# | 36 : [+lab,+nas] > [-son,-long,-splng] / [-cons] __ [+son]
-*#ˈɑβ̃lːˌɑːrː# | 38 : h > ∅ / __ [-syl]
-*#ˈɑṽlːˌɑːrː# | 44 : [+lab,+cont,-son] > [+strid] 
-*#ɑṽlːɑːrː# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#ɑṽlːɑːrː#
+#ɑmɸlɑbɑros# >>> *#ɑṽlːvɑr# ( GOLD : #ɑṽlɑvɑr#) :
+ɑ m ɸ l ɑ b ɑ r o s 
+*#ɑmhlɑbɑros# | 0 : ɸ > h 
+*#ɑmlɑbɑros# | 1 : h > ∅ 
+*#ɑmːlːɑbɑrːos# | 2 : [+son,+cons] > [+long] 
+*#ˈɑmːlːɑbɑrːos# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+*#ˈɑmːlːɑβɑrːos# | 8 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
+*#ˈɑmːlːɑβɑros# | 10 : [+son,+cons] > [-long,-splng] / [+syl] __ [+syl]
+*#ˈɑmːlːɑβɑroχ# | 11 : {s;f} > {χ;h} / [-cons,+son] __ 
+*#ˈɑmːlːɑβɑro# | 12 : [+cons] > ∅ / [-cons] __ #
+*#ˈɑmːlːɑβˌɑro# | 17 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
+Stressed-Irish stage form : *#ˈɑmːlːɑβˌɑro#
+*#ˈɑmːlːβˌɑr# | 34 : [-stres,-long] > ∅ 
+*#ˈɑβ̃lːβˌɑr# | 37 : [+lab,+nas] > [-son,-long,-splng] / [-cons] __ [+son]
+*#ˈɑṽlːvˌɑr# | 45 : [+lab,+cont,-son] > [+strid] 
+*#ɑṽlːvɑr# | 46 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#ɑṽlːvɑr#

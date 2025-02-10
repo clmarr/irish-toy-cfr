@@ -71,6 +71,9 @@ $correction: doesn't seem to happen to m
 [+nas,+cons,-lab] [+son,+cons] > ∅ [+long]
 [+nas,+cons,-lab] s > ∅ [+long]
 
+=Primitive-Irish
+
+
 $Second lenition: voicing spreads progressively for stops in consonant clusters; stops are also voiced after vowels. Either bled by spirantization in first lenition and/or counterfed by syncope (finchar). Only voiceless obstruent affected is f after nasals (which has not yet merged with ɸ < p)
 [-son,-cont] > [+voi] / [+voi] __ {#;[+voi]}
 f > v / [+nas,+voi] __
@@ -93,6 +96,9 @@ $correction: doesn't happen to m, it seems.
 
 
 $APOCOPE and SYNCOPE handled together here, in terms of stress
+
+$preservation of penults in C __ R ([-stres]) # to prevent illegal -CR#. TODO reconsider with more data.
+[-stres] > [+long] / [+cons] __ [+son,+cons] ([-stres]) #
 
 $pseudo-apocope and -syncope: unstressed short vowels are lost, while long vowels lose a mora. (in effect short vowels lose their only mora. 
 [-stres,-long] > ∅

@@ -5,6 +5,7 @@ Derivation file for run '../irish-toy-cfr/name-cfr'; etymon number :7:
 *#ɡnːˈɑːt̪ɑ# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
 *#ɡnːˈɑːθɑ# | 8 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
 Stressed-Irish stage form : *#ɡnːˈɑːθɑ#
-*#ɡnːˈɑːθ# | 33 : [-stres,-long] > ∅ 
-*#ɡnːɑːθ# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Primitive-Irish stage form : *#ɡnːˈɑːθɑ#
+*#ɡnːˈɑːθ# | 34 : [-stres,-long] > ∅ 
+*#ɡnːɑːθ# | 46 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : *#ɡnːɑːθ#

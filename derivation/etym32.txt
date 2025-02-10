@@ -10,8 +10,8 @@ b e i s m ɑ n
 *#bʲˈieχmːɑ# | 16 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
 *#bʲˈiˌeχmːɑ# | 19 : [+syl,-stres] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [+syl] #
 Stressed-Irish stage form : *#bʲˈiˌeχmːɑ#
-*#bʲˈiˌeχmː# | 33 : [-stres,-long] > ∅ 
-*#bʲˈiˌehmː# | 37 : χ > h 
-*#bʲˈiˌemː# | 38 : h > ∅ / __ [-syl]
-*#bʲiemː# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#bʲˈiˌeχmː# | 34 : [-stres,-long] > ∅ 
+*#bʲˈiˌehmː# | 38 : χ > h 
+*#bʲˈiˌemː# | 39 : h > ∅ / __ [-syl]
+*#bʲiemː# | 46 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : *#bʲiemː#

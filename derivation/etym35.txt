@@ -8,8 +8,8 @@ k n ɑː m i s
 *#knːˈɑːmi# | 12 : [+cons] > ∅ / [-cons] __ #
 *#knːˈɑːmʲi# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
 Stressed-Irish stage form : *#knːˈɑːmʲi#
-*#knːˈɑːmʲ# | 33 : [-stres,-long] > ∅ 
-*#knːˈɑːβʲ̃# | 35 : [+lab,+nas] > [-son,-long,-splng] / [-cons] __ #
-*#knːˈɑːṽʲ# | 44 : [+lab,+cont,-son] > [+strid] 
-*#knːɑːṽʲ# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#knːˈɑːmʲ# | 34 : [-stres,-long] > ∅ 
+*#knːˈɑːβʲ̃# | 36 : [+lab,+nas] > [-son,-long,-splng] / [-cons] __ #
+*#knːˈɑːṽʲ# | 45 : [+lab,+cont,-son] > [+strid] 
+*#knːɑːṽʲ# | 46 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : *#knːɑːṽʲ#

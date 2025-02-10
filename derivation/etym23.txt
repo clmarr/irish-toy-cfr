@@ -12,9 +12,9 @@ s e s ɑ n ʔ s uː l iː s
 *#sˈɑχɑnːsˈuːlʲiː# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
 Stressed-Irish stage form : *#sˈɑχɑnːsˈuːlʲiː#
 *#sˈɑχɑsːˈuːlʲiː# | 24 : [+nas,+cons,-lab] s > ∅ [+long]
-*#sˈɑχsːˈuːlʲiː# | 33 : [-stres,-long] > ∅ 
-*#sˈɑχsːˈuːlʲi# | 34 : [-stres] > [-long,-splng] 
-*#sˈɑhsːˈuːlʲi# | 37 : χ > h 
-*#sˈɑsːˈuːlʲi# | 38 : h > ∅ / __ [-syl]
-*#sɑsːuːlʲi# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#sˈɑχsːˈuːlʲiː# | 34 : [-stres,-long] > ∅ 
+*#sˈɑχsːˈuːlʲi# | 35 : [-stres] > [-long,-splng] 
+*#sˈɑhsːˈuːlʲi# | 38 : χ > h 
+*#sˈɑsːˈuːlʲi# | 39 : h > ∅ / __ [-syl]
+*#sɑsːuːlʲi# | 46 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : *#sɑsːuːlʲi#

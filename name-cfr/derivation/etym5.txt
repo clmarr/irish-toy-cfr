@@ -1,22 +1,25 @@
 Derivation file for run '../irish-toy-cfr/name-cfr'; etymon number :5:
-#wind̪osejbɑris# >>> *#fʲeːd̪ʲɕˠejvʲrʲ#:
-w i n d̪ o s e j b ɑ r i s
-*#winːd̪osejbɑrːis# | 2 : [+son,+cons] > [+long] 
-*#finːd̪osejbɑrːis# | 3 : w > f / __ [+syl]
-*#fˈinːd̪osejbɑrːis# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
-*#fˈinːd̪osejβɑrːis# | 8 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
-*#fˈinːd̪osejβɑris# | 10 : [+son,+cons] > [-long,-splng] / [+syl] __ [+syl]
-*#fˈinːd̪oχejβɑriχ# | 11 : {s;f} > {χ;h} / [-cons,+son] __ 
-*#fˈinːd̪oχejβɑri# | 12 : [+cons] > ∅ / [-cons] __ #
-*#fʲˈinːd̪oɕˠejβɑrʲi# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
-*#fʲˈenːd̪oɕˠejβɑrʲi# | 16 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
-*#fʲˈenːd̪oɕˠˌejβɑrʲi# | 17 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
-Stressed-Irish stage form : *#fʲˈenːd̪oɕˠˌejβɑrʲi#
-*#fʲˈehd̪oɕˠˌejβɑrʲi# | 28 : [+nas,-lab] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
-*#fʲˈeːhd̪oɕˠˌejβɑrʲi# | 32 : [+stres] > [+long] / __ h
-*#fʲˈeːhd̪ɕˠˌejβrʲ# | 33 : [-stres,-long] > ∅ 
-*#fʲˈeːd̪ɕˠˌejβrʲ# | 38 : h > ∅ / __ [-syl]
-*#fʲˈeːd̪ʲɕˠˌejβʲrʲ# | 41 : [+cons] > [+front,+hi] / __ [+front,+cons]
-*#fʲˈeːd̪ʲɕˠˌejvʲrʲ# | 44 : [+lab,+cont,-son] > [+strid] 
-*#fʲeːd̪ʲɕˠejvʲrʲ# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#fʲeːd̪ʲɕˠejvʲrʲ#
+#wind̪oseibɑris# >>> *#fʲeːd̪ʲɕˠivɑrʲ#:
+w i n d̪ o s e i b ɑ r i s
+*#winːd̪oseibɑrːis# | 2 : [+son,+cons] > [+long] 
+*#finːd̪oseibɑrːis# | 3 : w > f / __ [+syl]
+*#fˈinːd̪oseibɑrːis# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+*#fˈinːd̪oseiβɑrːis# | 8 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
+*#fˈinːd̪oseiβɑris# | 10 : [+son,+cons] > [-long,-splng] / [+syl] __ [+syl]
+*#fˈinːd̪oχeiβɑriχ# | 11 : {s;f} > {χ;h} / [-cons,+son] __ 
+*#fˈinːd̪oχeiβɑri# | 12 : [+cons] > ∅ / [-cons] __ #
+*#fʲˈinːd̪oɕˠeiβɑrʲi# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
+*#fʲˈinːd̪oɕˠiiβɑrʲi# | 15 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
+*#fʲˈenːd̪oɕˠieβɑrʲi# | 16 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
+*#fʲˈenːd̪oɕˠˌieβɑrʲi# | 17 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
+*#fʲˈenːd̪oɕˠˌieβˌɑrʲi# | 18 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
+Stressed-Irish stage form : *#fʲˈenːd̪oɕˠˌieβˌɑrʲi#
+Primitive-Irish stage form : *#fʲˈenːd̪oɕˠˌieβˌɑrʲi#
+*#fʲˈehd̪oɕˠˌieβˌɑrʲi# | 28 : [+nas,-lab] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
+*#fʲˈeːhd̪oɕˠˌieβˌɑrʲi# | 32 : [+stres] > [+long] / __ h
+*#fʲˈeːhd̪ɕˠˌiβˌɑrʲ# | 34 : [-stres,-long] > ∅ 
+*#fʲˈeːd̪ɕˠˌiβˌɑrʲ# | 39 : h > ∅ / __ [-syl]
+*#fʲˈeːd̪ʲɕˠˌiβˌɑrʲ# | 42 : [+cons] > [+front,+hi] / __ [+front,+cons]
+*#fʲˈeːd̪ʲɕˠˌivˌɑrʲ# | 45 : [+lab,+cont,-son] > [+strid] 
+*#fʲeːd̪ʲɕˠivɑrʲ# | 46 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#fʲeːd̪ʲɕˠivɑrʲ#

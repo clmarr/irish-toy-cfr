@@ -1,11 +1,38 @@
-etID  | Input | Stressed-Irish | Output {GOLD}
-0      | #moriːnɑ# | *#mːˈurʲeːnɑ# | *#mːurʲen#
-1      | #morinɑ# | *#mːˈurʲenɑ# | *#mːurn#
-2      | #morenɑ# | *#mːˈorʲenɑ# | *#mːɑrn#
-3      | #sɑbrinɑ# | *#sˈɑbrʲːenɑ# | *#sɑːrːn#
-4      | #kɑt̪umɑnd̪us# | *#kˈɑθomˌɑnːd̪u# | *#kɑθmɑːd̪#
-5      | #wind̪osejbɑris# | *#fʲˈenːd̪oɕˠˌejβɑrʲi# | *#fʲeːd̪ʲɕˠejvʲrʲ#
-6      | #d̪eːwoɡnɑːt̪ɑ# | *#d̪ʲˈeːhoɡnːˌɑːθɑ# | *#d̪ʲeːnːɑːθ#
-7      | #ɡnɑːt̪ɑ# | *#ɡnːˈɑːθɑ# | *#ɡnːɑːθ#
-8      | #nemɑ# | *#nːʲˈemɑ# | *#nːʲeṽ#
-9      | #nːʲe# | *#nːʲˈe# | *#nːʲe#
+etID  | Input | Stressed-Irish | Primitive-Irish | Output {GOLD}
+0      | #moriːnɑ# | *#mːˈurʲeːnɑ# | *#mːˈurʲeːnɑ# | *#mːurʲen#
+1      | #morinɑ# | *#mːˈurʲenɑ# | *#mːˈurʲenɑ# | *#mːurʲen#
+2      | #morenɑ# | *#mːˈorʲenɑ# | *#mːˈɑrʲenɑ# | *#mːɑrʲen#
+3      | #sɑbrinɑ# | *#sˈɑbrʲːenɑ# | *#sˈɑbrʲːenɑ# | *#sɑːrʲːen#
+4      | #kɑt̪umɑnd̪us# | *#kˈɑθomˌɑnːd̪u# | *#kˈɑθomˌɑnːd̪u# | *#kɑθmɑːd̪#
+5      | #wind̪oseibɑris# | *#fʲˈenːd̪oɕˠˌieβˌɑrʲi# | *#fʲˈenːd̪oɕˠˌieβˌɑrʲi# | *#fʲeːd̪ʲɕˠivɑrʲ#
+6      | #d̪eːwoɡnɑːt̪ɑ# | *#d̪ʲˈeːhoɡnːˌɑːθɑ# | *#d̪ʲˈeːhoɡnːˌɑːθɑ# | *#d̪ʲeːnːɑːθ#
+7      | #ɡnɑːt̪ɑ# | *#ɡnːˈɑːθɑ# | *#ɡnːˈɑːθɑ# | *#ɡnːɑːθ#
+8      | #nemɑ# | *#nːʲˈemɑ# | *#nːʲˈemɑ# | *#nːʲeṽ#
+9      | #kɑrt̪imɑndwɑ# | *#kˈɑrːt̪ʲemˌɑnːdfɑ# | *#kˈɑrːt̪ʲemˌɑnːdfɑ# | *#kɑrːd̪mɑːf#
+10     | #kʷekjɑ# | *#kʲʷˈekʲjɑ# | *#kʲʷˈekʲjɑ# | *#kʲʷeːj#
+11     | #mɑːt̪ronɑ# | *#mːˈɑːt̪rːonɑ# | *#mːˈɑːt̪rːonɑ# | *#mːɑːrːon#
+12     | #boud̪iːkɑ# | *#bˈuðʲeːxɑ# | *#bˈuðʲeːxɑ# | *#buðʲex#
+13     | #kʷennowind̪ɑ# | *#kʲʷˈenːnːuhˌenːd̪ɑ# | *#kʲʷˈenːuhˌenːd̪ɑ# | *#kʲʷenːheːd̪#
+14     | #kunokʷennɑ# | *#kˈonoçʷˌenːnːɑ# | *#kˈonoçʷˌenːɑ# | *#konʲɕʷenː#
+15     | #luɡuselwɑ# | *#lːˈuɣuɕˠˌelːfɑ# | *#lːˈuɣuɕˠˌelːfɑ# | *#lːuɣʲɕˠelːf#
+16     | #worɡellɑ# | *#fˈorːɡʲˌelːlːɑ# | *#fˈɑrːɡʲˌelːlːɑ# | *#fɑrʲːɡʲelːlː#
+17     | #briɡɑnt̪iː# | *#brʲːˈeɣˌɑnːt̪ʲiː# | *#brʲːˈeɣˌɑnːt̪ʲiː# | *#bʲrʲːeɣɑːd̪ʲi#
+18     | #ɑbesiɑ# | *#ˈɑβɑɕˠˌeɑ# | *#ˈɑβɑɕˠˌeɑ# | *#ɑvʲɕˠe#
+19     | #ɑd̪eɡiɑ# | *#ˈɑðɑɣʲˌeɑ# | *#ˈɑðɑɣʲˌeɑ# | *#ɑðʲɣʲe#
+20     | #ɑjjusɑ# | *#ˈɑjjoχɑ# | *#ˈɑjjoχɑ# | *#ɑjjh#
+21     | #ɑjnikt̪ɑ# | *#ˈɑjnːʲˌekt̪ɑ# | *#ˈɑjnːʲˌekt̪ɑ# | *#ɑjnːʲeːt̪#
+22     | #ɑlɑukɑ# | *#ˈɑlɑˌoxɑ# | *#ˈɑlɑˌoxɑ# | *#ɑlox#
+23     | #ɑnd̪ikɑwɑ# | *#ˈɑnːd̪ʲexˌɑhɑ# | *#ˈɑnːd̪ʲexˌɑhɑ# | *#ɑːd̪xɑːh#
+24     | #ɑrd̪ɑ# | *#ˈɑrːd̪ɑ# | *#ˈɑrːd̪ɑ# | *#ɑrːd̪#
+25     | #ɑrikɑ# | *#ˈɑrʲexɑ# | *#ˈɑrʲexɑ# | *#ɑrx#
+26     | #ɑd̪t̪est̪sɑ# | *#ˈɑd̪t̪ˌɑχt̪sɑ# | *#ˈɑd̪t̪ˌɑχt̪sɑ# | *#ɑːd̪ɑs#
+27     | #ɑtiɑ# | *#ˈɑ?eɑ# | *#ˈɑ?eɑ# | *#ɑ?ɑ#
+28     | #ɑːt̪ilɑ# | *#ˈɑːθʲelɑ# | *#ˈɑːθʲelɑ# | *#ɑːθʲel#
+29     | #ɑwɑwkiɑ# | *#ˈɑhɑwxʲˌeɑ# | *#ˈɑhɑwxʲˌeɑ# | *#ɑːwxʲe#
+30     | #bɑnoːnɑ# | *#bˈɑnoːnɑ# | *#bˈɑnoːnɑ# | *#bɑnon#
+31     | #bɑrrɑ# | *#bˈɑrːrːɑ# | *#bˈɑrːrːɑ# | *#bɑrːrː#
+32     | #belɑ# | *#bʲˈelɑ# | *#bʲˈelɑ# | *#bʲel#
+33     | #bit̪liɑ# | *#bʲˈit̪rʲːˡeɑ# | *#bʲˈit̪rʲːˡeɑ# | *#bʲiːlːɑ#
+34     | #boːd̪iɑːkɑ# | *#bˈuːðʲeˌɑːxɑ# | *#bˈuːðʲeˌɑːxɑ# | *#buːðɑːx#
+35     | #breɡissɑ# | *#brːˈɑɣʲˌeχsɑ# | *#brːˈɑɣʲˌeχsɑ# | *#brːɑɣʲes#
+36     | #nːʲe# | *#nːʲˈe# | *#nːʲˈe# | *#nːʲe#

@@ -1,0 +1,16 @@
+Derivation file for run '../irish-toy-cfr/name-cfr'; etymon number :21:
+#ɑjnikt̪ɑ# >>> *#ɑjnːʲeːt̪#:
+ɑ j n i k t̪ ɑ
+*#ɑjnːikt̪ɑ# | 2 : [+son,+cons] > [+long] 
+*#ˈɑjnːikt̪ɑ# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+*#ˈɑjnːʲikt̪ɑ# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
+*#ˈɑjnːʲekt̪ɑ# | 16 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
+*#ˈɑjnːʲˌekt̪ɑ# | 19 : [+syl,-stres] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [+syl] #
+Stressed-Irish stage form : *#ˈɑjnːʲˌekt̪ɑ#
+Primitive-Irish stage form : *#ˈɑjnːʲˌekt̪ɑ#
+*#ˈɑjnːʲˌeht̪ɑ# | 30 : [-cont] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
+*#ˈɑjnːʲˌeːht̪ɑ# | 32 : [+stres] > [+long] / __ h
+*#ˈɑjnːʲˌeːht̪# | 34 : [-stres,-long] > ∅ 
+*#ˈɑjnːʲˌeːt̪# | 39 : h > ∅ / __ [-syl]
+*#ɑjnːʲeːt̪# | 46 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#ɑjnːʲeːt̪#

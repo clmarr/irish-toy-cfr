@@ -31,6 +31,7 @@ f > v / [+nas,+voi] __
 [-cont] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
 [-cont] > h / __ [-syl] ( [-syl] )* #
 [+stres] > [+long] / __ h
+[-stres] > [+long] / [+cons] __ [+son,+cons] ( [-stres] ) #
 [-stres,-long] > ∅ 
 [-stres] > [-long,-splng] 
 [+lab,+nas] > [-son,-long,-splng] / [-cons] __ #

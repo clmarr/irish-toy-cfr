@@ -1,0 +1,13 @@
+Derivation file for run '../irish-toy-cfr/name-cfr'; etymon number :27:
+#ɑtiɑ# >>> *#ɑ?ɑ#:
+ɑ t i ɑ
+*#ˈɑtiɑ# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+*#ˈɑ?iɑ# | 8 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
+*#ˈɑ?iɑ# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
+*#ˈɑ?eɑ# | 16 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
+Stressed-Irish stage form : *#ˈɑ?eɑ#
+Primitive-Irish stage form : *#ˈɑ?eɑ#
+*#ˈɑ?ɑ# | 34 : [-stres,-long] > ∅ 
+*#ˈɑ?ɑ# | 41 : [-back,+cons] > [-front,-hi] / __ [-front]
+*#ɑ?ɑ# | 46 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#ɑ?ɑ#

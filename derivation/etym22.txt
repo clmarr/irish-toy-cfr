@@ -11,9 +11,9 @@ e s ɑ n ʔ ɡ o n i
 *#ˈɑχɑnːɡˈonʲi# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
 *#ˈɑχɑnːɡˈunʲi# | 15 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
 Stressed-Irish stage form : *#ˈɑχɑnːɡˈunʲi#
-*#ˈɑχnːɡˈunʲ# | 33 : [-stres,-long] > ∅ 
-*#ˈɑhnːɡˈunʲ# | 37 : χ > h 
-*#ˈɑnːɡˈunʲ# | 38 : h > ∅ / __ [-syl]
-*#ˈɑŋːɡˈunʲ# | 42 : {n;nː} > {ŋ;ŋː} / __ [-cont,+back]
-*#ɑŋːɡunʲ# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#ˈɑχnːɡˈunʲ# | 34 : [-stres,-long] > ∅ 
+*#ˈɑhnːɡˈunʲ# | 38 : χ > h 
+*#ˈɑnːɡˈunʲ# | 39 : h > ∅ / __ [-syl]
+*#ˈɑŋːɡˈunʲ# | 43 : {n;nː} > {ŋ;ŋː} / __ [-cont,+back]
+*#ɑŋːɡunʲ# | 46 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : *#ɑŋːɡunʲ#

@@ -7,6 +7,6 @@ k ɑ m b o s
 *#kˈɑmːbo# | 12 : [+cons] > ∅ / [-cons] __ #
 Stressed-Irish stage form : *#kˈɑmːbo#
 *#kˈɑmːbɑ# | 22 : [-hi,+round,+syl] > [+lo,-round,-lab] / [+lab] __ 
-*#kˈɑmːb# | 33 : [-stres,-long] > ∅ 
-*#kɑmːb# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#kˈɑmːb# | 34 : [-stres,-long] > ∅ 
+*#kɑmːb# | 46 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : *#kɑmːb#

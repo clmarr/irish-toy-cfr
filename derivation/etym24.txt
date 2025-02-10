@@ -12,8 +12,8 @@ e s o ʔ l e t̪ ɑ s
 *#ˈɑχolˈeθɑ# | 13 : [+front,-hi] > [+lo,+back,-front] / __ [+back,+cont]
 *#ˈɑχolʲˈeθɑ# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
 Stressed-Irish stage form : *#ˈɑχolʲˈeθɑ#
-*#ˈɑχlʲˈeθ# | 33 : [-stres,-long] > ∅ 
-*#ˈɑhlʲˈeθ# | 37 : χ > h 
-*#ˈɑlʲˈeθ# | 38 : h > ∅ / __ [-syl]
-*#ɑlʲeθ# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#ˈɑχlʲˈeθ# | 34 : [-stres,-long] > ∅ 
+*#ˈɑhlʲˈeθ# | 38 : χ > h 
+*#ˈɑlʲˈeθ# | 39 : h > ∅ / __ [-syl]
+*#ɑlʲeθ# | 46 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : *#ɑlʲeθ#

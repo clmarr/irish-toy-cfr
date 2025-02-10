@@ -6,8 +6,9 @@ n e m ɑ
 *#nːˈemɑ# | 9 : [+son,+cons,-cor] > [-long,-splng] / [-cons,+son,-cor] __ [+syl]
 *#nːʲˈemɑ# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
 Stressed-Irish stage form : *#nːʲˈemɑ#
-*#nːʲˈem# | 33 : [-stres,-long] > ∅ 
-*#nːʲˈeβ̃# | 35 : [+lab,+nas] > [-son,-long,-splng] / [-cons] __ #
-*#nːʲˈeṽ# | 44 : [+lab,+cont,-son] > [+strid] 
-*#nːʲeṽ# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Primitive-Irish stage form : *#nːʲˈemɑ#
+*#nːʲˈem# | 34 : [-stres,-long] > ∅ 
+*#nːʲˈeβ̃# | 36 : [+lab,+nas] > [-son,-long,-splng] / [-cons] __ #
+*#nːʲˈeṽ# | 45 : [+lab,+cont,-son] > [+strid] 
+*#nːʲeṽ# | 46 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : *#nːʲeṽ#

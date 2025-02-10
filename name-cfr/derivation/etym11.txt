@@ -1,0 +1,16 @@
+Derivation file for run '../irish-toy-cfr/name-cfr'; etymon number :11:
+#mɑːt̪ronɑ# >>> *#mːɑːrːon#:
+m ɑː t̪ r o n ɑ
+*#mːɑːt̪rːonːɑ# | 2 : [+son,+cons] > [+long] 
+*#mːˈɑːt̪rːonːɑ# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+*#mːˈɑːt̪rːonɑ# | 10 : [+son,+cons] > [-long,-splng] / [+syl] __ [+syl]
+Stressed-Irish stage form : *#mːˈɑːt̪rːonɑ#
+Primitive-Irish stage form : *#mːˈɑːt̪rːonɑ#
+*#mːˈɑːd̪rːonɑ# | 26 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
+*#mːˈɑːhrːonɑ# | 30 : [-cont] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
+*#mːˈɑːhrːoːnɑ# | 33 : [-stres] > [+long] / [+cons] __ [+son,+cons] ( [-stres] ) #
+*#mːˈɑːhrːoːn# | 34 : [-stres,-long] > ∅ 
+*#mːˈɑːhrːon# | 35 : [-stres] > [-long,-splng] 
+*#mːˈɑːrːon# | 39 : h > ∅ / __ [-syl]
+*#mːɑːrːon# | 46 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#mːɑːrːon#

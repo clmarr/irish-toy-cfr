@@ -12,10 +12,10 @@ n iː s ʔ t̪ o r iː m iː t̪
 *#nːʲˈiːχt̪ˈorʲiːmʲiː# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
 *#nːʲˈiːχt̪ˈurʲiːmʲiː# | 15 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
 Stressed-Irish stage form : *#nːʲˈiːχt̪ˈurʲiːmʲiː#
-*#nːʲˈiːχt̪ˈurʲimʲi# | 34 : [-stres] > [-long,-splng] 
-*#nːʲˈiːχt̪ˈurʲiβʲ̃i# | 36 : [+lab,+nas] > [-son,-long,-splng] / [-cons] __ [+son]
-*#nːʲˈiːht̪ˈurʲiβʲ̃i# | 37 : χ > h 
-*#nːʲˈiːt̪ˈurʲiβʲ̃i# | 38 : h > ∅ / __ [-syl]
-*#nːʲˈiːt̪ˈurʲiṽʲi# | 44 : [+lab,+cont,-son] > [+strid] 
-*#nːʲiːt̪urʲiṽʲi# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#nːʲˈiːχt̪ˈurʲimʲi# | 35 : [-stres] > [-long,-splng] 
+*#nːʲˈiːχt̪ˈurʲiβʲ̃i# | 37 : [+lab,+nas] > [-son,-long,-splng] / [-cons] __ [+son]
+*#nːʲˈiːht̪ˈurʲiβʲ̃i# | 38 : χ > h 
+*#nːʲˈiːt̪ˈurʲiβʲ̃i# | 39 : h > ∅ / __ [-syl]
+*#nːʲˈiːt̪ˈurʲiṽʲi# | 45 : [+lab,+cont,-son] > [+strid] 
+*#nːʲiːt̪urʲiṽʲi# | 46 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : *#nːʲiːt̪urʲiṽʲi#

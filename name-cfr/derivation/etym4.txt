@@ -10,9 +10,10 @@ k ɑ t̪ u m ɑ n d̪ u s
 *#kˈɑθomɑnːd̪u# | 16 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
 *#kˈɑθomˌɑnːd̪u# | 17 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
 Stressed-Irish stage form : *#kˈɑθomˌɑnːd̪u#
+Primitive-Irish stage form : *#kˈɑθomˌɑnːd̪u#
 *#kˈɑθomˌɑhd̪u# | 28 : [+nas,-lab] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
 *#kˈɑθomˌɑːhd̪u# | 32 : [+stres] > [+long] / __ h
-*#kˈɑθmˌɑːhd̪# | 33 : [-stres,-long] > ∅ 
-*#kˈɑθmˌɑːd̪# | 38 : h > ∅ / __ [-syl]
-*#kɑθmɑːd̪# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#kˈɑθmˌɑːhd̪# | 34 : [-stres,-long] > ∅ 
+*#kˈɑθmˌɑːd̪# | 39 : h > ∅ / __ [-syl]
+*#kɑθmɑːd̪# | 46 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : *#kɑθmɑːd̪#

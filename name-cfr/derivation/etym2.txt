@@ -1,5 +1,5 @@
 Derivation file for run '../irish-toy-cfr/name-cfr'; etymon number :2:
-#morenɑ# >>> *#mːɑrn#:
+#morenɑ# >>> *#mːɑrʲen#:
 m o r e n ɑ
 *#mːorːenːɑ# | 2 : [+son,+cons] > [+long] 
 *#mːˈorːenːɑ# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
@@ -7,7 +7,9 @@ m o r e n ɑ
 *#mːˈorʲenɑ# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
 Stressed-Irish stage form : *#mːˈorʲenɑ#
 *#mːˈɑrʲenɑ# | 22 : [-hi,+round,+syl] > [+lo,-round,-lab] / [+lab] __ 
-*#mːˈɑrʲn# | 33 : [-stres,-long] > ∅ 
-*#mːˈɑrn# | 40 : [-back,+cons] > [-front,-hi] / __ [-front]
-*#mːɑrn# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : *#mːɑrn#
+Primitive-Irish stage form : *#mːˈɑrʲenɑ#
+*#mːˈɑrʲeːnɑ# | 33 : [-stres] > [+long] / [+cons] __ [+son,+cons] ( [-stres] ) #
+*#mːˈɑrʲeːn# | 34 : [-stres,-long] > ∅ 
+*#mːˈɑrʲen# | 35 : [-stres] > [-long,-splng] 
+*#mːɑrʲen# | 46 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#mːɑrʲen#

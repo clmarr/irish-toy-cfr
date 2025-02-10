@@ -1,0 +1,19 @@
+Derivation file for run '../irish-toy-cfr/name-cfr'; etymon number :17:
+#briɡɑnt̪iː# >>> *#bʲrʲːeɣɑːd̪ʲi#:
+b r i ɡ ɑ n t̪ iː
+*#brːiɡɑnːt̪iː# | 2 : [+son,+cons] > [+long] 
+*#brːˈiɡɑnːt̪iː# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+*#brːˈiɣɑnːt̪iː# | 8 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
+*#brʲːˈiɣɑnːt̪ʲiː# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
+*#brʲːˈeɣɑnːt̪ʲiː# | 16 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
+*#brʲːˈeɣˌɑnːt̪ʲiː# | 19 : [+syl,-stres] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [+syl] #
+Stressed-Irish stage form : *#brʲːˈeɣˌɑnːt̪ʲiː#
+Primitive-Irish stage form : *#brʲːˈeɣˌɑnːt̪ʲiː#
+*#brʲːˈeɣˌɑnːd̪ʲiː# | 26 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
+*#brʲːˈeɣˌɑhd̪ʲiː# | 28 : [+nas,-lab] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
+*#brʲːˈeɣˌɑːhd̪ʲiː# | 32 : [+stres] > [+long] / __ h
+*#brʲːˈeɣˌɑːhd̪ʲi# | 35 : [-stres] > [-long,-splng] 
+*#brʲːˈeɣˌɑːd̪ʲi# | 39 : h > ∅ / __ [-syl]
+*#bʲrʲːˈeɣˌɑːd̪ʲi# | 42 : [+cons] > [+front,+hi] / __ [+front,+cons]
+*#bʲrʲːeɣɑːd̪ʲi# | 46 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#bʲrʲːeɣɑːd̪ʲi#

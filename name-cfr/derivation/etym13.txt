@@ -1,0 +1,20 @@
+Derivation file for run '../irish-toy-cfr/name-cfr'; etymon number :13:
+#kʷennowind̪ɑ# >>> *#kʲʷenːheːd̪#:
+kʷ e n n o w i n d̪ ɑ
+*#kʷenːnːowinːd̪ɑ# | 2 : [+son,+cons] > [+long] 
+*#kʷenːnːofinːd̪ɑ# | 3 : w > f / __ [+syl]
+*#kʷˈenːnːofinːd̪ɑ# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+*#kʷˈenːnːohinːd̪ɑ# | 11 : {s;f} > {χ;h} / [-cons,+son] __ 
+*#kʲʷˈenːnːohinːd̪ɑ# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
+*#kʲʷˈenːnːuhinːd̪ɑ# | 15 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
+*#kʲʷˈenːnːuhenːd̪ɑ# | 16 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
+*#kʲʷˈenːnːuhˌenːd̪ɑ# | 17 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
+Stressed-Irish stage form : *#kʲʷˈenːnːuhˌenːd̪ɑ#
+*#kʲʷˈenːuhˌenːd̪ɑ# | 23 : [+nas,+cons,-lab] [+son,+cons] > ∅ [+long]
+Primitive-Irish stage form : *#kʲʷˈenːuhˌenːd̪ɑ#
+*#kʲʷˈenːuhˌehd̪ɑ# | 28 : [+nas,-lab] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
+*#kʲʷˈenːuhˌeːhd̪ɑ# | 32 : [+stres] > [+long] / __ h
+*#kʲʷˈenːhˌeːhd̪# | 34 : [-stres,-long] > ∅ 
+*#kʲʷˈenːhˌeːd̪# | 39 : h > ∅ / __ [-syl]
+*#kʲʷenːheːd̪# | 46 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#kʲʷenːheːd̪#

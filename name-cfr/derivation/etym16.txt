@@ -1,0 +1,15 @@
+Derivation file for run '../irish-toy-cfr/name-cfr'; etymon number :16:
+#worɡellɑ# >>> *#fɑrʲːɡʲelːlː#:
+w o r ɡ e l l ɑ 
+*#worːɡelːlːɑ# | 2 : [+son,+cons] > [+long] 
+*#forːɡelːlːɑ# | 3 : w > f / __ [+syl]
+*#fˈorːɡelːlːɑ# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+*#fˈorːɡʲelːlːɑ# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
+*#fˈorːɡʲˌelːlːɑ# | 19 : [+syl,-stres] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [+syl] #
+Stressed-Irish stage form : *#fˈorːɡʲˌelːlːɑ#
+*#fˈɑrːɡʲˌelːlːɑ# | 22 : [-hi,+round,+syl] > [+lo,-round,-lab] / [+lab] __ 
+Primitive-Irish stage form : *#fˈɑrːɡʲˌelːlːɑ#
+*#fˈɑrːɡʲˌelːlː# | 34 : [-stres,-long] > ∅ 
+*#fˈɑrʲːɡʲˌelːlː# | 42 : [+cons] > [+front,+hi] / __ [+front,+cons]
+*#fɑrʲːɡʲelːlː# | 46 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#fɑrʲːɡʲelːlː#

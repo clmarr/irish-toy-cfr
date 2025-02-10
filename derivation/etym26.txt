@@ -12,7 +12,7 @@ d̪ u b n o w ɑ l o s
 Stressed-Irish stage form : *#d̪ˈobnːohˌɑlo#
 *#d̪ˈohnːohˌɑlo# | 30 : [-cont] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
 *#d̪ˈoːhnːohˌɑlo# | 32 : [+stres] > [+long] / __ h
-*#d̪ˈoːhnːhˌɑl# | 33 : [-stres,-long] > ∅ 
-*#d̪ˈoːnːhˌɑl# | 38 : h > ∅ / __ [-syl]
-*#d̪oːnːhɑl# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#d̪ˈoːhnːhˌɑl# | 34 : [-stres,-long] > ∅ 
+*#d̪ˈoːnːhˌɑl# | 39 : h > ∅ / __ [-syl]
+*#d̪oːnːhɑl# | 46 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : *#d̪oːnːhɑl#

@@ -1,0 +1,15 @@
+Derivation file for run '../irish-toy-cfr/name-cfr'; etymon number :34:
+#boːd̪iɑːkɑ# >>> *#buːðɑːx#:
+b oː d̪ i ɑː k ɑ
+*#bˈoːd̪iɑːkɑ# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+*#bˈoːðiɑːxɑ# | 8 : [-cont] > [+cont,0delrel] / [-cons,+son] __ [+syl]
+*#bˈoːðʲiɑːxɑ# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
+*#bˈuːðʲiɑːxɑ# | 15 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
+*#bˈuːðʲeɑːxɑ# | 16 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
+*#bˈuːðʲeˌɑːxɑ# | 17 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
+Stressed-Irish stage form : *#bˈuːðʲeˌɑːxɑ#
+Primitive-Irish stage form : *#bˈuːðʲeˌɑːxɑ#
+*#bˈuːðʲˌɑːx# | 34 : [-stres,-long] > ∅ 
+*#bˈuːðˌɑːx# | 41 : [-back,+cons] > [-front,-hi] / __ [-front]
+*#buːðɑːx# | 46 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#buːðɑːx#

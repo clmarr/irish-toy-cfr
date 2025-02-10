@@ -1,0 +1,10 @@
+Derivation file for run '../irish-toy-cfr/name-cfr'; etymon number :31:
+#bɑrrɑ# >>> *#bɑrːrː#:
+b ɑ r r ɑ
+*#bɑrːrːɑ# | 2 : [+son,+cons] > [+long] 
+*#bˈɑrːrːɑ# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
+Stressed-Irish stage form : *#bˈɑrːrːɑ#
+Primitive-Irish stage form : *#bˈɑrːrːɑ#
+*#bˈɑrːrː# | 34 : [-stres,-long] > ∅ 
+*#bɑrːrː# | 46 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#bɑrːrː#

@@ -15,9 +15,9 @@ Stressed-Irish stage form : *#ˈɑχɑnːkʲˈenʲˌet̪lːɑ#
 *#ˈɑχɑnːɡʲˈenʲˌed̪lːɑ# | 26 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
 *#ˈɑχɑnːɡʲˈenʲˌehlːɑ# | 30 : [-cont] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
 *#ˈɑχɑnːɡʲˈenʲˌeːhlːɑ# | 32 : [+stres] > [+long] / __ h
-*#ˈɑχnːɡʲˈenʲˌeːhlː# | 33 : [-stres,-long] > ∅ 
-*#ˈɑhnːɡʲˈenʲˌeːhlː# | 37 : χ > h 
-*#ˈɑnːɡʲˈenʲˌeːlː# | 38 : h > ∅ / __ [-syl]
-*#ˈɑnːʲɡʲˈenʲˌeːlː# | 41 : [+cons] > [+front,+hi] / __ [+front,+cons]
-*#ɑnːʲɡʲenʲeːlː# | 45 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#ˈɑχnːɡʲˈenʲˌeːhlː# | 34 : [-stres,-long] > ∅ 
+*#ˈɑhnːɡʲˈenʲˌeːhlː# | 38 : χ > h 
+*#ˈɑnːɡʲˈenʲˌeːlː# | 39 : h > ∅ / __ [-syl]
+*#ˈɑnːʲɡʲˈenʲˌeːlː# | 42 : [+cons] > [+front,+hi] / __ [+front,+cons]
+*#ɑnːʲɡʲenʲeːlː# | 46 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : *#ɑnːʲɡʲenʲeːlː#
