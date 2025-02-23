@@ -7,6 +7,7 @@ t̪ o e n t̪ e n t̪
 *#t̪ʲˈenːt̪ʲenːt̪# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
 Stressed-Irish stage form : *#t̪ʲˈenːt̪ʲenːt̪#
 *#t̪ʲˈenːt̪ʲˌenːt̪# | 20 : [+syl] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* #
+Primitive-Irish stage form : *#t̪ʲˈenːt̪ʲˌenːt̪#
 *#t̪ʲˈenːt̪ʲˌenːd̪# | 25 : [-son,-cont] > [+voi] / [+voi] __ #
 *#t̪ʲˈenːd̪ʲˌenːd̪# | 26 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
 *#t̪ʲˈehd̪ʲˌenːd̪# | 28 : [+nas,-lab] > h / __ [-syl] ( [-syl] )* [+syl,-prim]

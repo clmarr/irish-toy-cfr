@@ -6,6 +6,7 @@ Derivation file for run '../irish-toy-cfr'; etymon number :29:
 *#ˈɑmːst̪erɑ# | 10 : [+son,+cons] > [-long,-splng] / [+syl] __ [+syl]
 *#ˈɑmːst̪ʲerɑ# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
 Stressed-Irish stage form : *#ˈɑmːst̪ʲerɑ#
+Primitive-Irish stage form : *#ˈɑmːst̪ʲerɑ#
 *#ˈɑmːst̪ʲeːrɑ# | 33 : [-stres] > [+long] / [+cons] __ [+son,+cons] ( [-stres] ) #
 *#ˈɑmːst̪ʲeːr# | 34 : [-stres,-long] > ∅ 
 *#ˈɑmːst̪ʲer# | 35 : [-stres] > [-long,-splng] 

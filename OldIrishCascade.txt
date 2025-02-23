@@ -19,6 +19,9 @@ $innovation of word initial stress. Taking into account that word boundaries tha
 $deletion of the word-boundary in nominal and verbal complexes it seems. This appears to happen after the first lenition, but before the first final consonant lost. Recall that this evanescent word boundary is being represented by <ʔ> 
 ʔ > ∅
 
+$ t deletes before l. 
+$t̪ > ∅ / __ [+lat]
+
 $First Lenition: stops spirantize and sonorants "shorten" intervocalically. After deletion of word-boundary in these complexes. 
 [-cont] > [+cont] / [-cons,+son] __ [+syl] 
 

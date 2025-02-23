@@ -8,6 +8,7 @@ k l ɑ m o s
 *#klːˈɑmo# | 12 : [+cons] > ∅ / [-cons] __ #
 Stressed-Irish stage form : *#klːˈɑmo#
 *#klːˈɑmɑ# | 22 : [-hi,+round,+syl] > [+lo,-round,-lab] / [+lab] __ 
+Primitive-Irish stage form : *#klːˈɑmɑ#
 *#klːˈɑm# | 34 : [-stres,-long] > ∅ 
 *#klːˈɑβ̃# | 36 : [+lab,+nas] > [-son,-long,-splng] / [-cons] __ #
 *#klːˈɑṽ# | 45 : [+lab,+cont,-son] > [+strid] 

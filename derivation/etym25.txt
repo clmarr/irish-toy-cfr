@@ -9,6 +9,7 @@ n e m o s
 *#nːʲˈemo# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
 Stressed-Irish stage form : *#nːʲˈemo#
 *#nːʲˈemɑ# | 22 : [-hi,+round,+syl] > [+lo,-round,-lab] / [+lab] __ 
+Primitive-Irish stage form : *#nːʲˈemɑ#
 *#nːʲˈem# | 34 : [-stres,-long] > ∅ 
 *#nːʲˈeβ̃# | 36 : [+lab,+nas] > [-son,-long,-splng] / [-cons] __ #
 *#nːʲˈeṽ# | 45 : [+lab,+cont,-son] > [+strid] 

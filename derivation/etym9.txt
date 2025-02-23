@@ -13,6 +13,7 @@ e s o ʔ k e n e t̪ l ɑ n
 *#ˈɑχoxʲˈenʲet̪lːɑ# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
 *#ˈɑχoxʲˈenʲˌet̪lːɑ# | 19 : [+syl,-stres] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [+syl] #
 Stressed-Irish stage form : *#ˈɑχoxʲˈenʲˌet̪lːɑ#
+Primitive-Irish stage form : *#ˈɑχoxʲˈenʲˌet̪lːɑ#
 *#ˈɑχoxʲˈenʲˌed̪lːɑ# | 26 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
 *#ˈɑχoxʲˈenʲˌehlːɑ# | 30 : [-cont] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
 *#ˈɑχoxʲˈenʲˌeːhlːɑ# | 32 : [+stres] > [+long] / __ h

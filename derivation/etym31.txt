@@ -11,6 +11,7 @@ Derivation file for run '../irish-toy-cfr'; etymon number :31:
 *#ˈɑmːlːɑβɑro# | 12 : [+cons] > ∅ / [-cons] __ #
 *#ˈɑmːlːɑβˌɑro# | 17 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
 Stressed-Irish stage form : *#ˈɑmːlːɑβˌɑro#
+Primitive-Irish stage form : *#ˈɑmːlːɑβˌɑro#
 *#ˈɑmːlːβˌɑr# | 34 : [-stres,-long] > ∅ 
 *#ˈɑβ̃lːβˌɑr# | 37 : [+lab,+nas] > [-son,-long,-splng] / [-cons] __ [+son]
 *#ˈɑṽlːvˌɑr# | 45 : [+lab,+cont,-son] > [+strid] 

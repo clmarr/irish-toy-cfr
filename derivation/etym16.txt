@@ -7,6 +7,7 @@ Derivation file for run '../irish-toy-cfr'; etymon number :16:
 *#ɡˈonʲi# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
 *#ɡˈunʲi# | 15 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
 Stressed-Irish stage form : *#ɡˈunʲi#
+Primitive-Irish stage form : *#ɡˈunʲi#
 *#ɡˈunʲ# | 34 : [-stres,-long] > ∅ 
 *#ɡunʲ# | 46 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : *#ɡunʲ#

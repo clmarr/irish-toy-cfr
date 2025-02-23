@@ -5,6 +5,7 @@ t̪ e n t̪
 *#t̪ˈenːt̪# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
 *#t̪ʲˈenːt̪# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
 Stressed-Irish stage form : *#t̪ʲˈenːt̪#
+Primitive-Irish stage form : *#t̪ʲˈenːt̪#
 *#t̪ʲˈenːd̪# | 25 : [-son,-cont] > [+voi] / [+voi] __ #
 *#t̪ʲˈehd̪# | 29 : [+nas,-lab] > h / __ [-syl] ( [-syl] )* #
 *#t̪ʲˈeːhd̪# | 32 : [+stres] > [+long] / __ h

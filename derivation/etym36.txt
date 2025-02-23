@@ -9,6 +9,7 @@ k o m ɸ r o ɑ n k o m
 *#kˈomːrːɑnːko# | 12 : [+cons] > ∅ / [-cons] __ #
 *#kˈomːrːˌɑnːko# | 19 : [+syl,-stres] > [+stres,+syl,+son,0delrel] / __ [-syl] [-syl] ( [-syl] )* [+syl] #
 Stressed-Irish stage form : *#kˈomːrːˌɑnːko#
+Primitive-Irish stage form : *#kˈomːrːˌɑnːko#
 *#kˈomːrːˌɑnːɡo# | 26 : [-son,-cont] > [+voi] / [+voi] __ [+voi]
 *#kˈomːrːˌɑhɡo# | 28 : [+nas,-lab] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
 *#kˈomːrːˌɑːhɡo# | 32 : [+stres] > [+long] / __ h

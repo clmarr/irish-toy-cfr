@@ -5,6 +5,7 @@ k u r m i
 *#kˈurːmːi# | 5 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ 
 *#kˈurːmːʲi# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
 Stressed-Irish stage form : *#kˈurːmːʲi#
+Primitive-Irish stage form : *#kˈurːmːʲi#
 *#kˈurːmːʲ# | 34 : [-stres,-long] > ∅ 
 *#kˈurːʲmːʲ# | 42 : [+cons] > [+front,+hi] / __ [+front,+cons]
 *#kurːʲmːʲ# | 46 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 

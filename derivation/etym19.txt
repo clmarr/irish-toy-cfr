@@ -9,6 +9,7 @@ m r o ɡ i s
 *#mːrːˈoɣʲi# | 14 : [+cons,-front] > [+hi,+front] / __ [+front]
 *#mːrːˈuɣʲi# | 15 : [-lo,+syl] > [+hi] / __ ( [-syl] )* [+syl,+hi]
 Stressed-Irish stage form : *#mːrːˈuɣʲi#
+Primitive-Irish stage form : *#mːrːˈuɣʲi#
 *#mːrːˈuɣʲ# | 34 : [-stres,-long] > ∅ 
 *#mːrːuɣʲ# | 46 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : *#mːrːuɣʲ#

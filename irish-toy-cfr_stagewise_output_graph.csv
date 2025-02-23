@@ -1,39 +1,39 @@
-etID  | Input | Stressed-Irish | Output {GOLD}
-0      | #kɑt̪ubut̪ɑs# | *#kˈɑθuβˌoθɑ# | *#kɑθvɑθ# {GOLD: #kɑθvɑθ#}
-1      | #riːmiːt̪i# | *#rːʲˈiːmʲiːθʲi# | *#rːʲiːṽʲiθʲ# {GOLD: #rːʲiːṽʲiθʲ#}
-2      | #riːmiːt̪# | *#rːʲˈiːmʲiː# | *#rːʲiːṽʲi# {GOLD: #rːʲiːṽʲi#}
-3      | #let̪ɑs# | *#lːʲˈeθɑ# | *#lːʲeθ# {GOLD: #lːʲeθ#}
-4      | #t̪ent̪# | *#t̪ʲˈenːt̪# | *#t̪ʲeːd̪# {GOLD: #t̪ʲeːd̪#}
-5      | #t̪omet̪ent̪# | *#t̪ˈomʲeθʲˌenːt̪# | *#t̪omʲθʲeːd̪# {GOLD: #t̪omʲθʲeːd̪#}
-6      | #t̪oent̪ent̪# | *#t̪ʲˈenːt̪ʲenːt̪# | *#t̪ʲeːd̪ʲeːd̪# {GOLD: #t̪ʲed̪ʲeːd̪#}
-7      | #wenikɑros# | *#fʲˈinʲexˌɑro# | *#fʲinxɑr# {GOLD: #fʲinxɑr#}
-8      | #wiroɡɑlɑ# | *#fʲˈeroɣˌɑlɑ# | *#fʲerɣɑl# {GOLD: #fʲerɣɑl#}
-9      | #esoʔkenet̪lɑn# | *#ˈɑχoxʲˈenʲˌet̪lːɑ# | *#ɑxʲenʲeːlː# {GOLD: #ɑxʲenʲeːl#}
-10     | #esɑsʔkenet̪lɑn# | *#ˈɑχɑχkʲˈenʲˌet̪lːɑ# | *#ɑkʲenʲeːlː# {GOLD: #ɑkʲenʲeːl#}
-11     | #esɑnʔkenet̪lɑn# | *#ˈɑχɑnːkʲˈenʲˌet̪lːɑ# | *#ɑnːʲɡʲenʲeːlː# {GOLD: #ɑɡʲenʲeːl#}
-12     | #esoʔsuːlis# | *#ˈɑχuχˈuːlʲi# | *#ɑhuːlʲ# {GOLD: #ɑhuːlʲ#}
-13     | #esɑsʔsuːlis# | *#ˈɑχɑχsˈuːlʲi# | *#ɑsuːlʲ# {GOLD: #ɑsuːlʲi#}
-14     | #t̪oriːmo# | *#t̪ˈurʲeːmo# | *#t̪urʲeṽ# {GOLD: #t̪urʲeṽ#}
-15     | #niːsʔt̪oriːmiːt̪# | *#nːʲˈiːχt̪ˈurʲiːmʲiː# | *#nːʲiːt̪urʲiṽʲi# {GOLD: #nːʲiːt̪urːʲṽʲi#}
-16     | #ɡoni# | *#ɡˈunʲi# | *#ɡunʲ# {GOLD: #ɡunʲ#}
-17     | #klut̪ɑn# | *#klːˈoθɑ# | *#klːoθ# {GOLD: #klːoθ#}
-18     | #bit̪oːs# | *#bʲˈeθoː# | *#bʲeθo# {GOLD: #bʲeθo#}
-19     | #mroɡis# | *#mːrːˈuɣʲi# | *#mːrːuɣʲ# {GOLD: #mːrːuɣʲ#}
-20     | #moniklɑs# | *#mːˈunʲˌeklːɑ# | *#mːunʲeːlː# {GOLD: #mːunʲeːlː#}
-21     | #esoʔɡoni# | *#ˈɑχoɣˈunʲi# | *#ɑɣunʲ# {GOLD: #ɑɣunʲ#}
-22     | #esɑnʔɡoni# | *#ˈɑχɑnːɡˈunʲi# | *#ɑŋːɡunʲ# {GOLD: #ɑŋːɡunʲ#}
-23     | #sesɑnʔsuːliːs# | *#sˈɑχɑnːsˈuːlʲiː# | *#sɑsːuːlʲi# {GOLD: #ɑsuːlʲi#}
-24     | #esoʔlet̪ɑs# | *#ˈɑχolʲˈeθɑ# | *#ɑlʲeθ# {GOLD: #ɑlʲeθ#}
-25     | #nemos# | *#nːʲˈemo# | *#nːʲeṽ# {GOLD: #nːʲeṽ#}
-26     | #d̪ubnowɑlos# | *#d̪ˈobnːohˌɑlo# | *#d̪oːnːhɑl# {GOLD: #d̪oṽnɑl#}
-27     | #kɑmbos# | *#kˈɑmːbo# | *#kɑmːb# {GOLD: #kɑm#}
-28     | #ɑd̪ment̪os# | *#ˈɑd̪mːʲˌenːt̪o# | *#ɑːṽʲeːd̪# {GOLD: #ɑðməð#}
-29     | #ɑmst̪erɑ# | *#ˈɑmːst̪ʲerɑ# | *#ɑmːsʲt̪ʲer# {GOLD: #ɑmʲsʲer#}
-30     | #ɑmɑrom# | *#ˈɑmɑro# | *#ɑṽɑr# {GOLD: #ɑṽɑr#}
-31     | #ɑmɸlɑbɑros# | *#ˈɑmːlːɑβˌɑro# | *#ɑṽlːvɑr# {GOLD: #ɑṽlɑvɑr#}
-32     | #beismɑn# | *#bʲˈiˌeχmːɑ# | *#bʲiemː# {GOLD: #bʲeːmʲ#}
-33     | #kɑnxsmɑn# | *#kˈɑnːxsmːɑ# | *#kɑːxsmː# {GOLD: #kʲeːmʲ#}
-34     | #klɑmos# | *#klːˈɑmo# | *#klːɑṽ# {GOLD: #klːɑṽ#}
-35     | #knɑːmis# | *#knːˈɑːmʲi# | *#knːɑːṽʲ# {GOLD: #knːɑːṽʲ#}
-36     | #komɸroɑnkom# | *#kˈomːrːˌɑnːko# | *#koṽrːɑːɡ# {GOLD: #koṽrɑk#}
-37     | #kurmi# | *#kˈurːmːʲi# | *#kurːʲmːʲ# {GOLD: #kurːʲmːʲ#}
+etID  | Input | Stressed-Irish | Primitive-Irish | Output {GOLD}
+0      | #kɑt̪ubut̪ɑs# | *#kˈɑθuβˌoθɑ# | *#kˈɑθuβˌɑθɑ# | *#kɑθvɑθ# {GOLD: #kɑθvɑθ#}
+1      | #riːmiːt̪i# | *#rːʲˈiːmʲiːθʲi# | *#rːʲˈiːmʲiːθʲi# | *#rːʲiːṽʲiθʲ# {GOLD: #rːʲiːṽʲiθʲ#}
+2      | #riːmiːt̪# | *#rːʲˈiːmʲiː# | *#rːʲˈiːmʲiː# | *#rːʲiːṽʲi# {GOLD: #rːʲiːṽʲi#}
+3      | #let̪ɑs# | *#lːʲˈeθɑ# | *#lːʲˈeθɑ# | *#lːʲeθ# {GOLD: #lːʲeθ#}
+4      | #t̪ent̪# | *#t̪ʲˈenːt̪# | *#t̪ʲˈenːt̪# | *#t̪ʲeːd̪# {GOLD: #t̪ʲeːd̪#}
+5      | #t̪omet̪ent̪# | *#t̪ˈomʲeθʲˌenːt̪# | *#t̪ˈomʲeθʲˌenːt̪# | *#t̪omʲθʲeːd̪# {GOLD: #t̪omʲθʲeːd̪#}
+6      | #t̪oent̪ent̪# | *#t̪ʲˈenːt̪ʲenːt̪# | *#t̪ʲˈenːt̪ʲˌenːt̪# | *#t̪ʲeːd̪ʲeːd̪# {GOLD: #t̪ʲed̪ʲeːd̪#}
+7      | #wenikɑros# | *#fʲˈinʲexˌɑro# | *#fʲˈinʲexˌɑro# | *#fʲinxɑr# {GOLD: #fʲinxɑr#}
+8      | #wiroɡɑlɑ# | *#fʲˈeroɣˌɑlɑ# | *#fʲˈeroɣˌɑlɑ# | *#fʲerɣɑl# {GOLD: #fʲerɣɑl#}
+9      | #esoʔkenet̪lɑn# | *#ˈɑχoxʲˈenʲˌet̪lːɑ# | *#ˈɑχoxʲˈenʲˌet̪lːɑ# | *#ɑxʲenʲeːlː# {GOLD: #ɑxʲenʲeːl#}
+10     | #esɑsʔkenet̪lɑn# | *#ˈɑχɑχkʲˈenʲˌet̪lːɑ# | *#ˈɑχɑχkʲˈenʲˌet̪lːɑ# | *#ɑkʲenʲeːlː# {GOLD: #ɑkʲenʲeːl#}
+11     | #esɑnʔkenet̪lɑn# | *#ˈɑχɑnːkʲˈenʲˌet̪lːɑ# | *#ˈɑχɑnːkʲˈenʲˌet̪lːɑ# | *#ɑnːʲɡʲenʲeːlː# {GOLD: #ɑɡʲenʲeːl#}
+12     | #esoʔsuːlis# | *#ˈɑχuχˈuːlʲi# | *#ˈɑχuχˈuːlʲi# | *#ɑhuːlʲ# {GOLD: #ɑhuːlʲ#}
+13     | #esɑsʔsuːlis# | *#ˈɑχɑχsˈuːlʲi# | *#ˈɑχɑχsˈuːlʲi# | *#ɑsuːlʲ# {GOLD: #ɑsuːlʲi#}
+14     | #t̪oriːmo# | *#t̪ˈurʲeːmo# | *#t̪ˈurʲeːmɑ# | *#t̪urʲeṽ# {GOLD: #t̪urʲeṽ#}
+15     | #niːsʔt̪oriːmiːt̪# | *#nːʲˈiːχt̪ˈurʲiːmʲiː# | *#nːʲˈiːχt̪ˈurʲiːmʲiː# | *#nːʲiːt̪urʲiṽʲi# {GOLD: #nːʲiːt̪urːʲṽʲi#}
+16     | #ɡoni# | *#ɡˈunʲi# | *#ɡˈunʲi# | *#ɡunʲ# {GOLD: #ɡunʲ#}
+17     | #klut̪ɑn# | *#klːˈoθɑ# | *#klːˈoθɑ# | *#klːoθ# {GOLD: #klːoθ#}
+18     | #bit̪oːs# | *#bʲˈeθoː# | *#bʲˈeθoː# | *#bʲeθo# {GOLD: #bʲeθo#}
+19     | #mroɡis# | *#mːrːˈuɣʲi# | *#mːrːˈuɣʲi# | *#mːrːuɣʲ# {GOLD: #mːrːuɣʲ#}
+20     | #moniklɑs# | *#mːˈunʲˌeklːɑ# | *#mːˈunʲˌeklːɑ# | *#mːunʲeːlː# {GOLD: #mːunʲeːlː#}
+21     | #esoʔɡoni# | *#ˈɑχoɣˈunʲi# | *#ˈɑχoɣˈunʲi# | *#ɑɣunʲ# {GOLD: #ɑɣunʲ#}
+22     | #esɑnʔɡoni# | *#ˈɑχɑnːɡˈunʲi# | *#ˈɑχɑnːɡˈunʲi# | *#ɑŋːɡunʲ# {GOLD: #ɑŋːɡunʲ#}
+23     | #sesɑnʔsuːliːs# | *#sˈɑχɑnːsˈuːlʲiː# | *#sˈɑχɑsːˈuːlʲiː# | *#sɑsːuːlʲi# {GOLD: #ɑsuːlʲi#}
+24     | #esoʔlet̪ɑs# | *#ˈɑχolʲˈeθɑ# | *#ˈɑχolʲˈeθɑ# | *#ɑlʲeθ# {GOLD: #ɑlʲeθ#}
+25     | #nemos# | *#nːʲˈemo# | *#nːʲˈemɑ# | *#nːʲeṽ# {GOLD: #nːʲeṽ#}
+26     | #d̪ubnowɑlos# | *#d̪ˈobnːohˌɑlo# | *#d̪ˈobnːohˌɑlo# | *#d̪oːnːhɑl# {GOLD: #d̪oṽnɑl#}
+27     | #kɑmbos# | *#kˈɑmːbo# | *#kˈɑmːbɑ# | *#kɑmːb# {GOLD: #kɑm#}
+28     | #ɑd̪ment̪os# | *#ˈɑd̪mːʲˌenːt̪o# | *#ˈɑd̪mːʲˌenːt̪o# | *#ɑːṽʲeːd̪# {GOLD: #ɑðməð#}
+29     | #ɑmst̪erɑ# | *#ˈɑmːst̪ʲerɑ# | *#ˈɑmːst̪ʲerɑ# | *#ɑmːsʲt̪ʲer# {GOLD: #ɑmʲsʲer#}
+30     | #ɑmɑrom# | *#ˈɑmɑro# | *#ˈɑmɑro# | *#ɑṽɑr# {GOLD: #ɑṽɑr#}
+31     | #ɑmɸlɑbɑros# | *#ˈɑmːlːɑβˌɑro# | *#ˈɑmːlːɑβˌɑro# | *#ɑṽlːvɑr# {GOLD: #ɑṽlɑvɑr#}
+32     | #beismɑn# | *#bʲˈiˌeχmːɑ# | *#bʲˈiˌeχmːɑ# | *#bʲiemː# {GOLD: #bʲeːmʲ#}
+33     | #kɑnxsmɑn# | *#kˈɑnːxsmːɑ# | *#kˈɑnːxsmːɑ# | *#kɑːxsmː# {GOLD: #kʲeːmʲ#}
+34     | #klɑmos# | *#klːˈɑmo# | *#klːˈɑmɑ# | *#klːɑṽ# {GOLD: #klːɑṽ#}
+35     | #knɑːmis# | *#knːˈɑːmʲi# | *#knːˈɑːmʲi# | *#knːɑːṽʲ# {GOLD: #knːɑːṽʲ#}
+36     | #komɸroɑnkom# | *#kˈomːrːˌɑnːko# | *#kˈomːrːˌɑnːko# | *#koṽrːɑːɡ# {GOLD: #koṽrɑk#}
+37     | #kurmi# | *#kˈurːmːʲi# | *#kˈurːmːʲi# | *#kurːʲmːʲ# {GOLD: #kurːʲmːʲ#}

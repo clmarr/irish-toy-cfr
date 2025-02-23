@@ -10,6 +10,7 @@ d̪ u b n o w ɑ l o s
 *#d̪ˈobnːohɑlo# | 16 : [+hi,+syl] > [-hi] / __ ( [-syl] )* [-hi,+back,+syl]
 *#d̪ˈobnːohˌɑlo# | 17 : [+syl] > [+stres,+syl,+son,0delrel] / [+stres] ( [-syl] )* [-stres] ( [-syl] )* __ @
 Stressed-Irish stage form : *#d̪ˈobnːohˌɑlo#
+Primitive-Irish stage form : *#d̪ˈobnːohˌɑlo#
 *#d̪ˈohnːohˌɑlo# | 30 : [-cont] > h / __ [-syl] ( [-syl] )* [+syl,-prim]
 *#d̪ˈoːhnːohˌɑlo# | 32 : [+stres] > [+long] / __ h
 *#d̪ˈoːhnːhˌɑl# | 34 : [-stres,-long] > ∅ 
